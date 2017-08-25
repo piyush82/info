@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/piyush
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://piyush-harsh.info
+  * I am piyush (https://keybase.io/piyush) on keybase.
+  * I have a public key with fingerprint B211 8638 4B6C 62C2 9A6D  9B0A E69F 4891 E24D AEE3
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b21186384b6c62c29a6d9b0ae69f4891e24daee3",
+            "host": "keybase.io",
+            "key_id": "e69f4891e24daee3",
+            "uid": "687066069047218d4f821379bf1adb00",
+            "username": "piyush"
+        },
+        "service": {
+            "hostname": "piyush-harsh.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1416491347,
+    "expire_in": 157680000,
+    "prev": "d96581859a772ec759ee90c23f2412e6c2d32816a87a5aa823d1d8d76c298948",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owFtUV1IFFEY3TWNXJMyWyHYDK5pESbztzN3ljIyAkEDW+ohU7b5ubM75c5Ms+PW
+omYYhWbJhigW9RISWfggFSmCikQSJoUKSUVEtlSk0Yr50xo0I/UQdF8+7jnnO9/5
++KLpa2wOe3g+TxtJzdhqHx36wduOBONCDeBVMQI8NeAUWi2SrPiRrumyYgAP4Akc
+hzQJKZ4WaEIgWI4WWR7jEM1KFGRxRFAihxAJ8kFADVkdpg3PhVCBrJqY+fHJoon+
+R1+9StCQwWgao1mMYggcipQECZxkWF7COZHHMEsYQrrCBZGp1uRIdSgA6vKBiYVl
+AVmJrcH/8LsDnB4KFMiKZGXQdNVQBbXKpAOGoXmsbiOiWfIziPf9MfLxsiKaq5sN
+YaSHZFUBHtxUCoZsOeMUTlMsTlJMPkBnNVlHPtlSuBkaYuazxqCwaSmytBvi0M1y
+DEMggXGzCLGYQJASQeEEogVCJAmI0xxkODfHQYIUcRGKjEmwkKUgsFY7rajAQ5ox
+Ob9pGZL9CmdU6wjUOZrsrmSb3WFbm5JkXc/mSN3496bne9fZum/H6gabF11jE/Ho
+6/XKM6f7bk5D1onP9e0rpYttbVXlK4mBxrKb472t0ejUvStSVXLlLLze0hdIQrlH
+h5f6k+ShkUule2cu0svD3oGeaw9OOrKOHXoeCSZefnzVf+HcYG1xsWjMJcp/btv/
+Zv5WizfWWZ+ZSxUuj4yXSa5e90z5ii9tcqwhe0P7YE5P5773j5rJILFY9OGWU8jc
+MpPS1QiFA9kdo/iXpo4878KCv7LCaUzfV+WnZYWf3k08aS1xZbx4m73Lu+PG0uPD
+V0Fn7XQiNpV+HGSUdPTVd2/6JtXEkx9u/z67Mx67XJFnm+vq+fW1oWhyz8E7TWnO
+zdpv
+=eatC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/piyush
+
+==================================================================
+

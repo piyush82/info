@@ -1,0 +1,261 @@
+@charset "iso-8859-1";
+body 
+	{
+		font-family: "Times New Roman"; 
+		font-size: 8pt;
+		color: #8C8C8C;
+		background: white;
+	}
+ 
+table.stylish
+	{
+		border-top-width: 1px; 
+		border-top-style: dashed; 
+		border-right-width: 1px; 
+		border-right-style: solid; 
+		border-left-width: 1px;
+		border-left-style: solid; 
+		border-bottom-width: 1px;
+		border-bottom-style: dashed;
+		border-color: white; 
+		background-color: #CCCC99;
+	}  
+
+table.stylish2
+	{
+		border-top-width: 1px; 
+		border-top-style: dashed; 
+		border-right-width: 1px; 
+		border-right-style: solid; 
+		border-left-width: 1px;
+		border-left-style: solid; 
+		border-bottom-width: 1px;
+		border-bottom-style: dashed;
+		border-color: white; 
+		background-color: #CCCC99;
+	}
+
+td.left
+	{
+		border-top-width: 1px; 
+		border-top-style: dashed; 
+		border-right-width: 1px; 
+		border-right-style: solid; 
+		border-left-width: 1px;
+		border-left-style: solid; 
+		border-bottom-width: 1px;
+		border-bottom-style: dashed;
+		border-color: #9B9B9B; 
+		background-color: #F2F2F2;
+	}
+
+td.viewfile
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: navy;
+		border-top-width: 1px;
+                border-top-style: dashed;
+                border-right-width: 1px;  
+                border-right-style: solid;
+                border-left-width: 1px;
+                border-left-style: solid;
+                border-bottom-width: 1px;
+                border-bottom-style: dashed;
+                border-color: #9B9B9B;   
+                background-color: #F2F2F2;
+	}
+
+form.login
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: #666666;
+	}
+
+form.register
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: #666666;
+		background: white;
+	}
+
+form.contact
+	{
+		 font-family: "Arial";
+		 font-size: 10pt;
+		 color: #666666;
+	}
+
+select.contact
+	{
+		font-family: "Verdana";
+		font-size: 7pt;
+		color: black;
+		border: 0;
+	}
+
+select.error
+	{
+		font-family: "Verdana";
+		font-size: 7pt;
+		color: black;
+		background: yellow;
+		border: 0;
+	}
+
+textarea.contact
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: black;
+		background: white;
+		border-top-width: 0px; 
+		border-top-style: dashed; 
+		border-right-width: 0px; 
+		border-right-style: solid; 
+		border-left-width: 0px;
+		border-left-style: dashed; 
+		border-bottom-width: 0px;
+		border-bottom-style: dashed;
+	}
+	
+input.contact
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: #666699;
+		background: white;
+		border-top-width: 0px; 
+		border-top-style: dashed; 
+		border-right-width: 0px; 
+		border-right-style: solid; 
+		border-left-width: 0px;
+		border-left-style: solid; 
+		border-bottom-width: 1px;
+		border-bottom-style: dashed;
+	}
+	
+input.error
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: navy;
+		background: yellow;
+		border-color: #0C0C0C;
+		border-top-width: 0px; 
+		border-top-style: dashed; 
+		border-right-width: 0px; 
+		border-right-style: solid; 
+		border-left-width: 0px;
+		border-left-style: solid; 
+		border-bottom-width: 1px;
+		border-bottom-style: dashed;
+	}
+	
+input.register
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: navy;
+		background: white;
+		border-color: #0C0C0C;
+		border-top-width: 0px; 
+		border-top-style: dashed; 
+		border-right-width: 0px; 
+		border-right-style: solid; 
+		border-left-width: 0px;
+		border-left-style: solid; 
+		border-bottom-width: 1px;
+		border-bottom-style: dashed;
+	}
+
+input.login
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: #666699;
+		border: 0;
+	}
+
+input.general
+        {
+                font-family: "Verdana";
+                font-size: 8pt;
+                color: #666699;
+        }
+
+input.admin
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: #666699;
+		border-top-width: 0px; 
+		border-top-style: dashed; 
+		border-right-width: 0px; 
+		border-right-style: solid; 
+		border-left-width: 0px;
+		border-left-style: solid; 
+		border-bottom-width: 1px;
+		border-bottom-style: dashed;
+	}
+
+fieldset.admin
+        {       
+                font-family: "Verdana";
+                font-size: 8pt;
+                color: navy;
+		background: #F4F4F4;
+                border-top-width: 0px;
+                border-top-style: dashed;
+                border-right-width: 0px;
+                border-right-style: solid;
+                border-left-width: 0px;
+                border-left-style: solid;
+                border-bottom-width: 0px;
+                border-bottom-style: dashed;
+        }
+
+p.justify
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: #666699;
+		text-align: justify;
+	}
+
+p
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+	}
+
+p.front
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		color: #000099;
+		text-align: justify;
+	}
+
+p.inst
+	{
+		font-family: "Verdana";
+		font-size: 8pt;
+		font-weight: bold;
+		color: black;
+		text-align: justify;
+	}
+
+ol.inst
+	{
+		font-family: "Arial";
+		font-size: 10pt;
+		color: black;
+		text-align: justify;
+	} 
+
+a:link { color: #6699FF; }
+a:visited { color: #6699FF; }
+a:hover {color: #6666FF; }

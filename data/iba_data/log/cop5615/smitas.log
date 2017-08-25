@@ -1,0 +1,166 @@
+<<1156607966 ^ 70.171.10.78:60973 register1.php succ>>
+<<1156608095 ^ 70.171.10.78:61248 selectpass.php succ count 5>>
+<<1156608108 ^ 70.171.10.78:61251 training.php disp 3>>
+<<1156608127 ^ 70.171.10.78:61317 training.php disp 1>>
+<<1156608159 ^ 70.171.10.78:61363 training.php disp 2>>
+<<1156608190 ^ 70.171.10.78:61464 training.php fail missed 2 extra 2>>
+<<1156608273 ^ 70.171.10.78:61468 training.php disp 3>>
+<<1156608290 ^ 70.171.10.78:61512 training.php disp 2>>
+<<1156608364 ^ 70.171.10.78:61568 training.php disp 1>>
+<<1156608447 ^ 70.171.10.78:61584 training.php fail missed 4 extra 1>>
+<<1156608462 ^ 70.171.10.78:61586 % smitas adminlogout.php lout>>
+<<1156724784 ^ 70.171.10.78:61512 training.php disp 1>>
+<<1156724835 ^ 70.171.10.78:61649 training.php disp 3>>
+<<1156724878 ^ 70.171.10.78:61761 training.php disp 2>>
+<<1156724899 ^ 70.171.10.78:61839 training.php fail missed 3 extra 2>>
+<<1156724940 ^ 70.171.10.78:61841 training.php disp 3>>
+<<1156724971 ^ 70.171.10.78:61861 training.php disp 1>>
+<<1156725003 ^ 70.171.10.78:61867 training.php disp 2>>
+<<1156725010 ^ 70.171.10.78:61887 training.php succ>>
+<<1156725034 ^ 70.171.10.78:61889 training.php disp 2>>
+<<1156725066 ^ 70.171.10.78:61949 training.php disp 3>>
+<<1156725090 ^ 70.171.10.78:61961 training.php disp 1>>
+<<1156725119 ^ 70.171.10.78:61965 training.php succ>>
+<<1156725129 ^ 70.171.10.78:61967 training.php disp 2>>
+<<1156725173 ^ 70.171.10.78:61987 training.php disp 1>>
+<<1156725204 ^ 70.171.10.78:61989 training.php disp 3>>
+<<1156725207 ^ 70.171.10.78:61991 training.php succ>>
+<<1156725227 ^ 70.171.10.78:61993 training.php disp 2>>
+<<1156725264 ^ 70.171.10.78:62011 training.php disp 3>>
+<<1156725290 ^ 70.171.10.78:62015 training.php disp 1>>
+<<1156725317 ^ 70.171.10.78:62017 training.php fail missed 0 extra 2>>
+<<1156725354 ^ 70.171.10.78:62019 training.php disp 2>>
+<<1156725377 ^ 70.171.10.78:62037 training.php disp 1>>
+<<1156725397 ^ 70.171.10.78:62039 training.php disp 3>>
+<<1156725400 ^ 70.171.10.78:62041 training.php succ>>
+<<1156725414 ^ 70.171.10.78:62043 % smitas adminlogout.php lout>>
+<<1156725445 ^ 70.171.10.78:62051 training.php disp 2>>
+<<1156725462 ^ 70.171.10.78:62057 training.php disp 3>>
+<<1156725481 ^ 70.171.10.78:62059 training.php disp 1>>
+<<1156725501 ^ 70.171.10.78:62061 training.php succ>>
+<<1156725505 ^ 70.171.10.78:62063 % smitas adminlogout.php lout>>
+<<1156725565 ^ 70.171.10.78:62070 login.php atst status 2>>
+<<1156725566 ^ 70.171.10.78:62071 authenticate.php disp 3>>
+<<1156725596 ^ 70.171.10.78:62073 authenticate.php disp 2>>
+<<1156725627 ^ 70.171.10.78:62085 authenticate.php disp 1>>
+<<1156725642 ^ 70.171.10.78:62087 authenticate.php succ>>
+<<1156725785 ^ 70.171.10.78:62151 % smitas adminlogout.php lout>>
+<<1156725794 ^ 70.171.10.78:62158 login.php atst status 2>>
+<<1156725795 ^ 70.171.10.78:62159 authenticate.php disp 1>>
+<<1156725820 ^ 70.171.10.78:62162 authenticate.php disp 3>>
+<<1156725832 ^ 70.171.10.78:62166 authenticate.php disp 2>>
+<<1156725839 ^ 70.171.10.78:62170 authenticate.php succ>>
+<<1156726196 ^ 70.171.10.78:62179 login.php atst status 2>>
+<<1156726197 ^ 70.171.10.78:62180 authenticate.php disp 3>>
+<<1156726211 ^ 70.171.10.78:62182 authenticate.php disp 2>>
+<<1156726225 ^ 70.171.10.78:62186 authenticate.php disp 1>>
+<<1156726241 ^ 70.171.10.78:62188 authenticate.php fail missed 2 extra 0>>
+<<1156726252 ^ 70.171.10.78:62190 % smitas adminlogout.php lout>>
+<<1156726263 ^ 70.171.10.78:62197 login.php atst status 2>>
+<<1156726263 ^ 70.171.10.78:62198 authenticate.php disp 3>>
+<<1156726276 ^ 70.171.10.78:62200 authenticate.php disp 2>>
+<<1156726288 ^ 70.171.10.78:62202 authenticate.php disp 1>>
+<<1156726314 ^ 70.171.10.78:62204 authenticate.php succ>>
+<<1156726350 ^ 70.171.10.78:62210 % smitas adminlogout.php lout>>
+<<1156912805 ^ 70.171.10.78:63123 login.php atst status 2>>
+<<1156912806 ^ 70.171.10.78:63126 authenticate.php disp 3>>
+<<1156912828 ^ 70.171.10.78:63238 authenticate.php disp 2>>
+<<1156912844 ^ 70.171.10.78:63308 authenticate.php disp 1>>
+<<1156912865 ^ 70.171.10.78:63408 authenticate.php succ>>
+<<1156912922 ^ 70.171.10.78:63412 % smitas adminlogout.php lout>>
+<<1157170943 ^ 70.171.10.78:60409 login.php atst status 2>>
+<<1157170944 ^ 70.171.10.78:60412 authenticate.php disp 1>>
+<<1157171012 ^ 70.171.10.78:60511 authenticate.php disp 2>>
+<<1157171024 ^ 70.171.10.78:60565 authenticate.php disp 3>>
+<<1157171027 ^ 70.171.10.78:60603 authenticate.php succ>>
+<<1157171134 ^ 70.171.10.78:60609 % smitas adminlogout.php lout>>
+<<1157641012 ^ 70.171.10.78:63006 login.php atst status 2>>
+<<1157641013 ^ 70.171.10.78:63012 authenticate.php disp 3>>
+<<1157641040 ^ 70.171.10.78:63136 authenticate.php disp 1>>
+<<1157641068 ^ 70.171.10.78:63234 authenticate.php disp 2>>
+<<1157641082 ^ 70.171.10.78:63299 authenticate.php succ>>
+<<1157641183 ^ 70.171.10.78:63334 % smitas adminlogout.php lout>>
+<<1158163447 ^ 70.171.10.78:63152 login.php atst status 2>>
+<<1158163448 ^ 70.171.10.78:63155 authenticate.php disp 1>>
+<<1158163470 ^ 70.171.10.78:63265 authenticate.php disp 2>>
+<<1158163479 ^ 70.171.10.78:63325 authenticate.php disp 3>>
+<<1158163480 ^ 70.171.10.78:63363 authenticate.php succ>>
+<<1158163852 ^ 70.171.10.78:63399 % smitas adminlogout.php lout>>
+<<1158885612 ^ 70.171.10.78:60441 login.php atst status 2>>
+<<1158885613 ^ 70.171.10.78:60444 authenticate.php disp 2>>
+<<1158885635 ^ 70.171.10.78:60566 authenticate.php disp 1>>
+<<1158885651 ^ 70.171.10.78:60646 authenticate.php disp 3>>
+<<1158885655 ^ 70.171.10.78:60684 authenticate.php succ>>
+<<1158885707 ^ 70.171.10.78:60705 % smitas adminlogout.php lout>>
+<<1159735686 ^ 70.171.28.130:60097 login.php atst status 2>>
+<<1159735687 ^ 70.171.28.130:60100 authenticate.php disp 1>>
+<<1159735707 ^ 70.171.28.130:60203 authenticate.php disp 3>>
+<<1159735726 ^ 70.171.28.130:60290 authenticate.php disp 2>>
+<<1159735729 ^ 70.171.28.130:60340 authenticate.php succ>>
+<<1159735823 ^ 70.171.28.130:60352 % smitas adminlogout.php lout>>
+<<1159947065 ^ 70.171.28.130:63300 login.php atst status 2>>
+<<1159947065 ^ 70.171.28.130:63304 authenticate.php disp 2>>
+<<1159947070 ^ 70.171.28.130:63388 authenticate.php disp 1>>
+<<1159947087 ^ 70.171.28.130:63493 authenticate.php disp 3>>
+<<1159947089 ^ 70.171.28.130:63537 authenticate.php succ>>
+<<1159947238 ^ 70.171.28.130:63554 % smitas adminlogout.php lout>>
+<<1159988598 ^ 70.171.28.130:60292 login.php atst status 2>>
+<<1159988599 ^ 70.171.28.130:60296 authenticate.php disp 3>>
+<<1159988621 ^ 70.171.28.130:60419 authenticate.php disp 2>>
+<<1159988635 ^ 70.171.28.130:60504 authenticate.php disp 1>>
+<<1159988644 ^ 70.171.28.130:60577 authenticate.php succ>>
+<<1159988847 ^ 70.171.28.130:60624 % smitas adminlogout.php lout>>
+<<1160065382 ^ 128.227.248.147:4869 login.php atst status 2>>
+<<1160065382 ^ 128.227.248.147:4872 authenticate.php disp 2>>
+<<1160065390 ^ 128.227.248.147:4939 authenticate.php disp 1>>
+<<1160065410 ^ 128.227.248.147:1121 authenticate.php disp 3>>
+<<1160065412 ^ 128.227.248.147:1159 authenticate.php succ>>
+<<1160065470 ^ 128.227.248.147:1165 % smitas adminlogout.php lout>>
+<<1160449902 ^ 10.228.8.191:4254 login.php atst status 2>>
+<<1160449903 ^ 10.228.8.191:4258 authenticate.php disp 1>>
+<<1160449926 ^ 10.228.8.191:4371 authenticate.php disp 2>>
+<<1160449934 ^ 10.228.8.191:4419 authenticate.php disp 3>>
+<<1160449936 ^ 10.228.8.191:4457 authenticate.php succ>>
+<<1160450100 ^ 10.228.8.191:4467 % smitas adminlogout.php lout>>
+<<1161703320 ^ 10.228.8.16:1399 login.php atst status 2>>
+<<1161703322 ^ 10.228.8.16:1403 authenticate.php disp 3>>
+<<1161703336 ^ 10.228.8.16:1498 authenticate.php disp 1>>
+<<1161703365 ^ 10.228.8.16:1632 authenticate.php disp 2>>
+<<1161703372 ^ 10.228.8.16:1708 authenticate.php succ>>
+<<1161703407 ^ 10.228.8.16:1712 % smitas adminlogout.php lout>>
+<<1163811056 ^ 72.196.101.169:60793 login.php atst status 2>>
+<<1163811057 ^ 72.196.101.169:60797 authenticate.php disp 1>>
+<<1163811115 ^ 72.196.101.169:60946 authenticate.php disp 2>>
+<<1163811127 ^ 72.196.101.169:61003 authenticate.php disp 3>>
+<<1163811130 ^ 72.196.101.169:61041 authenticate.php succ>>
+<<1163811196 ^ 72.196.101.169:61046 % smitas adminlogout.php lout>>
+<<1164132095 ^ 72.196.101.169:60538 login.php atst status 2>>
+<<1164132100 ^ 72.196.101.169:60553 authenticate.php disp 3>>
+<<1164132145 ^ 72.196.101.169:60680 authenticate.php disp 1>>
+<<1164132206 ^ 72.196.101.169:60885 authenticate.php disp 2>>
+<<1164132226 ^ 72.196.101.169:60951 authenticate.php succ>>
+<<1164132249 ^ 72.196.101.169:60995 % smitas adminlogout.php lout>>
+<<1164782296 ^ 10.242.60.178:1316 login.php atst status 2>>
+<<1164782297 ^ 10.242.60.178:1319 authenticate.php disp 2>>
+<<1164782304 ^ 10.242.60.178:1378 authenticate.php disp 1>>
+<<1164782325 ^ 10.242.60.178:1468 authenticate.php disp 3>>
+<<1164782328 ^ 10.242.60.178:1506 authenticate.php succ>>
+<<1164782523 ^ 10.242.60.178:1520 % smitas adminlogout.php lout>>
+<<1164782532 ^ 10.242.60.178:1527 login.php atst status 2>>
+<<1164782532 ^ 10.242.60.178:1528 authenticate.php disp 2>>
+<<1164782538 ^ 10.242.60.178:1598 authenticate.php disp 3>>
+<<1164782544 ^ 10.242.60.178:1600 authenticate.php disp 1>>
+<<1164782560 ^ 10.242.60.178:1668 authenticate.php succ>>
+<<1164782660 ^ 10.242.60.178:1674 % smitas adminlogout.php lout>>
+<<1164785920 ^ 72.196.101.169:62404 login.php atst status 2>>
+<<1164785921 ^ 72.196.101.169:62407 authenticate.php disp 3>>
+<<1164786250 ^ 72.196.101.169:62664 authenticate.php disp 1>>
+<<1164786262 ^ 72.196.101.169:62754 authenticate.php disp 2>>
+<<1164786268 ^ 72.196.101.169:62823 authenticate.php succ>>
+<<1164786402 ^ 72.196.101.169:62907 % smitas adminlogout.php lout>>
+<<1165634627 ^ 72.196.101.169:62678 login.php atst status 2>>
+<<1165634628 ^ 72.196.101.169:62682 authenticate.php disp 1>>
+<<1165634660 ^ 72.196.101.169:62875 authenticate.php disp 2>>
+<<1165634666 ^ 72.196.101.169:62929 authenticate.php disp 3>>
+<<1165634668 ^ 72.196.101.169:62967 authenticate.php succ>>
+<<1165634701 ^ 72.196.101.169:62974 % smitas adminlogout.php lout>>

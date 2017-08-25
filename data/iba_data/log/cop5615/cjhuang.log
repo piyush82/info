@@ -1,0 +1,57 @@
+<<1156858814 ^ 128.227.110.139:55169 register1.php succ>>
+<<1156859068 ^ 128.227.110.139:55203 selectpass.php succ count 6>>
+<<1156859233 ^ 128.227.110.139:55207 % cjhuang adminlogout.php lout>>
+<<1157632867 ^ 128.227.110.139:52640 training.php disp 3>>
+<<1157632913 ^ 128.227.110.139:52648 training.php disp 2>>
+<<1157632944 ^ 128.227.110.139:52652 training.php disp 1>>
+<<1157632982 ^ 128.227.110.139:52665 training.php fail missed 1 extra 0>>
+<<1157633006 ^ 128.227.110.139:52667 training.php disp 3>>
+<<1157633031 ^ 128.227.110.139:52668 training.php disp 1>>
+<<1157633086 ^ 128.227.110.139:52676 training.php disp 2>>
+<<1157633091 ^ 128.227.110.139:52677 training.php succ>>
+<<1157633103 ^ 128.227.110.139:52678 % cjhuang adminlogout.php lout>>
+<<1157633161 ^ 128.227.110.139:52680 login.php atst status 2>>
+<<1157633161 ^ 128.227.110.139:52680 authenticate.php disp 2>>
+<<1157633185 ^ 128.227.110.139:52682 authenticate.php disp 3>>
+<<1157633199 ^ 128.227.110.139:52683 authenticate.php disp 1>>
+<<1157633232 ^ 128.227.110.139:52684 authenticate.php succ>>
+<<1157633319 ^ 128.227.110.139:52701 login.php atst status 2>>
+<<1157633319 ^ 128.227.110.139:52701 authenticate.php disp 1>>
+<<1157633343 ^ 128.227.110.139:52704 authenticate.php disp 2>>
+<<1157633348 ^ 128.227.110.139:52705 authenticate.php disp 3>>
+<<1157633350 ^ 128.227.110.139:52707 authenticate.php succ>>
+<<1157633381 ^ 128.227.110.139:52708 % cjhuang adminlogout.php lout>>
+<<1157633596 ^ 128.227.110.139:52720 login.php atst status 2>>
+<<1157633596 ^ 128.227.110.139:52720 authenticate.php disp 2>>
+<<1157633605 ^ 128.227.110.139:52722 authenticate.php disp 3>>
+<<1157633617 ^ 128.227.110.139:52723 authenticate.php disp 1>>
+<<1157633641 ^ 128.227.110.139:52724 authenticate.php fail missed 1 extra 0>>
+<<1157633650 ^ 128.227.110.139:52726 login.php atst status 2>>
+<<1157633650 ^ 128.227.110.139:52726 authenticate.php disp 2>>
+<<1157633654 ^ 128.227.110.139:52729 authenticate.php disp 1>>
+<<1157633696 ^ 128.227.110.139:52732 authenticate.php disp 3>>
+<<1157633698 ^ 128.227.110.139:52733 authenticate.php succ>>
+<<1157633741 ^ 128.227.110.139:52735 % cjhuang adminlogout.php lout>>
+<<1158310508 ^ 24.250.235.173:32818 login.php atst status 2>>
+<<1158310510 ^ 24.250.235.173:32770 authenticate.php disp 2>>
+<<1158310520 ^ 24.250.235.173:32878 authenticate.php disp 1>>
+<<1158310541 ^ 24.250.235.173:32886 authenticate.php disp 3>>
+<<1158310545 ^ 24.250.235.173:32886 authenticate.php succ>>
+<<1158310593 ^ 24.250.235.173:32842 % cjhuang adminlogout.php lout>>
+<<1159626337 ^ 24.250.234.158:1138 login.php atst status 2>>
+<<1159626337 ^ 24.250.234.158:1139 authenticate.php disp 3>>
+<<1159626359 ^ 24.250.234.158:1147 authenticate.php disp 1>>
+<<1159626401 ^ 24.250.234.158:1148 authenticate.php disp 2>>
+<<1159626415 ^ 24.250.234.158:1151 authenticate.php succ>>
+<<1159626464 ^ 24.250.234.158:1153 % cjhuang adminlogout.php lout>>
+<<1159820463 ^ 10.228.0.125:1482 login.php atst status 2>>
+<<1159820464 ^ 10.228.0.125:1483 authenticate.php disp 2>>
+<<1159820472 ^ 10.228.0.125:1484 authenticate.php disp 3>>
+<<1159820486 ^ 10.228.0.125:1488 authenticate.php disp 1>>
+<<1159820503 ^ 10.228.0.125:1491 authenticate.php fail missed 1 extra 0>>
+<<1159820514 ^ 10.228.0.125:1492 login.php atst status 2>>
+<<1159820514 ^ 10.228.0.125:1492 authenticate.php disp 3>>
+<<1159820531 ^ 10.228.0.125:1497 authenticate.php disp 2>>
+<<1159820540 ^ 10.228.0.125:1497 authenticate.php disp 1>>
+<<1159820553 ^ 10.228.0.125:1497 authenticate.php succ>>
+<<1159820587 ^ 10.228.0.125:1501 % cjhuang adminlogout.php lout>>

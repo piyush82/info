@@ -1,0 +1,419 @@
+<<1158136347 ^ 203.196.131.130:55912 register1.php succ>>
+<<1158137700 ^ 210.212.127.8:46249 selectpass.php succ count 15>>
+<<1158137792 ^ 210.212.127.8:49297 training.php disp 3>>
+<<1158138014 ^ 210.212.127.8:56720 training.php disp 2>>
+<<1158138104 ^ 210.212.127.8:32996 training.php disp 1>>
+<<1158138190 ^ 203.196.131.130:36138 training.php fail missed 2 extra 1>>
+<<1158138458 ^ 203.196.131.130:45069 training.php disp 2>>
+<<1158138543 ^ 203.196.131.130:48076 training.php disp 1>>
+<<1158138639 ^ 203.196.131.130:51415 training.php disp 3>>
+<<1158138704 ^ 203.196.131.130:53824 training.php fail missed 4 extra 0>>
+<<1158138782 ^ 210.212.127.8:56688 training.php disp 3>>
+<<1158138842 ^ 210.212.127.8:59141 training.php disp 2>>
+<<1158139116 ^ 210.212.127.8:40181 training.php disp 1>>
+<<1158139174 ^ 210.212.127.8:42299 training.php fail missed 3 extra 0>>
+<<1158139227 ^ 210.212.127.8:44339 training.php disp 1>>
+<<1158139289 ^ 210.212.127.8:46803 training.php disp 2>>
+<<1158139348 ^ 203.196.131.130:48929 training.php disp 3>>
+<<1158139400 ^ 203.196.131.130:50943 training.php succ>>
+<<1158139426 ^ 203.196.131.130:51893 training.php disp 2>>
+<<1158139476 ^ 203.196.131.130:53708 training.php disp 3>>
+<<1158139542 ^ 203.196.131.130:56001 training.php disp 1>>
+<<1158139591 ^ 203.196.131.130:57754 training.php succ>>
+<<1158139612 ^ 203.196.131.130:58408 training.php disp 3>>
+<<1158139664 ^ 203.196.131.130:60285 training.php disp 1>>
+<<1158139716 ^ 203.196.131.130:34004 training.php disp 2>>
+<<1158139789 ^ 203.196.131.130:36785 training.php fail missed 1 extra 1>>
+<<1158139818 ^ 203.196.131.130:37883 training.php disp 3>>
+<<1158139866 ^ 203.196.131.130:39402 training.php disp 1>>
+<<1158140019 ^ 210.212.127.8:43261 training.php disp 2>>
+<<1158140075 ^ 210.212.127.8:45194 training.php succ>>
+<<1158140132 ^ 210.212.127.8:46747 training.php disp 2>>
+<<1158140175 ^ 210.212.127.8:48253 training.php disp 1>>
+<<1158140217 ^ 210.212.127.8:49614 training.php disp 3>>
+<<1158140263 ^ 210.212.127.8:50996 training.php succ>>
+<<1158140283 ^ 210.212.127.8:51514 training.php disp 1>>
+<<1158140351 ^ 210.212.127.8:53491 training.php disp 3>>
+<<1158140395 ^ 210.212.127.8:55195 training.php disp 2>>
+<<1158140440 ^ 210.212.127.8:56698 training.php succ>>
+<<1158140460 ^ 210.212.127.8:57413 training.php disp 2>>
+<<1158140503 ^ 210.212.127.8:59037 training.php disp 1>>
+<<1158140548 ^ 203.196.131.130:60629 training.php disp 3>>
+<<1158140600 ^ 203.196.131.130:34664 training.php succ>>
+<<1158140626 ^ 203.196.131.130:35471 training.php disp 2>>
+<<1158140668 ^ 203.196.131.130:36891 training.php disp 1>>
+<<1158140707 ^ 203.196.131.130:38329 training.php disp 3>>
+<<1158140749 ^ 203.196.131.130:40017 training.php succ>>
+<<1158140777 ^ 203.196.131.130:41004 % kprakash adminlogout.php lout>>
+<<1158140960 ^ 203.196.131.130:47475 training.php disp 2>>
+<<1158141004 ^ 203.196.131.130:49375 training.php disp 1>>
+<<1158141050 ^ 203.196.131.130:51068 training.php disp 3>>
+<<1158141089 ^ 203.196.131.130:52724 training.php succ>>
+<<1158141117 ^ 210.212.127.8:53801 % kprakash adminlogout.php lout>>
+<<1158141178 ^ 210.212.127.8:56382 % kprakash adminlogout.php lout>>
+<<1158161277 ^ 203.196.131.130:48363 training.php disp 1>>
+<<1158161440 ^ 203.196.131.130:53462 training.php disp 3>>
+<<1158161542 ^ 203.196.131.130:56507 training.php disp 2>>
+<<1158161664 ^ 203.196.131.130:60451 training.php succ>>
+<<1158161713 ^ 203.196.131.130:33354 training.php disp 1>>
+<<1158161838 ^ 203.196.131.130:37001 training.php disp 2>>
+<<1158161875 ^ 203.196.131.130:38171 training.php disp 3>>
+<<1158161927 ^ 203.196.131.130:39950 training.php succ>>
+<<1158161975 ^ 203.196.131.130:41185 training.php disp 1>>
+<<1158162030 ^ 203.196.131.130:42922 training.php disp 2>>
+<<1158162221 ^ 203.196.131.130:49910 training.php disp 3>>
+<<1158162411 ^ 203.196.131.130:56654 training.php fail missed 4 extra 4>>
+<<1158162468 ^ 203.196.131.130:58439 % kprakash adminlogout.php lout>>
+<<1158215763 ^ 203.196.131.130:49739 training.php disp 3>>
+<<1158216010 ^ 203.196.131.130:57380 training.php disp 1>>
+<<1158216099 ^ 203.196.131.130:59884 training.php disp 2>>
+<<1158216272 ^ 203.196.131.130:35474 training.php succ>>
+<<1158216431 ^ 203.196.131.130:37988 training.php disp 3>>
+<<1158216461 ^ 203.196.131.130:38653 training.php disp 2>>
+<<1158216486 ^ 203.196.131.130:39242 training.php disp 1>>
+<<1158216517 ^ 203.196.131.130:39900 training.php succ>>
+<<1158216549 ^ 203.196.131.130:40477 training.php disp 3>>
+<<1158216577 ^ 203.196.131.130:41008 training.php disp 1>>
+<<1158216619 ^ 203.196.131.130:41747 training.php disp 2>>
+<<1158216649 ^ 203.196.131.130:42547 training.php fail missed 2 extra 1>>
+<<1158216694 ^ 203.196.131.130:43597 training.php disp 1>>
+<<1158216743 ^ 203.196.131.130:44867 training.php disp 2>>
+<<1158216771 ^ 203.196.131.130:45598 training.php disp 3>>
+<<1158216798 ^ 203.196.131.130:46271 training.php succ>>
+<<1158216816 ^ 203.196.131.130:46634 % kprakash adminlogout.php lout>>
+<<1158216863 ^ 203.196.131.130:47550 login.php atst status 2>>
+<<1158216865 ^ 203.196.131.130:47623 authenticate.php disp 3>>
+<<1158216906 ^ 203.196.131.130:48563 authenticate.php disp 1>>
+<<1158216938 ^ 203.196.131.130:49448 authenticate.php disp 2>>
+<<1158216966 ^ 203.196.131.130:50139 authenticate.php succ>>
+<<1158462980 ^ 203.196.131.130:55475 login.php atst status 2>>
+<<1158462984 ^ 203.196.131.130:55505 authenticate.php disp 1>>
+<<1158463070 ^ 203.196.131.130:56900 authenticate.php disp 2>>
+<<1158463158 ^ 203.196.131.130:58364 authenticate.php disp 3>>
+<<1158463219 ^ 203.196.131.130:59436 authenticate.php succ>>
+<<1158463681 ^ 203.196.131.130:34916 login.php atst status 2>>
+<<1158463684 ^ 203.196.131.130:34941 authenticate.php disp 3>>
+<<1158463767 ^ 203.196.131.130:35865 authenticate.php disp 2>>
+<<1158463852 ^ 203.196.131.130:36853 authenticate.php disp 1>>
+<<1158463904 ^ 203.196.131.130:37650 authenticate.php succ>>
+<<1158468800 ^ 210.212.127.8:43457 login.php atst status 2>>
+<<1158468805 ^ 210.212.127.8:43537 authenticate.php disp 1>>
+<<1158468866 ^ 210.212.127.8:44793 authenticate.php disp 3>>
+<<1158468919 ^ 210.212.127.8:46003 authenticate.php disp 2>>
+<<1158468967 ^ 210.212.127.8:46966 authenticate.php succ>>
+<<1158479977 ^ 210.212.127.8:60969 login.php atst status 2>>
+<<1158479981 ^ 210.212.127.8:32829 authenticate.php disp 2>>
+<<1158480121 ^ 203.196.131.130:38418 authenticate.php disp 3>>
+<<1158480168 ^ 203.196.131.130:40116 authenticate.php disp 1>>
+<<1158480228 ^ 203.196.131.130:42166 authenticate.php succ>>
+<<1158606016 ^ 210.212.127.8:40351 login.php atst status 2>>
+<<1158606023 ^ 210.212.127.8:40564 authenticate.php disp 3>>
+<<1158606178 ^ 203.196.131.130:46699 authenticate.php disp 2>>
+<<1158606234 ^ 203.196.131.130:49743 authenticate.php disp 1>>
+<<1158606285 ^ 203.196.131.130:52270 authenticate.php succ>>
+<<1158606446 ^ 203.196.131.130:58655 % kprakash adminlogout.php lout>>
+<<1158750184 ^ 210.212.127.8:39238 login.php atst status 2>>
+<<1158750189 ^ 210.212.127.8:39403 authenticate.php disp 2>>
+<<1158750383 ^ 210.212.127.8:44701 authenticate.php disp 3>>
+<<1158750459 ^ 210.212.127.8:46879 authenticate.php disp 1>>
+<<1158750540 ^ 210.212.127.8:49324 authenticate.php succ>>
+<<1158750599 ^ 210.212.127.8:51112 % kprakash adminlogout.php lout>>
+<<1158806928 ^ 203.196.131.130:48874 login.php atst status 2>>
+<<1158806932 ^ 203.196.131.130:48880 authenticate.php disp 2>>
+<<1158806965 ^ 203.196.131.130:49343 authenticate.php disp 3>>
+<<1158807010 ^ 203.196.131.130:49864 authenticate.php disp 1>>
+<<1158807053 ^ 203.196.131.130:50326 authenticate.php succ>>
+<<1158807174 ^ 203.196.131.130:50646 % kprakash adminlogout.php lout>>
+<<1158934428 ^ 203.196.131.130:52162 login.php atst status 2>>
+<<1158934431 ^ 203.196.131.130:52199 authenticate.php disp 3>>
+<<1158934490 ^ 203.196.131.130:53691 authenticate.php disp 1>>
+<<1158934537 ^ 203.196.131.130:54806 authenticate.php disp 2>>
+<<1158934586 ^ 203.196.131.130:56036 authenticate.php succ>>
+<<1158935711 ^ 203.196.131.130:46709 % kprakash adminlogout.php lout>>
+<<1158936205 ^ 203.196.131.130:56705 login.php atst status 2>>
+<<1158936209 ^ 203.196.131.130:56813 authenticate.php disp 2>>
+<<1158936253 ^ 203.196.131.130:58315 authenticate.php disp 3>>
+<<1158936293 ^ 203.196.131.130:59609 authenticate.php disp 1>>
+<<1158936325 ^ 203.196.131.130:60864 authenticate.php succ>>
+<<1159232509 ^ 203.196.131.130:50711 login.php atst status 2>>
+<<1159232513 ^ 203.196.131.130:50831 authenticate.php disp 1>>
+<<1159232551 ^ 203.196.131.130:52323 authenticate.php disp 2>>
+<<1159232589 ^ 203.196.131.130:53611 authenticate.php disp 3>>
+<<1159232618 ^ 203.196.131.130:54540 authenticate.php succ>>
+<<1159232836 ^ 203.196.131.130:60466 % kprakash adminlogout.php lout>>
+<<1159584672 ^ 203.196.131.130:46432 login.php atst status 2>>
+<<1159584675 ^ 203.196.131.130:46541 authenticate.php disp 2>>
+<<1159584723 ^ 203.196.131.130:47939 authenticate.php disp 1>>
+<<1159584750 ^ 203.196.131.130:48868 authenticate.php disp 3>>
+<<1159584778 ^ 203.196.131.130:49643 authenticate.php succ>>
+<<1159585319 ^ 203.196.131.130:50760 % kprakash adminlogout.php lout>>
+<<1159722731 ^ 203.196.131.130:44277 login.php atst status 2>>
+<<1159722735 ^ 203.196.131.130:44366 authenticate.php disp 3>>
+<<1159722823 ^ 203.196.131.130:47816 authenticate.php disp 2>>
+<<1159722893 ^ 203.196.131.130:51104 authenticate.php disp 1>>
+<<1159722958 ^ 203.196.131.130:53837 authenticate.php succ>>
+<<1159789546 ^ 203.196.131.130:57984 login.php atst status 2>>
+<<1159789549 ^ 203.196.131.130:58164 authenticate.php disp 3>>
+<<1159789578 ^ 203.196.131.130:59401 authenticate.php disp 2>>
+<<1159789616 ^ 203.196.131.130:33264 authenticate.php disp 1>>
+<<1159789653 ^ 203.196.131.130:34668 authenticate.php succ>>
+<<1159802272 ^ 203.196.131.130:43527 login.php atst status 2>>
+<<1159802276 ^ 203.196.131.130:43603 authenticate.php disp 1>>
+<<1159802309 ^ 203.196.131.130:44810 authenticate.php disp 2>>
+<<1159802376 ^ 203.196.131.130:46859 authenticate.php disp 3>>
+<<1159802423 ^ 203.196.131.130:48483 authenticate.php succ>>
+<<1159802798 ^ 203.196.131.130:60059 % kprakash adminlogout.php lout>>
+<<1159804521 ^ 203.196.131.130:36439 login.php atst status 2>>
+<<1159804524 ^ 203.196.131.130:36520 authenticate.php disp 1>>
+<<1159804571 ^ 203.196.131.130:38489 authenticate.php disp 2>>
+<<1159804614 ^ 203.196.131.130:40418 authenticate.php disp 3>>
+<<1159804649 ^ 203.196.131.130:42048 authenticate.php succ>>
+<<1159805768 ^ 203.196.131.130:53896 % kprakash adminlogout.php lout>>
+<<1159942066 ^ 203.196.131.130:40387 login.php atst status 2>>
+<<1159942069 ^ 203.196.131.130:40482 authenticate.php disp 1>>
+<<1159942131 ^ 203.196.131.130:42041 authenticate.php disp 3>>
+<<1159942154 ^ 203.196.131.130:42706 authenticate.php disp 2>>
+<<1159942187 ^ 210.212.127.8:43732 authenticate.php succ>>
+<<1159942322 ^ 210.212.127.8:47227 % kprakash adminlogout.php lout>>
+<<1159979095 ^ 203.196.131.130:54511 login.php atst status 2>>
+<<1159979099 ^ 203.196.131.130:54697 authenticate.php disp 2>>
+<<1159979140 ^ 203.196.131.130:57179 authenticate.php disp 3>>
+<<1159979178 ^ 203.196.131.130:59398 authenticate.php disp 1>>
+<<1159979250 ^ 203.196.131.130:35650 authenticate.php succ>>
+<<1159979994 ^ 203.196.131.130:51337 % kprakash adminlogout.php lout>>
+<<1160061223 ^ 203.196.131.130:46523 login.php atst status 2>>
+<<1160061226 ^ 203.196.131.130:46598 authenticate.php disp 3>>
+<<1160061269 ^ 203.196.131.130:48221 authenticate.php disp 1>>
+<<1160061305 ^ 203.196.131.130:49572 authenticate.php disp 2>>
+<<1160061348 ^ 203.196.131.130:51473 authenticate.php succ>>
+<<1160061897 ^ 203.196.131.130:42946 % kprakash adminlogout.php lout>>
+<<1160063691 ^ 203.196.131.130:37169 login.php atst status 2>>
+<<1160063695 ^ 203.196.131.130:37307 authenticate.php disp 2>>
+<<1160063735 ^ 203.196.131.130:39789 authenticate.php disp 1>>
+<<1160063801 ^ 203.196.131.130:43486 authenticate.php disp 3>>
+<<1160063850 ^ 203.196.131.130:46653 authenticate.php succ>>
+<<1160075358 ^ 210.212.127.8:58651 login.php atst status 2>>
+<<1160075362 ^ 210.212.127.8:58841 authenticate.php disp 3>>
+<<1160075437 ^ 203.196.131.130:36128 authenticate.php disp 2>>
+<<1160075590 ^ 203.196.131.130:45810 authenticate.php disp 1>>
+<<1160075646 ^ 203.196.131.130:49459 authenticate.php succ>>
+<<1160075821 ^ 203.196.131.130:59459 % kprakash adminlogout.php lout>>
+<<1160119291 ^ 203.196.131.130:33129 login.php atst status 2>>
+<<1160119295 ^ 203.196.131.130:33172 authenticate.php disp 2>>
+<<1160119331 ^ 203.196.131.130:34423 authenticate.php disp 1>>
+<<1160119371 ^ 203.196.131.130:36148 authenticate.php disp 3>>
+<<1160119415 ^ 203.196.131.130:38152 authenticate.php succ>>
+<<1160119456 ^ 203.196.131.130:39746 % kprakash adminlogout.php lout>>
+<<1160207506 ^ 210.212.127.8:58074 login.php atst status 2>>
+<<1160207510 ^ 210.212.127.8:58112 authenticate.php disp 2>>
+<<1160207548 ^ 210.212.127.8:58738 authenticate.php disp 3>>
+<<1160207603 ^ 210.212.127.8:59572 authenticate.php disp 1>>
+<<1160207634 ^ 210.212.127.8:60349 authenticate.php succ>>
+<<1160207695 ^ 210.212.127.8:32838 % kprakash adminlogout.php lout>>
+<<1160275847 ^ 203.196.131.130:52151 login.php atst status 2>>
+<<1160275850 ^ 203.196.131.130:52199 authenticate.php disp 2>>
+<<1160275885 ^ 203.196.131.130:52934 authenticate.php disp 3>>
+<<1160275927 ^ 203.196.131.130:53758 authenticate.php disp 1>>
+<<1160275952 ^ 203.196.131.130:54262 authenticate.php succ>>
+<<1160276212 ^ 203.196.131.130:57943 % kprakash adminlogout.php lout>>
+<<1160752983 ^ 203.196.131.130:41895 login.php atst status 2>>
+<<1160752988 ^ 203.196.131.130:42045 authenticate.php disp 2>>
+<<1160753022 ^ 203.196.131.130:43555 authenticate.php disp 3>>
+<<1160753075 ^ 203.196.131.130:45206 authenticate.php disp 1>>
+<<1160753123 ^ 203.196.131.130:46613 authenticate.php succ>>
+<<1160753418 ^ 203.196.131.130:54125 % kprakash adminlogout.php lout>>
+<<1160779867 ^ 210.212.127.8:49280 login.php atst status 2>>
+<<1160779871 ^ 210.212.127.8:49328 authenticate.php disp 1>>
+<<1160779906 ^ 210.212.127.8:49970 authenticate.php disp 2>>
+<<1160779943 ^ 210.212.127.8:50724 authenticate.php disp 3>>
+<<1160779995 ^ 210.212.127.8:51532 authenticate.php succ>>
+<<1160780268 ^ 210.212.127.8:54438 % kprakash adminlogout.php lout>>
+<<1160923873 ^ 203.196.131.130:38620 login.php atst status 2>>
+<<1160923877 ^ 203.196.131.130:38640 authenticate.php disp 1>>
+<<1160923919 ^ 203.196.131.130:39194 authenticate.php disp 3>>
+<<1160923960 ^ 203.196.131.130:39684 authenticate.php disp 2>>
+<<1160924003 ^ 203.196.131.130:40102 authenticate.php succ>>
+<<1160924121 ^ 203.196.131.130:40828 % kprakash adminlogout.php lout>>
+<<1161050434 ^ 210.212.127.8:55363 login.php atst status 2>>
+<<1161050438 ^ 210.212.127.8:55372 authenticate.php disp 3>>
+<<1161050497 ^ 210.212.127.8:55776 authenticate.php disp 1>>
+<<1161050529 ^ 210.212.127.8:56035 authenticate.php disp 2>>
+<<1161050567 ^ 210.212.127.8:56365 authenticate.php succ>>
+<<1161050627 ^ 210.212.127.8:56487 % kprakash adminlogout.php lout>>
+<<1161313582 ^ 203.196.131.130:39929 login.php atst status 2>>
+<<1161313586 ^ 203.196.131.130:39952 authenticate.php disp 2>>
+<<1161313613 ^ 203.196.131.130:40254 authenticate.php disp 1>>
+<<1161313653 ^ 203.196.131.130:40847 authenticate.php disp 3>>
+<<1161313695 ^ 203.196.131.130:41400 authenticate.php succ>>
+<<1161313978 ^ 203.196.131.130:42587 % kprakash adminlogout.php lout>>
+<<1161461513 ^ 203.196.131.130:54476 login.php atst status 2>>
+<<1161461518 ^ 203.196.131.130:54486 authenticate.php disp 1>>
+<<1161461603 ^ 203.196.131.130:55550 authenticate.php disp 3>>
+<<1161461715 ^ 203.196.131.130:56903 authenticate.php disp 2>>
+<<1161461771 ^ 203.196.131.130:57544 authenticate.php succ>>
+<<1161461913 ^ 203.196.131.130:58236 % kprakash adminlogout.php lout>>
+<<1161709199 ^ 203.196.131.130:45750 login.php atst status 2>>
+<<1161709203 ^ 203.196.131.130:45800 authenticate.php disp 3>>
+<<1161709269 ^ 203.196.131.130:46891 authenticate.php disp 2>>
+<<1161709306 ^ 203.196.131.130:47738 authenticate.php disp 1>>
+<<1161709384 ^ 203.196.131.130:49073 authenticate.php succ>>
+<<1161709630 ^ 203.196.131.130:52830 % kprakash adminlogout.php lout>>
+<<1161761091 ^ 203.196.131.130:57521 login.php atst status 2>>
+<<1161761097 ^ 203.196.131.130:57619 authenticate.php disp 3>>
+<<1161761166 ^ 203.196.131.130:59134 authenticate.php disp 2>>
+<<1161761208 ^ 203.196.131.130:60068 authenticate.php disp 1>>
+<<1161761240 ^ 203.196.131.130:60752 authenticate.php succ>>
+<<1161761347 ^ 203.196.131.130:34026 % kprakash adminlogout.php lout>>
+<<1161837074 ^ 210.212.127.8:34502 login.php atst status 2>>
+<<1161837078 ^ 210.212.127.8:34599 authenticate.php disp 2>>
+<<1161837109 ^ 210.212.127.8:35253 authenticate.php disp 1>>
+<<1161837147 ^ 210.212.127.8:36429 authenticate.php disp 3>>
+<<1161837181 ^ 210.212.127.8:37279 authenticate.php succ>>
+<<1161837218 ^ 210.212.127.8:37944 % kprakash adminlogout.php lout>>
+<<1161891429 ^ 203.196.131.130:54732 login.php atst status 2>>
+<<1161891433 ^ 203.196.131.130:54911 authenticate.php disp 1>>
+<<1161891660 ^ 203.196.131.130:36934 login.php atst status 2>>
+<<1161891665 ^ 203.196.131.130:37266 authenticate.php disp 2>>
+<<1161891756 ^ 203.196.131.130:41750 authenticate.php disp 3>>
+<<1161891814 ^ 203.196.131.130:44467 authenticate.php disp 1>>
+<<1161891871 ^ 203.196.131.130:47429 authenticate.php succ>>
+<<1161891998 ^ 203.196.131.130:53694 % kprakash adminlogout.php lout>>
+<<1161969983 ^ 203.196.131.130:48339 login.php atst status 2>>
+<<1161969987 ^ 203.196.131.130:48552 authenticate.php disp 1>>
+<<1161970039 ^ 203.196.131.130:51671 authenticate.php disp 3>>
+<<1161970069 ^ 203.196.131.130:53471 authenticate.php disp 2>>
+<<1161970110 ^ 203.196.131.130:56208 authenticate.php succ>>
+<<1161970257 ^ 203.196.131.130:36303 % kprakash adminlogout.php lout>>
+<<1162182384 ^ 203.196.131.130:43601 login.php atst status 2>>
+<<1162182391 ^ 203.196.131.130:43639 authenticate.php disp 3>>
+<<1162182417 ^ 203.196.131.130:44252 authenticate.php disp 2>>
+<<1162182442 ^ 203.196.131.130:44973 authenticate.php disp 1>>
+<<1162182475 ^ 203.196.131.130:45750 authenticate.php succ>>
+<<1162182533 ^ 203.196.131.130:46529 % kprakash adminlogout.php lout>>
+<<1162219432 ^ 203.196.131.130:56103 login.php atst status 2>>
+<<1162219435 ^ 203.196.131.130:56206 authenticate.php disp 3>>
+<<1162219473 ^ 203.196.131.130:57655 authenticate.php disp 1>>
+<<1162219500 ^ 203.196.131.130:58698 authenticate.php disp 2>>
+<<1162219665 ^ 203.196.131.130:36013 authenticate.php succ>>
+<<1162225110 ^ 203.196.131.130:34526 % kprakash adminlogout.php lout>>
+<<1162443029 ^ 203.196.131.130:49032 login.php atst status 2>>
+<<1162443036 ^ 203.196.131.130:49118 authenticate.php disp 3>>
+<<1162443077 ^ 203.196.131.130:50117 authenticate.php disp 1>>
+<<1162443129 ^ 203.196.131.130:51606 authenticate.php disp 2>>
+<<1162443161 ^ 203.196.131.130:52452 authenticate.php succ>>
+<<1162443200 ^ 203.196.131.130:53415 % kprakash adminlogout.php lout>>
+<<1162601864 ^ 203.196.131.130:35349 login.php atst status 2>>
+<<1162601867 ^ 203.196.131.130:35367 authenticate.php disp 3>>
+<<1162601949 ^ 203.196.131.130:36186 authenticate.php disp 2>>
+<<1162602013 ^ 203.196.131.130:36841 authenticate.php disp 1>>
+<<1162602059 ^ 203.196.131.130:37275 authenticate.php succ>>
+<<1162602099 ^ 203.196.131.130:37527 % kprakash adminlogout.php lout>>
+<<1162720882 ^ 203.196.131.130:44838 login.php atst status 2>>
+<<1162720886 ^ 203.196.131.130:45151 authenticate.php disp 2>>
+<<1162720927 ^ 203.196.131.130:47130 authenticate.php disp 3>>
+<<1162720955 ^ 203.196.131.130:48538 authenticate.php disp 1>>
+<<1162720990 ^ 203.196.131.130:50464 authenticate.php succ>>
+<<1162721034 ^ 203.196.131.130:52527 % kprakash adminlogout.php lout>>
+<<1162809597 ^ 203.196.131.130:43708 login.php atst status 2>>
+<<1162809600 ^ 203.196.131.130:43837 authenticate.php disp 2>>
+<<1162809630 ^ 203.196.131.130:44660 authenticate.php disp 1>>
+<<1162809656 ^ 203.196.131.130:45528 authenticate.php disp 3>>
+<<1162809701 ^ 203.196.131.130:47156 authenticate.php succ>>
+<<1162817802 ^ 203.196.131.130:59917 login.php atst status 2>>
+<<1162817813 ^ 203.196.131.130:60218 authenticate.php disp 3>>
+<<1162817873 ^ 203.196.131.130:36151 authenticate.php disp 1>>
+<<1162817973 ^ 203.196.131.130:43070 authenticate.php disp 2>>
+<<1162818023 ^ 203.196.131.130:45800 authenticate.php succ>>
+<<1162818432 ^ 203.196.131.130:48197 % kprakash adminlogout.php lout>>
+<<1163275542 ^ 210.212.127.8:45089 login.php atst status 2>>
+<<1163275545 ^ 210.212.127.8:45278 authenticate.php disp 3>>
+<<1163275582 ^ 210.212.127.8:47555 authenticate.php disp 1>>
+<<1163275626 ^ 210.212.127.8:50454 authenticate.php disp 2>>
+<<1163275657 ^ 210.212.127.8:52303 authenticate.php succ>>
+<<1163275739 ^ 210.212.127.8:56995 % kprakash adminlogout.php lout>>
+<<1163379552 ^ 203.196.131.130:37745 login.php atst status 2>>
+<<1163379555 ^ 203.196.131.130:37899 authenticate.php disp 2>>
+<<1163379588 ^ 203.196.131.130:39304 authenticate.php disp 3>>
+<<1163379614 ^ 210.212.127.8:40477 authenticate.php disp 1>>
+<<1163379645 ^ 210.212.127.8:41799 authenticate.php succ>>
+<<1163379736 ^ 210.212.127.8:44767 % kprakash adminlogout.php lout>>
+<<1163501002 ^ 203.196.131.130:48011 login.php atst status 2>>
+<<1163501005 ^ 203.196.131.130:48122 authenticate.php disp 3>>
+<<1163501034 ^ 203.196.131.130:49048 authenticate.php disp 1>>
+<<1163501065 ^ 203.196.131.130:49952 authenticate.php disp 2>>
+<<1163501092 ^ 203.196.131.130:50824 authenticate.php succ>>
+<<1163501114 ^ 203.196.131.130:51434 % kprakash adminlogout.php lout>>
+<<1163570298 ^ 210.212.127.8:58713 login.php atst status 2>>
+<<1163570302 ^ 210.212.127.8:58781 authenticate.php disp 1>>
+<<1163570336 ^ 210.212.127.8:59770 authenticate.php disp 3>>
+<<1163570384 ^ 210.212.127.8:32955 authenticate.php disp 2>>
+<<1163570431 ^ 203.196.131.130:34357 authenticate.php succ>>
+<<1163570450 ^ 203.196.131.130:34799 % kprakash adminlogout.php lout>>
+<<1163649531 ^ 210.212.127.8:36414 login.php atst status 2>>
+<<1163649536 ^ 210.212.127.8:36453 authenticate.php disp 3>>
+<<1163649570 ^ 210.212.127.8:37146 authenticate.php disp 1>>
+<<1163649604 ^ 210.212.127.8:37972 authenticate.php disp 2>>
+<<1163649645 ^ 210.212.127.8:38860 authenticate.php succ>>
+<<1163649686 ^ 203.196.131.130:39389 % kprakash adminlogout.php lout>>
+<<1163984388 ^ 210.212.127.8:49612 login.php atst status 2>>
+<<1163984548 ^ 210.212.127.8:51497 login.php atst status 2>>
+<<1163984612 ^ 210.212.127.8:51918 authenticate.php disp 1>>
+<<1163984650 ^ 210.212.127.8:52400 authenticate.php disp 3>>
+<<1163986161 ^ 203.196.131.130:38306 authenticate.php disp 1>>
+<<1163986186 ^ 203.196.131.130:38896 authenticate.php disp 3>>
+<<1163986202 ^ 203.196.131.130:39151 authenticate.php disp 2>>
+<<1163986246 ^ 210.212.127.8:39720 authenticate.php succ>>
+<<1164081935 ^ 210.212.127.8:33698 login.php atst status 2>>
+<<1164081940 ^ 210.212.127.8:33812 authenticate.php disp 3>>
+<<1164081975 ^ 210.212.127.8:34838 authenticate.php disp 1>>
+<<1164082003 ^ 210.212.127.8:35522 authenticate.php disp 2>>
+<<1164082040 ^ 210.212.127.8:36405 authenticate.php succ>>
+<<1164086584 ^ 210.212.127.8:54605 % kprakash adminlogout.php lout>>
+<<1164587997 ^ 203.196.131.130:47512 login.php atst status 2>>
+<<1164588006 ^ 203.196.131.130:47562 authenticate.php disp 1>>
+<<1164588091 ^ 203.196.131.130:49023 authenticate.php disp 2>>
+<<1164588146 ^ 203.196.131.130:49997 authenticate.php disp 3>>
+<<1164588241 ^ 203.196.131.130:51604 authenticate.php succ>>
+<<1164588375 ^ 203.196.131.130:53549 % kprakash adminlogout.php lout>>
+<<1164971637 ^ 203.196.131.130:37523 login.php atst status 2>>
+<<1164971640 ^ 203.196.131.130:37583 authenticate.php disp 2>>
+<<1164971670 ^ 203.196.131.130:38933 authenticate.php disp 1>>
+<<1164971699 ^ 203.196.131.130:40479 authenticate.php disp 3>>
+<<1164971728 ^ 203.196.131.130:41953 authenticate.php succ>>
+<<1164972036 ^ 210.212.127.8:54722 % kprakash adminlogout.php lout>>
+<<1165204192 ^ 210.212.127.8:39738 login.php atst status 2>>
+<<1165204197 ^ 210.212.127.8:40575 authenticate.php disp 1>>
+<<1165204219 ^ 210.212.127.8:45378 authenticate.php disp 3>>
+<<1165204240 ^ 210.212.127.8:50681 authenticate.php disp 2>>
+<<1165204263 ^ 210.212.127.8:56933 authenticate.php succ>>
+<<1165204346 ^ 210.212.127.8:54631 % kprakash adminlogout.php lout>>
+<<1165290734 ^ 203.196.131.130:33853 login.php atst status 2>>
+<<1165290738 ^ 203.196.131.130:33883 authenticate.php disp 3>>
+<<1165290778 ^ 203.196.131.130:34250 authenticate.php disp 1>>
+<<1165290799 ^ 203.196.131.130:34637 authenticate.php disp 2>>
+<<1165290813 ^ 203.196.131.130:34912 authenticate.php succ>>
+<<1165290838 ^ 203.196.131.130:35211 % kprakash adminlogout.php lout>>
+<<1165381062 ^ 210.212.127.13:48552 login.php atst status 2>>
+<<1165381066 ^ 210.212.127.13:48645 authenticate.php disp 3>>
+<<1165381194 ^ 210.212.127.13:50714 authenticate.php disp 2>>
+<<1165381213 ^ 210.212.127.13:51311 authenticate.php disp 1>>
+<<1165381240 ^ 210.212.127.13:52036 authenticate.php succ>>
+<<1165381283 ^ 210.212.127.13:52682 % kprakash adminlogout.php lout>>
+<<1165455575 ^ 203.196.131.130:54981 login.php atst status 2>>
+<<1165455579 ^ 203.196.131.130:55092 authenticate.php disp 3>>
+<<1165455647 ^ 203.196.131.130:55865 authenticate.php disp 1>>
+<<1165455669 ^ 203.196.131.130:56286 authenticate.php disp 2>>
+<<1165455694 ^ 203.196.131.130:56600 authenticate.php succ>>
+<<1165455735 ^ 203.196.131.130:56825 % kprakash adminlogout.php lout>>
+<<1165584352 ^ 203.196.131.130:37446 login.php atst status 2>>
+<<1165584355 ^ 203.196.131.130:37539 authenticate.php disp 3>>
+<<1165584398 ^ 203.196.131.130:38769 authenticate.php disp 2>>
+<<1165584410 ^ 203.196.131.130:39225 authenticate.php disp 1>>
+<<1165584426 ^ 203.196.131.130:39768 authenticate.php succ>>
+<<1165584496 ^ 203.196.131.130:41590 % kprakash adminlogout.php lout>>
+<<1165601558 ^ 203.196.131.130:39441 login.php atst status 2>>
+<<1165601561 ^ 203.196.131.130:39527 authenticate.php disp 1>>
+<<1165601595 ^ 203.196.131.130:40796 authenticate.php disp 3>>
+<<1165601627 ^ 203.196.131.130:41933 authenticate.php disp 2>>
+<<1165601656 ^ 203.196.131.130:43098 authenticate.php succ>>
+<<1165601840 ^ 210.212.127.8:47926 % kprakash adminlogout.php lout>>

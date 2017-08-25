@@ -1,0 +1,52 @@
+<<1156694634 ^ 70.150.43.1:1262 register1.php succ>>
+<<1156694778 ^ 70.150.43.1:1304 selectpass.php succ count 5>>
+<<1156694812 ^ 70.150.43.1:1305 training.php disp 3>>
+<<1156694830 ^ 70.150.43.1:1314 training.php disp 2>>
+<<1156694855 ^ 70.150.43.1:1329 training.php disp 1>>
+<<1156694904 ^ 70.150.43.1:1345 training.php fail missed 0 extra 1>>
+<<1156694919 ^ 70.150.43.1:1346 training.php disp 1>>
+<<1156694946 ^ 70.150.43.1:1348 training.php disp 3>>
+<<1156694948 ^ 70.150.43.1:1349 training.php disp 2>>
+<<1156694949 ^ 70.150.43.1:1350 training.php succ>>
+<<1156694961 ^ 70.150.43.1:1351 training.php disp 2>>
+<<1156694991 ^ 70.150.43.1:1369 training.php disp 3>>
+<<1156695008 ^ 70.150.43.1:1381 training.php disp 1>>
+<<1156695040 ^ 70.150.43.1:1388 training.php succ>>
+<<1156695054 ^ 70.150.43.1:1389 % mbarbier adminlogout.php lout>>
+<<1156695116 ^ 70.150.43.1:1396 login.php atst status 2>>
+<<1156695117 ^ 70.150.43.1:1397 authenticate.php disp 1>>
+<<1156695166 ^ 70.150.43.1:1431 authenticate.php disp 2>>
+<<1156695168 ^ 70.150.43.1:1433 authenticate.php disp 3>>
+<<1156695172 ^ 70.150.43.1:1435 authenticate.php succ>>
+<<1157922047 ^ 70.150.43.1:1121 login.php atst status 2>>
+<<1157922048 ^ 70.150.43.1:1123 authenticate.php disp 1>>
+<<1157922085 ^ 70.150.43.1:1132 authenticate.php disp 3>>
+<<1157922088 ^ 70.150.43.1:1135 authenticate.php disp 2>>
+<<1157922091 ^ 70.150.43.1:1137 authenticate.php succ>>
+<<1159469507 ^ 70.150.41.47:1402 login.php atst status 2>>
+<<1159469508 ^ 70.150.41.47:1404 authenticate.php disp 2>>
+<<1159469522 ^ 70.150.41.47:1417 authenticate.php disp 1>>
+<<1159469556 ^ 70.150.41.47:1432 authenticate.php disp 3>>
+<<1159469559 ^ 70.150.41.47:1433 authenticate.php succ>>
+<<1159816846 ^ 70.150.41.47:1291 login.php atst status 2>>
+<<1159816847 ^ 70.150.41.47:1293 authenticate.php disp 3>>
+<<1159816857 ^ 70.150.41.47:1323 authenticate.php disp 2>>
+<<1159816866 ^ 70.150.41.47:1329 authenticate.php disp 1>>
+<<1159816895 ^ 70.150.41.47:1338 authenticate.php fail missed 1 extra 1>>
+<<1159816906 ^ 70.150.41.47:1338 % mbarbier adminlogout.php lout>>
+<<1159816914 ^ 70.150.41.47:1340 login.php atst status 2>>
+<<1159816915 ^ 70.150.41.47:1340 authenticate.php disp 3>>
+<<1159816920 ^ 70.150.41.47:1352 authenticate.php disp 2>>
+<<1159816926 ^ 70.150.41.47:1358 authenticate.php disp 1>>
+<<1159816960 ^ 70.150.41.47:1372 authenticate.php succ>>
+<<1165648066 ^ 66.231.132.61:1743 login.php atst status 2>>
+<<1165648067 ^ 66.231.132.61:1745 authenticate.php disp 3>>
+<<1165648079 ^ 66.231.132.61:1762 authenticate.php disp 2>>
+<<1165648087 ^ 66.231.132.61:1764 authenticate.php disp 1>>
+<<1165648119 ^ 66.231.132.61:1773 authenticate.php fail missed 1 extra 1>>
+<<1165648129 ^ 66.231.132.61:1775 % mbarbier adminlogout.php lout>>
+<<1165648141 ^ 66.231.132.61:1775 login.php atst status 2>>
+<<1165648142 ^ 66.231.132.61:1775 authenticate.php disp 3>>
+<<1165648149 ^ 66.231.132.61:1783 authenticate.php disp 1>>
+<<1165648181 ^ 66.231.132.61:1783 authenticate.php disp 2>>
+<<1165648183 ^ 66.231.132.61:1783 authenticate.php succ>>

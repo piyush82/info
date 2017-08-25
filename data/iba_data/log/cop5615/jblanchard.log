@@ -1,0 +1,231 @@
+<<1157939402 ^ 68.205.104.23:13100 register1.php succ>>
+<<1157939620 ^ 68.205.104.23:13151 % jblanchard adminlogout.php lout>>
+<<1157939713 ^ 68.205.104.23:7730 selectpass.php succ count 5>>
+<<1157939735 ^ 68.205.104.23:7730 training.php disp 1>>
+<<1157939771 ^ 68.205.104.23:7735 training.php disp 3>>
+<<1157939799 ^ 68.205.104.23:7752 training.php disp 2>>
+<<1157939819 ^ 68.205.104.23:7762 training.php fail missed 2 extra 3>>
+<<1157939838 ^ 68.205.104.23:7764 training.php disp 3>>
+<<1157939846 ^ 68.205.104.23:7764 training.php disp 1>>
+<<1157939868 ^ 68.205.104.23:7767 training.php disp 2>>
+<<1157939898 ^ 68.205.104.23:7777 training.php fail missed 2 extra 1>>
+<<1157940062 ^ 68.205.104.23:10636 training.php disp 2>>
+<<1157940093 ^ 68.205.104.23:10638 training.php disp 1>>
+<<1157940110 ^ 68.205.104.23:10641 training.php disp 3>>
+<<1157940116 ^ 68.205.104.23:10641 training.php fail missed 2 extra 2>>
+<<1157940127 ^ 68.205.104.23:10641 training.php disp 1>>
+<<1157940154 ^ 68.205.104.23:10645 training.php disp 2>>
+<<1157940168 ^ 68.205.104.23:10645 training.php disp 3>>
+<<1157940194 ^ 68.205.104.23:10651 training.php succ>>
+<<1157940201 ^ 68.205.104.23:10651 training.php disp 2>>
+<<1157940215 ^ 68.205.104.23:10651 training.php disp 1>>
+<<1157940225 ^ 68.205.104.23:10655 training.php disp 3>>
+<<1157940230 ^ 68.205.104.23:10657 training.php fail missed 2 extra 1>>
+<<1157940239 ^ 68.205.104.23:10657 training.php disp 2>>
+<<1157940252 ^ 68.205.104.23:10657 training.php disp 3>>
+<<1157940263 ^ 68.205.104.23:10657 training.php disp 1>>
+<<1157940266 ^ 68.205.104.23:10657 training.php succ>>
+<<1157940273 ^ 68.205.104.23:10657 training.php disp 2>>
+<<1157940290 ^ 68.205.104.23:18087 training.php disp 3>>
+<<1157940303 ^ 68.205.104.23:18087 training.php disp 1>>
+<<1157940316 ^ 68.205.104.23:18087 training.php fail missed 0 extra 1>>
+<<1157940323 ^ 68.205.104.23:18087 training.php disp 2>>
+<<1157940338 ^ 68.205.104.23:18087 training.php disp 1>>
+<<1157940351 ^ 68.205.104.23:18087 training.php disp 3>>
+<<1157940356 ^ 68.205.104.23:18094 training.php succ>>
+<<1157940359 ^ 68.205.104.23:18094 training.php disp 2>>
+<<1157940365 ^ 68.205.104.23:18094 training.php disp 1>>
+<<1157940375 ^ 68.205.104.23:18094 training.php disp 3>>
+<<1157940380 ^ 68.205.104.23:18094 training.php succ>>
+<<1157940383 ^ 68.205.104.23:18094 training.php disp 3>>
+<<1157940390 ^ 68.205.104.23:18094 training.php disp 1>>
+<<1157940399 ^ 68.205.104.23:18094 training.php disp 2>>
+<<1157940402 ^ 68.205.104.23:18102 training.php succ>>
+<<1157940405 ^ 68.205.104.23:18102 training.php disp 3>>
+<<1157940410 ^ 68.205.104.23:18102 training.php disp 1>>
+<<1157940420 ^ 68.205.104.23:18104 training.php disp 2>>
+<<1157940428 ^ 68.205.104.23:18102 training.php succ>>
+<<1157940431 ^ 68.205.104.23:18104 training.php disp 3>>
+<<1157940439 ^ 68.205.104.23:18104 training.php disp 1>>
+<<1157940449 ^ 68.205.104.23:18102 training.php disp 2>>
+<<1157940457 ^ 68.205.104.23:18102 training.php fail missed 1 extra 0>>
+<<1157940459 ^ 68.205.104.23:18102 training.php disp 1>>
+<<1157940466 ^ 68.205.104.23:18102 training.php disp 2>>
+<<1157940476 ^ 68.205.104.23:18102 training.php disp 3>>
+<<1157940482 ^ 68.205.104.23:18102 training.php succ>>
+<<1157940484 ^ 68.205.104.23:18102 training.php disp 2>>
+<<1157940493 ^ 68.205.104.23:18102 training.php disp 3>>
+<<1157940501 ^ 68.205.104.23:18102 training.php disp 1>>
+<<1157940514 ^ 68.205.104.23:18102 training.php fail missed 1 extra 0>>
+<<1157940517 ^ 68.205.104.23:18102 training.php disp 1>>
+<<1157940532 ^ 68.205.104.23:18102 training.php disp 2>>
+<<1157940540 ^ 68.205.104.23:18102 training.php disp 3>>
+<<1157940549 ^ 68.205.104.23:18102 training.php succ>>
+<<1157940552 ^ 68.205.104.23:18102 training.php disp 3>>
+<<1157940560 ^ 68.205.104.23:18102 training.php disp 2>>
+<<1157940572 ^ 68.205.104.23:1993 training.php disp 1>>
+<<1157940587 ^ 68.205.104.23:1993 training.php fail missed 1 extra 0>>
+<<1157940590 ^ 68.205.104.23:1993 training.php disp 2>>
+<<1157940595 ^ 68.205.104.23:1993 training.php disp 3>>
+<<1157940608 ^ 68.205.104.23:1998 training.php disp 1>>
+<<1157940613 ^ 68.205.104.23:1998 training.php succ>>
+<<1157940617 ^ 68.205.104.23:1998 % jblanchard adminlogout.php lout>>
+<<1157940629 ^ 68.205.104.23:2001 login.php atst status 2>>
+<<1157940630 ^ 68.205.104.23:2001 authenticate.php disp 1>>
+<<1157940652 ^ 68.205.104.23:2003 authenticate.php disp 3>>
+<<1157940660 ^ 68.205.104.23:2003 authenticate.php disp 2>>
+<<1157940664 ^ 68.205.104.23:2003 authenticate.php succ>>
+<<1158545186 ^ 68.205.104.23:21154 login.php atst status 2>>
+<<1158545188 ^ 68.205.104.23:21156 authenticate.php disp 3>>
+<<1158545232 ^ 68.205.104.23:21183 authenticate.php disp 2>>
+<<1158545266 ^ 68.205.104.23:21215 authenticate.php disp 1>>
+<<1158545296 ^ 68.205.104.23:21253 authenticate.php fail missed 1 extra 0>>
+<<1158545306 ^ 68.205.104.23:21253 login.php atst status 2>>
+<<1158545307 ^ 68.205.104.23:21253 authenticate.php disp 1>>
+<<1158545342 ^ 68.205.104.23:21269 authenticate.php disp 3>>
+<<1158545355 ^ 68.205.104.23:21285 authenticate.php disp 2>>
+<<1158545359 ^ 68.205.104.23:21292 authenticate.php succ>>
+<<1159467099 ^ 68.205.104.23:18365 login.php atst status 2>>
+<<1159467099 ^ 68.205.104.23:18365 authenticate.php disp 3>>
+<<1159467132 ^ 68.205.104.23:18387 authenticate.php disp 1>>
+<<1159467140 ^ 68.205.104.23:18408 authenticate.php disp 2>>
+<<1159467148 ^ 68.205.104.23:18422 authenticate.php succ>>
+<<1159728029 ^ 68.205.104.23:18831 login.php atst status 2>>
+<<1159728030 ^ 68.205.104.23:18831 authenticate.php disp 1>>
+<<1159728045 ^ 68.205.104.23:18853 authenticate.php disp 2>>
+<<1159728056 ^ 68.205.104.23:18872 authenticate.php disp 3>>
+<<1159728066 ^ 68.205.104.23:18882 authenticate.php succ>>
+<<1160351441 ^ 68.205.104.23:2471 login.php atst status 2>>
+<<1160351442 ^ 68.205.104.23:2473 authenticate.php disp 2>>
+<<1160351455 ^ 68.205.104.23:2492 authenticate.php disp 3>>
+<<1160351465 ^ 68.205.104.23:2528 authenticate.php disp 1>>
+<<1160351471 ^ 68.205.104.23:2533 authenticate.php fail missed 1 extra 1>>
+<<1160351481 ^ 68.205.104.23:2535 % jblanchard adminlogout.php lout>>
+<<1160351492 ^ 68.205.104.23:2533 login.php atst status 2>>
+<<1160351493 ^ 68.205.104.23:2535 authenticate.php disp 3>>
+<<1160351936 ^ 68.205.104.23:7543 authenticate.php disp 2>>
+<<1160351942 ^ 68.205.104.23:7557 authenticate.php disp 1>>
+<<1160351951 ^ 68.205.104.23:7566 authenticate.php succ>>
+<<1160429329 ^ 68.205.104.23:20191 login.php atst status 2>>
+<<1160429330 ^ 68.205.104.23:20194 authenticate.php disp 2>>
+<<1160429345 ^ 68.205.104.23:20221 authenticate.php disp 1>>
+<<1160429360 ^ 68.205.104.23:20249 authenticate.php disp 3>>
+<<1160429366 ^ 68.205.104.23:20266 authenticate.php fail missed 1 extra 1>>
+<<1160429376 ^ 68.205.104.23:20266 % jblanchard adminlogout.php lout>>
+<<1160429401 ^ 68.205.104.23:24376 login.php atst status 2>>
+<<1160429402 ^ 68.205.104.23:24376 authenticate.php disp 1>>
+<<1160429422 ^ 68.205.104.23:24411 authenticate.php disp 3>>
+<<1160429443 ^ 68.205.104.23:24442 authenticate.php disp 2>>
+<<1160429451 ^ 68.205.104.23:24453 authenticate.php fail missed 1 extra 0>>
+<<1160429462 ^ 68.205.104.23:24455 % jblanchard adminlogout.php lout>>
+<<1160429469 ^ 68.205.104.23:24453 login.php atst status 2>>
+<<1160429470 ^ 68.205.104.23:24455 authenticate.php disp 3>>
+<<1160429497 ^ 68.205.104.23:24473 authenticate.php disp 1>>
+<<1160429517 ^ 68.205.104.23:24485 authenticate.php disp 2>>
+<<1160429522 ^ 68.205.104.23:24498 authenticate.php succ>>
+<<1162744851 ^ 68.205.104.23:1545 login.php atst status 2>>
+<<1162744852 ^ 68.205.104.23:1547 authenticate.php disp 2>>
+<<1162744868 ^ 68.205.104.23:1565 authenticate.php disp 3>>
+<<1162744884 ^ 68.205.104.23:1574 authenticate.php disp 1>>
+<<1162744887 ^ 68.205.104.23:1577 authenticate.php fail missed 2 extra 2>>
+<<1162744898 ^ 68.205.104.23:1579 login.php atst status 2>>
+<<1162744899 ^ 68.205.104.23:1579 authenticate.php disp 1>>
+<<1162744965 ^ 68.205.104.23:1605 authenticate.php disp 3>>
+<<1162744976 ^ 68.205.104.23:1614 authenticate.php disp 2>>
+<<1162744982 ^ 68.205.104.23:1620 authenticate.php succ>>
+<<1164555592 ^ 68.205.104.23:2606 login.php atst status 2>>
+<<1164555594 ^ 68.205.104.23:2606 authenticate.php disp 1>>
+<<1164555612 ^ 68.205.104.23:2636 authenticate.php disp 2>>
+<<1164555642 ^ 68.205.104.23:2662 authenticate.php disp 3>>
+<<1164555659 ^ 68.205.104.23:2675 authenticate.php succ>>
+<<1164592126 ^ 68.205.104.23:1555 login.php atst status 2>>
+<<1164592127 ^ 68.205.104.23:1556 authenticate.php disp 1>>
+<<1164592154 ^ 68.205.104.23:1600 authenticate.php disp 3>>
+<<1164592169 ^ 68.205.104.23:1627 authenticate.php disp 2>>
+<<1164592175 ^ 68.205.104.23:1637 authenticate.php fail missed 1 extra 1>>
+<<1164592186 ^ 68.205.104.23:1638 % jblanchard adminlogout.php lout>>
+<<1164592193 ^ 68.205.104.23:1638 login.php atst status 2>>
+<<1164592194 ^ 68.205.104.23:1638 authenticate.php disp 1>>
+<<1164592212 ^ 68.205.104.23:1672 authenticate.php disp 2>>
+<<1164592225 ^ 68.205.104.23:1700 authenticate.php disp 3>>
+<<1164592245 ^ 68.205.104.23:1728 authenticate.php fail missed 1 extra 2>>
+<<1164592255 ^ 68.205.104.23:1728 login.php atst status 2>>
+<<1164592256 ^ 68.205.104.23:1728 authenticate.php disp 1>>
+<<1164592288 ^ 68.205.104.23:1760 authenticate.php disp 2>>
+<<1164592318 ^ 68.205.104.23:1786 authenticate.php disp 3>>
+<<1164592333 ^ 68.205.104.23:1806 authenticate.php fail missed 2 extra 2>>
+<<1164592341 ^ 68.205.104.23:1811 login.php atst status 2>>
+<<1164592343 ^ 68.205.104.23:1811 authenticate.php disp 1>>
+<<1164592360 ^ 68.205.104.23:1833 authenticate.php disp 2>>
+<<1164592391 ^ 68.205.104.23:1843 authenticate.php disp 3>>
+<<1164592400 ^ 68.205.104.23:1859 authenticate.php fail missed 2 extra 2>>
+<<1164592410 ^ 68.205.104.23:1859 login.php atst status 2>>
+<<1164592411 ^ 68.205.104.23:1859 authenticate.php disp 3>>
+<<1164592432 ^ 68.205.104.23:1884 authenticate.php disp 2>>
+<<1164592444 ^ 68.205.104.23:1895 authenticate.php disp 1>>
+<<1164592449 ^ 68.205.104.23:1901 authenticate.php fail missed 1 extra 1>>
+<<1164592456 ^ 68.205.104.23:1901 login.php atst status 2>>
+<<1164592458 ^ 68.205.104.23:1901 authenticate.php disp 2>>
+<<1164592476 ^ 68.205.104.23:1922 authenticate.php disp 3>>
+<<1164592490 ^ 68.205.104.23:1935 authenticate.php disp 1>>
+<<1164592495 ^ 68.205.104.23:1939 authenticate.php fail missed 2 extra 2>>
+<<1164592503 ^ 68.205.104.23:1940 login.php atst status 2>>
+<<1164592504 ^ 68.205.104.23:1940 authenticate.php disp 2>>
+<<1164592520 ^ 68.205.104.23:1983 authenticate.php disp 1>>
+<<1164592539 ^ 68.205.104.23:2028 authenticate.php disp 3>>
+<<1164592550 ^ 68.205.104.23:2037 authenticate.php fail missed 1 extra 1>>
+<<1164592569 ^ 68.205.104.23:2037 reset.php qanm>>
+<<1164592582 ^ 68.205.104.23:2042 reset.php qanm>>
+<<1164592591 ^ 68.205.104.23:2042 reset.php succ email jjb@cise.ufl.edu>>
+<<1164593034 ^ 68.205.104.23:2119 % jblanchard adminlogout.php lout>>
+<<1164593042 ^ 68.205.104.23:2119 login.php atst status 2>>
+<<1164593043 ^ 68.205.104.23:2119 authenticate.php disp 1>>
+<<1164593056 ^ 68.205.104.23:2177 authenticate.php disp 3>>
+<<1164593065 ^ 68.205.104.23:2190 authenticate.php disp 2>>
+<<1164593070 ^ 68.205.104.23:2190 authenticate.php succ>>
+<<1164834146 ^ 68.205.104.23:1566 login.php atst status 2>>
+<<1164834147 ^ 68.205.104.23:1567 authenticate.php disp 1>>
+<<1164834162 ^ 68.205.104.23:1586 authenticate.php disp 2>>
+<<1164834176 ^ 68.205.104.23:1611 authenticate.php disp 3>>
+<<1164834182 ^ 68.205.104.23:1613 authenticate.php fail missed 1 extra 1>>
+<<1164834193 ^ 68.205.104.23:1617 % jblanchard adminlogout.php lout>>
+<<1164834199 ^ 68.205.104.23:1617 login.php atst status 2>>
+<<1164834200 ^ 68.205.104.23:1617 authenticate.php disp 1>>
+<<1164834210 ^ 68.205.104.23:1630 authenticate.php disp 3>>
+<<1164834220 ^ 68.205.104.23:1640 authenticate.php disp 2>>
+<<1164834224 ^ 68.205.104.23:1649 authenticate.php fail missed 1 extra 1>>
+<<1164834231 ^ 68.205.104.23:1650 login.php atst status 2>>
+<<1164834232 ^ 68.205.104.23:1649 authenticate.php disp 2>>
+<<1164834242 ^ 68.205.104.23:1672 authenticate.php disp 3>>
+<<1164834252 ^ 68.205.104.23:1685 authenticate.php disp 1>>
+<<1164834254 ^ 68.205.104.23:1686 authenticate.php fail missed 2 extra 2>>
+<<1164834261 ^ 68.205.104.23:1686 login.php atst status 2>>
+<<1164834262 ^ 68.205.104.23:1687 authenticate.php disp 1>>
+<<1164834270 ^ 68.205.104.23:1703 authenticate.php disp 2>>
+<<1164834282 ^ 68.205.104.23:1715 authenticate.php disp 3>>
+<<1164834290 ^ 68.205.104.23:1725 authenticate.php fail missed 1 extra 1>>
+<<1164834297 ^ 68.205.104.23:1727 login.php atst status 2>>
+<<1164834297 ^ 68.205.104.23:1730 authenticate.php disp 3>>
+<<1164834305 ^ 68.205.104.23:1735 authenticate.php disp 1>>
+<<1164834310 ^ 68.205.104.23:1739 authenticate.php disp 2>>
+<<1164834315 ^ 68.205.104.23:1750 authenticate.php fail missed 1 extra 1>>
+<<1164834323 ^ 68.205.104.23:1750 login.php atst status 2>>
+<<1164834324 ^ 68.205.104.23:1750 authenticate.php disp 1>>
+<<1164834356 ^ 68.205.104.23:1774 authenticate.php disp 2>>
+<<1164834366 ^ 68.205.104.23:1781 authenticate.php disp 3>>
+<<1164834373 ^ 68.205.104.23:1786 authenticate.php succ>>
+<<1165762406 ^ 68.205.104.23:50161 login.php atst status 2>>
+<<1165762407 ^ 68.205.104.23:50161 authenticate.php disp 2>>
+<<1165762418 ^ 68.205.104.23:50172 authenticate.php disp 1>>
+<<1165762436 ^ 68.205.104.23:50195 authenticate.php disp 3>>
+<<1165762444 ^ 68.205.104.23:50204 authenticate.php fail missed 1 extra 1>>
+<<1165762455 ^ 68.205.104.23:50204 % jblanchard adminlogout.php lout>>
+<<1165768029 ^ 68.205.104.23:50537 login.php atst status 2>>
+<<1165768030 ^ 68.205.104.23:50537 authenticate.php disp 2>>
+<<1165768040 ^ 68.205.104.23:50562 authenticate.php disp 3>>
+<<1165768050 ^ 68.205.104.23:50579 authenticate.php disp 1>>
+<<1165768058 ^ 68.205.104.23:50584 authenticate.php disp 3>>
+<<1165768071 ^ 68.205.104.23:50600 authenticate.php disp 2>>
+<<1165768086 ^ 68.205.104.23:50633 authenticate.php disp 3>>
+<<1165768094 ^ 68.205.104.23:50648 authenticate.php disp 1>>
+<<1165768098 ^ 68.205.104.23:50650 authenticate.php succ>>

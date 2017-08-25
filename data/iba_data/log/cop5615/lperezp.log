@@ -1,0 +1,608 @@
+<<1156388632 ^ 70.171.26.119:3840 register1.php succ>>
+<<1156388893 ^ 70.171.26.119:4105 selectpass.php succ count 5>>
+<<1156388908 ^ 70.171.26.119:4105 training.php disp 2>>
+<<1156389002 ^ 70.171.26.119:4246 training.php disp 3>>
+<<1156389045 ^ 70.171.26.119:4294 training.php disp 1>>
+<<1156389062 ^ 70.171.26.119:4321 training.php fail missed 2 extra 7>>
+<<1156389077 ^ 70.171.26.119:4325 training.php disp 2>>
+<<1156389097 ^ 70.171.26.119:4366 training.php disp 1>>
+<<1156389117 ^ 70.171.26.119:4390 training.php disp 3>>
+<<1156389128 ^ 70.171.26.119:4414 training.php fail missed 2 extra 2>>
+<<1156389162 ^ 70.171.26.119:4415 training.php disp 3>>
+<<1156389218 ^ 70.171.26.119:4523 training.php disp 2>>
+<<1156389258 ^ 70.171.26.119:4594 training.php disp 1>>
+<<1156389301 ^ 70.171.26.119:4632 training.php succ>>
+<<1156389321 ^ 70.171.26.119:4637 training.php disp 1>>
+<<1156389349 ^ 70.171.26.119:4677 training.php disp 3>>
+<<1156389351 ^ 70.171.26.119:4685 training.php disp 2>>
+<<1156389353 ^ 70.171.26.119:4688 training.php succ>>
+<<1156389357 ^ 70.171.26.119:4690 training.php disp 2>>
+<<1156389386 ^ 70.171.26.119:4738 training.php disp 1>>
+<<1156389407 ^ 70.171.26.119:4781 training.php disp 3>>
+<<1156389411 ^ 70.171.26.119:4781 training.php succ>>
+<<1156389417 ^ 70.171.26.119:4782 training.php disp 3>>
+<<1156389434 ^ 70.171.26.119:4834 training.php disp 1>>
+<<1156389461 ^ 70.171.26.119:4892 training.php disp 2>>
+<<1156389462 ^ 70.171.26.119:4894 training.php succ>>
+<<1156389465 ^ 70.171.26.119:4896 % lperezp adminlogout.php lout>>
+<<1156389477 ^ 70.171.26.119:4897 authenticate.php disp 2>>
+<<1156389489 ^ 70.171.26.119:4917 authenticate.php disp 3>>
+<<1156389497 ^ 70.171.26.119:4938 authenticate.php disp 1>>
+<<1156389531 ^ 70.171.26.119:1027 authenticate.php succ>>
+<<1156443126 ^ 10.30.33.167:1099 authenticate.php disp 2>>
+<<1156443135 ^ 10.30.33.167:1133 authenticate.php disp 3>>
+<<1156443161 ^ 10.30.33.167:1147 authenticate.php disp 1>>
+<<1156443194 ^ 10.30.33.167:1170 authenticate.php succ>>
+<<1156534648 ^ 128.227.195.53:3317 login.php atst status 2>>
+<<1156534649 ^ 128.227.195.53:3320 authenticate.php disp 3>>
+<<1156534657 ^ 128.227.195.53:3406 authenticate.php disp 2>>
+<<1156534663 ^ 128.227.195.53:3467 authenticate.php disp 1>>
+<<1156534731 ^ 128.227.195.53:3609 authenticate.php succ>>
+<<1156608951 ^ 70.171.9.146:1162 login.php atst status 2>>
+<<1156608953 ^ 70.171.9.146:1164 authenticate.php disp 2>>
+<<1156608967 ^ 70.171.9.146:1191 authenticate.php disp 1>>
+<<1156609022 ^ 70.171.9.146:1205 authenticate.php disp 3>>
+<<1156609032 ^ 70.171.9.146:4463 authenticate.php succ>>
+<<1156881195 ^ 70.171.54.250:4901 login.php atst status 2>>
+<<1156881201 ^ 70.171.54.250:4904 authenticate.php disp 1>>
+<<1156881244 ^ 70.171.54.250:4934 authenticate.php disp 3>>
+<<1156881253 ^ 70.171.54.250:4938 authenticate.php disp 2>>
+<<1156881267 ^ 70.171.54.250:4941 authenticate.php succ>>
+<<1156894574 ^ 70.171.51.234:3930 login.php atst status 2>>
+<<1156894575 ^ 70.171.51.234:3931 authenticate.php disp 2>>
+<<1156894590 ^ 70.171.51.234:3943 authenticate.php disp 3>>
+<<1156894595 ^ 70.171.51.234:3951 authenticate.php disp 1>>
+<<1156894654 ^ 70.171.51.234:3960 authenticate.php succ>>
+<<1156907998 ^ 70.171.51.234:1723 login.php atst status 2>>
+<<1156907999 ^ 70.171.51.234:1724 authenticate.php disp 1>>
+<<1156908093 ^ 70.171.51.234:1749 authenticate.php disp 2>>
+<<1156908105 ^ 70.171.51.234:1775 authenticate.php disp 3>>
+<<1156908119 ^ 70.171.51.234:1792 authenticate.php fail missed 1 extra 1>>
+<<1156908129 ^ 70.171.51.234:1792 % lperezp adminlogout.php lout>>
+<<1156908137 ^ 70.171.51.234:1792 login.php atst status 2>>
+<<1156908137 ^ 70.171.51.234:1792 authenticate.php disp 1>>
+<<1156908154 ^ 70.171.51.234:1793 authenticate.php disp 2>>
+<<1156908156 ^ 70.171.51.234:1793 authenticate.php disp 3>>
+<<1156908157 ^ 70.171.51.234:1793 authenticate.php succ>>
+<<1156985929 ^ 70.171.18.236:3763 login.php atst status 2>>
+<<1156985930 ^ 70.171.18.236:3765 authenticate.php disp 2>>
+<<1156985933 ^ 70.171.18.236:3767 authenticate.php disp 3>>
+<<1156985940 ^ 70.171.18.236:3775 authenticate.php disp 1>>
+<<1156985955 ^ 70.171.18.236:3783 authenticate.php succ>>
+<<1156994269 ^ 70.171.18.236:3267 login.php atst status 2>>
+<<1156994270 ^ 70.171.18.236:3268 authenticate.php disp 3>>
+<<1156994277 ^ 70.171.18.236:3271 authenticate.php disp 1>>
+<<1156994295 ^ 70.171.18.236:3281 authenticate.php disp 2>>
+<<1156994299 ^ 70.171.18.236:3282 authenticate.php succ>>
+<<1157048413 ^ 128.227.195.239:1132 login.php atst status 2>>
+<<1157048414 ^ 128.227.195.239:1134 authenticate.php disp 2>>
+<<1157048425 ^ 128.227.195.239:1164 authenticate.php disp 1>>
+<<1157048443 ^ 128.227.195.239:1177 authenticate.php disp 3>>
+<<1157048446 ^ 128.227.195.239:1188 authenticate.php succ>>
+<<1157076960 ^ 70.171.49.83:2477 login.php atst status 2>>
+<<1157076962 ^ 70.171.49.83:2479 authenticate.php disp 3>>
+<<1157076973 ^ 70.171.49.83:2483 authenticate.php disp 1>>
+<<1157076986 ^ 70.171.49.83:3057 authenticate.php disp 2>>
+<<1157076990 ^ 70.171.49.83:3057 authenticate.php succ>>
+<<1157214103 ^ 70.171.47.141:3402 login.php atst status 2>>
+<<1157214104 ^ 70.171.47.141:3404 authenticate.php disp 3>>
+<<1157214117 ^ 70.171.47.141:3413 authenticate.php disp 1>>
+<<1157214135 ^ 70.171.47.141:3440 authenticate.php disp 2>>
+<<1157214137 ^ 70.171.47.141:3445 authenticate.php succ>>
+<<1157416544 ^ 70.171.47.141:1568 login.php atst status 2>>
+<<1157416546 ^ 70.171.47.141:1570 authenticate.php disp 3>>
+<<1157416597 ^ 70.171.47.141:1587 authenticate.php disp 2>>
+<<1157416602 ^ 70.171.47.141:1588 authenticate.php disp 1>>
+<<1157416616 ^ 70.171.47.141:1598 authenticate.php succ>>
+<<1157429892 ^ 70.171.47.141:1653 login.php atst status 2>>
+<<1157429893 ^ 70.171.47.141:1655 authenticate.php disp 2>>
+<<1157566721 ^ 10.30.35.44:4583 login.php atst status 2>>
+<<1157566721 ^ 10.30.35.44:4585 authenticate.php disp 3>>
+<<1157566733 ^ 10.30.35.44:4593 authenticate.php disp 2>>
+<<1157566742 ^ 10.30.35.44:4600 authenticate.php disp 1>>
+<<1157566756 ^ 10.30.35.44:4611 authenticate.php succ>>
+<<1157614680 ^ 70.171.47.141:2448 login.php atst status 2>>
+<<1157614680 ^ 70.171.47.141:2450 authenticate.php disp 1>>
+<<1157614702 ^ 70.171.47.141:2472 authenticate.php disp 3>>
+<<1157614704 ^ 70.171.47.141:2479 authenticate.php disp 2>>
+<<1157614705 ^ 70.171.47.141:2482 authenticate.php succ>>
+<<1157648500 ^ 10.244.60.143:1652 login.php atst status 2>>
+<<1157648501 ^ 10.244.60.143:1654 authenticate.php disp 3>>
+<<1157648506 ^ 10.244.60.143:1661 authenticate.php disp 2>>
+<<1157648531 ^ 10.244.60.143:2637 authenticate.php disp 1>>
+<<1157648561 ^ 10.244.60.143:2650 authenticate.php succ>>
+<<1157649283 ^ 10.244.60.143:2431 login.php atst status 2>>
+<<1157649284 ^ 10.244.60.143:2431 authenticate.php disp 2>>
+<<1157649290 ^ 10.244.60.143:2436 authenticate.php disp 1>>
+<<1157649303 ^ 10.244.60.143:2448 authenticate.php disp 3>>
+<<1157649305 ^ 10.244.60.143:2448 authenticate.php succ>>
+<<1157654205 ^ 70.171.36.15:1089 login.php atst status 2>>
+<<1157654206 ^ 70.171.36.15:1091 authenticate.php disp 1>>
+<<1157654234 ^ 70.171.36.15:1118 authenticate.php disp 3>>
+<<1157654236 ^ 70.171.36.15:1120 authenticate.php disp 2>>
+<<1157654238 ^ 70.171.36.15:1126 authenticate.php succ>>
+<<1157666599 ^ 70.171.36.15:1043 login.php atst status 2>>
+<<1157666600 ^ 70.171.36.15:1045 authenticate.php disp 3>>
+<<1157666606 ^ 70.171.36.15:1046 authenticate.php disp 1>>
+<<1157666640 ^ 70.171.36.15:1065 authenticate.php disp 2>>
+<<1157666643 ^ 70.171.36.15:1065 authenticate.php succ>>
+<<1157684645 ^ 70.171.36.15:3219 login.php atst status 2>>
+<<1157684646 ^ 70.171.36.15:3221 authenticate.php disp 1>>
+<<1157684670 ^ 70.171.36.15:3257 authenticate.php disp 3>>
+<<1157684672 ^ 70.171.36.15:3259 authenticate.php disp 2>>
+<<1157684674 ^ 70.171.36.15:3262 authenticate.php succ>>
+<<1157755467 ^ 70.171.48.253:3647 login.php atst status 2>>
+<<1157755468 ^ 70.171.48.253:3649 authenticate.php disp 2>>
+<<1157755473 ^ 70.171.48.253:3654 authenticate.php disp 1>>
+<<1157755484 ^ 70.171.48.253:3670 authenticate.php disp 3>>
+<<1157755486 ^ 70.171.48.253:3675 authenticate.php succ>>
+<<1157823847 ^ 70.171.48.253:4224 login.php atst status 2>>
+<<1157823848 ^ 70.171.48.253:4226 authenticate.php disp 3>>
+<<1157823854 ^ 70.171.48.253:4228 authenticate.php disp 1>>
+<<1157823869 ^ 70.171.48.253:4244 authenticate.php disp 2>>
+<<1157823871 ^ 70.171.48.253:4247 authenticate.php succ>>
+<<1157878605 ^ 70.171.48.253:3127 login.php atst status 2>>
+<<1157878607 ^ 70.171.48.253:3129 authenticate.php disp 3>>
+<<1157878613 ^ 70.171.48.253:3130 authenticate.php disp 1>>
+<<1157878646 ^ 70.171.48.253:3154 authenticate.php disp 2>>
+<<1157878648 ^ 70.171.48.253:3158 authenticate.php succ>>
+<<1157935870 ^ 70.171.48.253:1747 login.php atst status 2>>
+<<1157935871 ^ 70.171.48.253:1749 authenticate.php disp 1>>
+<<1157935884 ^ 70.171.48.253:1767 authenticate.php disp 3>>
+<<1157935887 ^ 70.171.48.253:1768 authenticate.php disp 2>>
+<<1157935889 ^ 70.171.48.253:1770 authenticate.php succ>>
+<<1158031481 ^ 70.171.52.111:3778 login.php atst status 2>>
+<<1158031482 ^ 70.171.52.111:3781 authenticate.php disp 1>>
+<<1158031491 ^ 70.171.52.111:3794 authenticate.php disp 2>>
+<<1158031493 ^ 70.171.52.111:3797 authenticate.php disp 3>>
+<<1158031495 ^ 70.171.52.111:3801 authenticate.php fail missed 2 extra 2>>
+<<1158031505 ^ 70.171.52.111:3801 login.php atst status 2>>
+<<1158031505 ^ 70.171.52.111:3801 authenticate.php disp 3>>
+<<1158031510 ^ 70.171.52.111:3808 authenticate.php disp 1>>
+<<1158031522 ^ 70.171.52.111:3817 authenticate.php disp 2>>
+<<1158031524 ^ 70.171.52.111:3817 authenticate.php succ>>
+<<1158085480 ^ 10.30.35.44:2635 login.php atst status 2>>
+<<1158085481 ^ 10.30.35.44:2637 authenticate.php disp 3>>
+<<1158085487 ^ 10.30.35.44:2639 authenticate.php disp 1>>
+<<1158085502 ^ 10.30.35.44:2647 authenticate.php disp 2>>
+<<1158085504 ^ 10.30.35.44:2647 authenticate.php succ>>
+<<1158117694 ^ 70.171.52.111:1645 login.php atst status 2>>
+<<1158117695 ^ 70.171.52.111:1647 authenticate.php disp 3>>
+<<1158117737 ^ 70.171.52.111:4686 authenticate.php disp 1>>
+<<1158117750 ^ 70.171.52.111:4701 authenticate.php disp 2>>
+<<1158117751 ^ 70.171.52.111:4701 authenticate.php succ>>
+<<1158171068 ^ 10.30.35.44:2712 login.php atst status 2>>
+<<1158171069 ^ 10.30.35.44:2712 authenticate.php disp 2>>
+<<1158171079 ^ 10.30.35.44:2714 authenticate.php disp 3>>
+<<1158171082 ^ 10.30.35.44:2714 authenticate.php disp 1>>
+<<1158171091 ^ 10.30.35.44:2728 authenticate.php succ>>
+<<1158189077 ^ 10.30.35.44:2206 login.php atst status 2>>
+<<1158189077 ^ 10.30.35.44:2207 authenticate.php disp 3>>
+<<1158189081 ^ 10.30.35.44:2207 authenticate.php disp 1>>
+<<1158189094 ^ 10.30.35.44:2214 authenticate.php disp 2>>
+<<1158189096 ^ 10.30.35.44:2215 authenticate.php succ>>
+<<1158257070 ^ 10.30.35.44:3269 login.php atst status 2>>
+<<1158257070 ^ 10.30.35.44:3270 authenticate.php disp 1>>
+<<1158257090 ^ 10.30.35.44:3280 authenticate.php disp 3>>
+<<1158257092 ^ 10.30.35.44:3281 authenticate.php disp 2>>
+<<1158257094 ^ 10.30.35.44:3282 authenticate.php succ>>
+<<1158349024 ^ 70.171.25.180:4196 login.php atst status 2>>
+<<1158349025 ^ 70.171.25.180:4198 authenticate.php disp 3>>
+<<1158349031 ^ 70.171.25.180:4206 authenticate.php disp 1>>
+<<1158349050 ^ 70.171.25.180:4216 authenticate.php disp 2>>
+<<1158349052 ^ 70.171.25.180:4217 authenticate.php succ>>
+<<1158349062 ^ 70.171.25.180:4217 % lperezp adminlogout.php lout>>
+<<1158367124 ^ 70.171.25.180:3643 login.php atst status 2>>
+<<1158367125 ^ 70.171.25.180:3645 authenticate.php disp 1>>
+<<1158367137 ^ 70.171.25.180:3658 authenticate.php disp 2>>
+<<1158367139 ^ 70.171.25.180:3659 authenticate.php disp 3>>
+<<1158367141 ^ 70.171.25.180:3659 authenticate.php succ>>
+<<1158601727 ^ 10.30.35.44:3934 login.php atst status 2>>
+<<1158601728 ^ 10.30.35.44:3936 authenticate.php disp 2>>
+<<1158601732 ^ 10.30.35.44:3937 authenticate.php disp 1>>
+<<1158601745 ^ 10.30.35.44:3965 authenticate.php disp 3>>
+<<1158601748 ^ 10.30.35.44:3971 authenticate.php succ>>
+<<1158601883 ^ 10.30.35.44:4068 login.php atst status 2>>
+<<1158601884 ^ 10.30.35.44:4068 authenticate.php disp 2>>
+<<1158601889 ^ 10.30.35.44:4073 authenticate.php disp 1>>
+<<1158601905 ^ 10.30.35.44:4105 authenticate.php disp 3>>
+<<1158601906 ^ 10.30.35.44:4106 authenticate.php succ>>
+<<1158603669 ^ 10.30.35.44:1753 login.php atst status 2>>
+<<1158603670 ^ 10.30.35.44:1753 authenticate.php disp 2>>
+<<1158603674 ^ 10.30.35.44:1760 authenticate.php disp 1>>
+<<1158603686 ^ 10.30.35.44:1808 authenticate.php disp 3>>
+<<1158603689 ^ 10.30.35.44:1805 authenticate.php succ>>
+<<1158604413 ^ 10.30.35.44:3062 % lperezp adminlogout.php lout>>
+<<1158628727 ^ 70.171.5.219:3778 login.php atst status 2>>
+<<1158628728 ^ 70.171.5.219:3780 authenticate.php disp 2>>
+<<1158628744 ^ 70.171.5.219:3793 authenticate.php disp 1>>
+<<1158628758 ^ 70.171.5.219:3803 authenticate.php disp 3>>
+<<1158628789 ^ 70.171.5.219:3808 authenticate.php succ>>
+<<1158645195 ^ 70.171.22.218:4148 login.php atst status 2>>
+<<1158645196 ^ 70.171.22.218:4150 authenticate.php disp 1>>
+<<1158645210 ^ 70.171.22.218:4168 authenticate.php disp 3>>
+<<1158645211 ^ 70.171.22.218:4169 authenticate.php disp 2>>
+<<1158645213 ^ 70.171.22.218:4169 authenticate.php succ>>
+<<1158689389 ^ 10.30.35.44:2458 login.php atst status 2>>
+<<1158689390 ^ 10.30.35.44:2460 authenticate.php disp 1>>
+<<1158689403 ^ 10.30.35.44:2467 authenticate.php disp 3>>
+<<1158689404 ^ 10.30.35.44:2469 authenticate.php disp 2>>
+<<1158689406 ^ 10.30.35.44:2469 authenticate.php succ>>
+<<1158716704 ^ 70.171.5.219:3293 login.php atst status 2>>
+<<1158716705 ^ 70.171.5.219:3295 authenticate.php disp 3>>
+<<1158716709 ^ 70.171.5.219:3295 authenticate.php disp 2>>
+<<1158716714 ^ 70.171.5.219:3303 authenticate.php disp 1>>
+<<1158716732 ^ 70.171.5.219:3322 authenticate.php succ>>
+<<1158777763 ^ 68.101.73.67:33437 login.php atst status 2>>
+<<1158777764 ^ 68.101.73.67:33425 authenticate.php disp 3>>
+<<1158777768 ^ 68.101.73.67:33353 authenticate.php disp 2>>
+<<1158777772 ^ 68.101.73.67:33065 authenticate.php disp 1>>
+<<1158777790 ^ 68.101.73.67:32797 authenticate.php succ>>
+<<1158863010 ^ 10.30.35.44:3095 login.php atst status 2>>
+<<1158863010 ^ 10.30.35.44:3097 authenticate.php disp 2>>
+<<1158863024 ^ 10.30.35.44:3098 authenticate.php disp 1>>
+<<1158863033 ^ 10.30.35.44:3105 authenticate.php disp 3>>
+<<1158863035 ^ 10.30.35.44:3105 authenticate.php succ>>
+<<1158863049 ^ 10.30.35.44:3105 % lperezp adminlogout.php lout>>
+<<1159034241 ^ 68.101.73.67:33175 login.php atst status 2>>
+<<1159034242 ^ 68.101.73.67:33251 authenticate.php disp 3>>
+<<1159034247 ^ 68.101.73.67:32979 authenticate.php disp 2>>
+<<1159034252 ^ 68.101.73.67:33724 authenticate.php disp 1>>
+<<1159034266 ^ 68.101.73.67:33500 authenticate.php succ>>
+<<1159034285 ^ 68.101.73.67:33332 % lperezp adminlogout.php lout>>
+<<1159146619 ^ 68.101.73.67:33162 login.php atst status 2>>
+<<1159146620 ^ 68.101.73.67:33182 authenticate.php disp 3>>
+<<1159146628 ^ 68.101.73.67:33106 authenticate.php disp 2>>
+<<1159146647 ^ 68.101.73.67:32834 authenticate.php disp 1>>
+<<1159146655 ^ 68.101.73.67:33627 authenticate.php succ>>
+<<1159169538 ^ 68.101.73.67:33696 login.php atst status 2>>
+<<1159169539 ^ 68.101.73.67:33692 authenticate.php disp 2>>
+<<1159169542 ^ 68.101.73.67:33636 authenticate.php disp 3>>
+<<1159169548 ^ 68.101.73.67:33184 authenticate.php disp 1>>
+<<1159169557 ^ 68.101.73.67:32792 authenticate.php succ>>
+<<1159169568 ^ 68.101.73.67:32780 % lperezp adminlogout.php lout>>
+<<1159224578 ^ 68.101.73.67:33362 login.php atst status 2>>
+<<1159224579 ^ 68.101.73.67:33374 authenticate.php disp 2>>
+<<1159224583 ^ 68.101.73.67:32898 authenticate.php disp 3>>
+<<1159224587 ^ 68.101.73.67:32842 authenticate.php disp 1>>
+<<1159224594 ^ 68.101.73.67:33603 authenticate.php succ>>
+<<1159289431 ^ 10.244.62.164:3174 login.php atst status 2>>
+<<1159289432 ^ 10.244.62.164:3175 authenticate.php disp 1>>
+<<1159289454 ^ 10.244.62.164:3187 authenticate.php disp 3>>
+<<1159289456 ^ 10.244.62.164:3188 authenticate.php disp 2>>
+<<1159289458 ^ 10.244.62.164:3188 authenticate.php fail missed 1 extra 1>>
+<<1159289464 ^ 10.244.62.164:3188 login.php atst status 2>>
+<<1159289465 ^ 10.244.62.164:3188 authenticate.php disp 1>>
+<<1159289480 ^ 10.244.62.164:3196 authenticate.php disp 3>>
+<<1159289482 ^ 10.244.62.164:3196 authenticate.php disp 2>>
+<<1159289483 ^ 10.244.62.164:3196 authenticate.php succ>>
+<<1159321388 ^ 68.101.73.67:33538 login.php atst status 2>>
+<<1159321389 ^ 68.101.73.67:33662 authenticate.php disp 2>>
+<<1159321396 ^ 68.101.73.67:33330 authenticate.php disp 3>>
+<<1159321403 ^ 68.101.73.67:33042 authenticate.php disp 1>>
+<<1159321426 ^ 68.101.73.67:33595 authenticate.php succ>>
+<<1159378204 ^ 10.242.58.221:4969 login.php atst status 2>>
+<<1159378205 ^ 10.242.58.221:4971 authenticate.php disp 1>>
+<<1159378217 ^ 10.242.58.221:4977 authenticate.php disp 2>>
+<<1159378219 ^ 10.242.58.221:4978 authenticate.php disp 3>>
+<<1159378221 ^ 10.242.58.221:4982 authenticate.php succ>>
+<<1159378236 ^ 10.242.58.221:4982 % lperezp adminlogout.php lout>>
+<<1159403864 ^ 68.101.73.67:33519 login.php atst status 2>>
+<<1159403865 ^ 68.101.73.67:33530 authenticate.php disp 3>>
+<<1159403869 ^ 68.101.73.67:33254 authenticate.php disp 2>>
+<<1159403875 ^ 68.101.73.67:33150 authenticate.php disp 1>>
+<<1159403902 ^ 68.101.73.67:33719 authenticate.php succ>>
+<<1159403914 ^ 68.101.73.67:33671 % lperezp adminlogout.php lout>>
+<<1159426140 ^ 68.101.73.67:33688 login.php atst status 2>>
+<<1159426141 ^ 68.101.73.67:33684 authenticate.php disp 2>>
+<<1159426144 ^ 68.101.73.67:33460 authenticate.php disp 1>>
+<<1159426155 ^ 68.101.73.67:33244 authenticate.php disp 3>>
+<<1159426158 ^ 68.101.73.67:32932 authenticate.php succ>>
+<<1159502845 ^ 68.101.73.67:32899 login.php atst status 2>>
+<<1159502846 ^ 68.101.73.67:33023 authenticate.php disp 3>>
+<<1159502850 ^ 68.101.73.67:33668 authenticate.php disp 1>>
+<<1159502864 ^ 68.101.73.67:33312 authenticate.php disp 2>>
+<<1159502866 ^ 68.101.73.67:33176 authenticate.php succ>>
+<<1159502877 ^ 68.101.73.67:33156 % lperezp adminlogout.php lout>>
+<<1159570848 ^ 68.101.73.67:33233 login.php atst status 2>>
+<<1159570858 ^ 68.101.73.67:33029 authenticate.php disp 2>>
+<<1159570970 ^ 68.101.73.67:33586 authenticate.php disp 1>>
+<<1159571029 ^ 68.101.73.67:33126 authenticate.php disp 3>>
+<<1159571031 ^ 68.101.73.67:32994 authenticate.php succ>>
+<<1159571113 ^ 68.101.73.67:32986 % lperezp adminlogout.php lout>>
+<<1159647370 ^ 68.101.73.67:32900 login.php atst status 2>>
+<<1159647371 ^ 68.101.73.67:32904 authenticate.php disp 1>>
+<<1159647386 ^ 68.101.73.67:33633 authenticate.php disp 2>>
+<<1159647388 ^ 68.101.73.67:33517 authenticate.php disp 3>>
+<<1159647389 ^ 68.101.73.67:33394 authenticate.php succ>>
+<<1159647403 ^ 68.101.73.67:33345 % lperezp adminlogout.php lout>>
+<<1159738907 ^ 68.101.73.67:32987 login.php atst status 2>>
+<<1159738913 ^ 68.101.73.67:32983 authenticate.php disp 3>>
+<<1159738939 ^ 68.101.73.67:33764 authenticate.php disp 2>>
+<<1159738982 ^ 68.101.73.67:33316 authenticate.php disp 1>>
+<<1159739083 ^ 68.101.73.67:33614 authenticate.php succ>>
+<<1159760000 ^ 68.101.73.67:33206 login.php atst status 2>>
+<<1159760001 ^ 68.101.73.67:33154 authenticate.php disp 2>>
+<<1159760011 ^ 68.101.73.67:32782 authenticate.php disp 3>>
+<<1159760015 ^ 68.101.73.67:33735 authenticate.php disp 1>>
+<<1159760027 ^ 68.101.73.67:33379 authenticate.php succ>>
+<<1159760043 ^ 68.101.73.67:33403 % lperezp adminlogout.php lout>>
+<<1159800697 ^ 68.101.73.67:33438 login.php atst status 2>>
+<<1159800698 ^ 68.101.73.67:33506 authenticate.php disp 1>>
+<<1159800709 ^ 68.101.73.67:33226 authenticate.php disp 3>>
+<<1159800712 ^ 68.101.73.67:32930 authenticate.php disp 2>>
+<<1159800714 ^ 68.101.73.67:32806 authenticate.php succ>>
+<<1159800724 ^ 68.101.73.67:32826 % lperezp adminlogout.php lout>>
+<<1159829548 ^ 68.101.73.67:33677 login.php atst status 2>>
+<<1159829549 ^ 68.101.73.67:33681 authenticate.php disp 2>>
+<<1159829558 ^ 68.101.73.67:33433 authenticate.php disp 3>>
+<<1159829562 ^ 68.101.73.67:33189 authenticate.php disp 1>>
+<<1159829571 ^ 68.101.73.67:32913 authenticate.php succ>>
+<<1159866664 ^ 10.30.177.12:2447 login.php atst status 2>>
+<<1159866664 ^ 10.30.177.12:2449 authenticate.php disp 2>>
+<<1159866669 ^ 10.30.177.12:2450 authenticate.php disp 1>>
+<<1159866688 ^ 10.30.177.12:2459 authenticate.php disp 3>>
+<<1159866690 ^ 10.30.177.12:2466 authenticate.php succ>>
+<<1160000166 ^ 68.101.73.67:33029 login.php atst status 2>>
+<<1160000171 ^ 68.101.73.67:33033 authenticate.php disp 1>>
+<<1160000188 ^ 68.101.73.67:32873 authenticate.php disp 2>>
+<<1160000194 ^ 68.101.73.67:33778 authenticate.php disp 3>>
+<<1160000199 ^ 68.101.73.67:33571 authenticate.php succ>>
+<<1160000265 ^ 68.101.73.67:33546 % lperezp adminlogout.php lout>>
+<<1160082563 ^ 68.101.73.67:33293 login.php atst status 2>>
+<<1160082563 ^ 68.101.73.67:33301 authenticate.php disp 3>>
+<<1160082570 ^ 68.101.73.67:33217 authenticate.php disp 1>>
+<<1160082580 ^ 68.101.73.67:32833 authenticate.php disp 2>>
+<<1160082582 ^ 68.101.73.67:33730 authenticate.php succ>>
+<<1160082599 ^ 68.101.73.67:33586 % lperezp adminlogout.php lout>>
+<<1160082620 ^ 68.101.73.67:33554 login.php atst status 2>>
+<<1160082621 ^ 68.101.73.67:33558 authenticate.php disp 3>>
+<<1160082625 ^ 68.101.73.67:33542 authenticate.php disp 1>>
+<<1160082638 ^ 68.101.73.67:33514 authenticate.php disp 2>>
+<<1160082639 ^ 68.101.73.67:33494 authenticate.php succ>>
+<<1160098486 ^ 68.101.73.67:32852 login.php atst status 2>>
+<<1160098487 ^ 68.101.73.67:32860 authenticate.php disp 2>>
+<<1160098492 ^ 68.101.73.67:33571 authenticate.php disp 1>>
+<<1160098500 ^ 68.101.73.67:33611 authenticate.php disp 3>>
+<<1160098503 ^ 68.101.73.67:33535 authenticate.php succ>>
+<<1160098515 ^ 68.101.73.67:33487 % lperezp adminlogout.php lout>>
+<<1160125781 ^ 68.101.73.67:32905 login.php atst status 2>>
+<<1160125789 ^ 68.101.73.67:32913 authenticate.php disp 3>>
+<<1160125813 ^ 68.101.73.67:32885 authenticate.php disp 1>>
+<<1160125889 ^ 68.101.73.67:33292 authenticate.php disp 2>>
+<<1160125900 ^ 68.101.73.67:33192 authenticate.php succ>>
+<<1160414967 ^ 128.227.248.154:4930 login.php atst status 2>>
+<<1160414968 ^ 128.227.248.154:4933 authenticate.php disp 3>>
+<<1160414971 ^ 128.227.248.154:4986 authenticate.php disp 1>>
+<<1160414982 ^ 128.227.248.154:1129 authenticate.php disp 2>>
+<<1160414984 ^ 128.227.248.154:1168 authenticate.php succ>>
+<<1160414992 ^ 128.227.248.154:1173 % lperezp adminlogout.php lout>>
+<<1160438231 ^ 68.101.73.67:32930 login.php atst status 2>>
+<<1160438237 ^ 68.101.73.67:32902 authenticate.php disp 3>>
+<<1160438729 ^ 68.101.73.67:32987 login.php atst status 2>>
+<<1160438732 ^ 68.101.73.67:32963 authenticate.php disp 1>>
+<<1160438795 ^ 68.101.73.67:33746 authenticate.php disp 2>>
+<<1160438847 ^ 68.101.73.67:33510 authenticate.php disp 3>>
+<<1160438863 ^ 68.101.73.67:33402 authenticate.php succ>>
+<<1160608248 ^ 10.30.42.114:4011 login.php atst status 2>>
+<<1160608257 ^ 10.30.42.114:4015 authenticate.php disp 2>>
+<<1160608401 ^ 10.30.42.114:4350 authenticate.php disp 1>>
+<<1160608789 ^ 10.30.42.114:4691 authenticate.php disp 3>>
+<<1160608864 ^ 10.30.42.114:4819 authenticate.php succ>>
+<<1160626607 ^ 68.101.73.67:33185 login.php atst status 2>>
+<<1160626612 ^ 68.101.73.67:33209 authenticate.php disp 2>>
+<<1160629343 ^ 68.101.73.67:33594 login.php atst status 2>>
+<<1160629349 ^ 68.101.73.67:33558 authenticate.php disp 2>>
+<<1160705021 ^ 68.101.73.67:33731 login.php atst status 2>>
+<<1160705030 ^ 68.101.73.67:33599 authenticate.php disp 1>>
+<<1160705230 ^ 68.101.73.67:32779 authenticate.php disp 2>>
+<<1160706290 ^ 68.101.73.67:33271 authenticate.php disp 3>>
+<<1160706698 ^ 68.101.73.67:33006 authenticate.php succ>>
+<<1160762900 ^ 128.227.248.141:4029 login.php atst status 2>>
+<<1160762901 ^ 128.227.248.141:4031 authenticate.php disp 2>>
+<<1160852663 ^ 68.101.73.67:33693 login.php atst status 2>>
+<<1160852667 ^ 68.101.73.67:33733 authenticate.php disp 2>>
+<<1160941448 ^ 68.101.73.67:32842 login.php atst status 2>>
+<<1160941450 ^ 68.101.73.67:33597 authenticate.php disp 1>>
+<<1160941460 ^ 68.101.73.67:33345 authenticate.php disp 2>>
+<<1160941461 ^ 68.101.73.67:33153 authenticate.php disp 3>>
+<<1160941463 ^ 68.101.73.67:33229 authenticate.php succ>>
+<<1160986464 ^ 68.101.73.67:33150 login.php atst status 2>>
+<<1160986465 ^ 68.101.73.67:33130 authenticate.php disp 2>>
+<<1160986469 ^ 68.101.73.67:32962 authenticate.php disp 1>>
+<<1160986479 ^ 68.101.73.67:33733 authenticate.php disp 3>>
+<<1160986485 ^ 68.101.73.67:33461 authenticate.php succ>>
+<<1161052914 ^ 68.101.73.67:32834 login.php atst status 2>>
+<<1161052915 ^ 68.101.73.67:32846 authenticate.php disp 2>>
+<<1161052922 ^ 68.101.73.67:33425 authenticate.php disp 3>>
+<<1161052926 ^ 68.101.73.67:33185 authenticate.php disp 1>>
+<<1161052935 ^ 68.101.73.67:33009 authenticate.php fail missed 1 extra 1>>
+<<1161052943 ^ 68.101.73.67:32961 login.php atst status 2>>
+<<1161052944 ^ 68.101.73.67:32965 authenticate.php disp 2>>
+<<1161052945 ^ 68.101.73.67:32829 authenticate.php disp 3>>
+<<1161052947 ^ 68.101.73.67:32773 authenticate.php disp 1>>
+<<1161052970 ^ 68.101.73.67:33736 authenticate.php succ>>
+<<1161109557 ^ 128.227.248.134:1709 login.php atst status 2>>
+<<1161109558 ^ 128.227.248.134:1713 authenticate.php disp 1>>
+<<1161109572 ^ 128.227.248.134:1717 authenticate.php disp 3>>
+<<1161109574 ^ 128.227.248.134:1718 authenticate.php disp 2>>
+<<1161109575 ^ 128.227.248.134:1717 authenticate.php succ>>
+<<1161139122 ^ 68.101.73.67:33190 login.php atst status 2>>
+<<1161139130 ^ 68.101.73.67:33154 authenticate.php disp 3>>
+<<1161139637 ^ 68.101.73.67:33156 authenticate.php disp 2>>
+<<1161199710 ^ 68.101.73.67:32884 login.php atst status 2>>
+<<1161199712 ^ 68.101.73.67:32832 authenticate.php disp 2>>
+<<1161199721 ^ 68.101.73.67:33631 authenticate.php disp 1>>
+<<1161199732 ^ 68.101.73.67:33259 authenticate.php disp 3>>
+<<1161199733 ^ 68.101.73.67:33031 authenticate.php succ>>
+<<1161199760 ^ 68.101.73.67:33047 % lperezp adminlogout.php lout>>
+<<1161314003 ^ 68.101.73.67:33541 login.php atst status 2>>
+<<1161314008 ^ 68.101.73.67:33641 authenticate.php disp 3>>
+<<1161314093 ^ 68.101.73.67:33065 authenticate.php disp 1>>
+<<1161314536 ^ 68.101.73.67:33391 authenticate.php disp 2>>
+<<1161314628 ^ 68.101.73.67:33099 authenticate.php succ>>
+<<1161314999 ^ 68.101.73.67:32903 % lperezp adminlogout.php lout>>
+<<1161479828 ^ 68.101.73.67:33339 login.php atst status 2>>
+<<1161479829 ^ 68.101.73.67:33287 authenticate.php disp 3>>
+<<1161479874 ^ 68.101.73.67:33115 authenticate.php disp 2>>
+<<1161479882 ^ 68.101.73.67:33694 authenticate.php disp 1>>
+<<1161479894 ^ 68.101.73.67:33374 authenticate.php succ>>
+<<1161480195 ^ 68.101.73.67:33198 % lperezp adminlogout.php lout>>
+<<1161557896 ^ 68.101.73.67:33249 login.php atst status 2>>
+<<1161557897 ^ 68.101.73.67:33261 authenticate.php disp 3>>
+<<1161558267 ^ 68.101.73.67:32917 authenticate.php disp 2>>
+<<1161558270 ^ 68.101.73.67:33708 authenticate.php disp 1>>
+<<1161558287 ^ 68.101.73.67:33420 authenticate.php succ>>
+<<1161647619 ^ 68.101.73.67:33496 login.php atst status 2>>
+<<1161647620 ^ 68.101.73.67:33324 authenticate.php disp 3>>
+<<1161647630 ^ 68.101.73.67:33080 authenticate.php disp 2>>
+<<1161647634 ^ 68.101.73.67:33016 authenticate.php disp 1>>
+<<1161647648 ^ 68.101.73.67:33559 authenticate.php succ>>
+<<1161647719 ^ 68.101.73.67:33659 % lperezp adminlogout.php lout>>
+<<1161707286 ^ 10.244.56.75:3013 login.php atst status 2>>
+<<1161707291 ^ 10.244.56.75:3017 authenticate.php disp 2>>
+<<1161707407 ^ 10.244.56.75:3126 authenticate.php disp 3>>
+<<1161707480 ^ 10.244.56.75:3219 authenticate.php disp 1>>
+<<1161707520 ^ 10.244.56.75:3321 authenticate.php succ>>
+<<1161707545 ^ 10.244.56.75:3325 % lperezp adminlogout.php lout>>
+<<1161799727 ^ 10.30.41.128:3816 login.php atst status 2>>
+<<1161799728 ^ 10.30.41.128:3819 authenticate.php disp 3>>
+<<1161799734 ^ 10.30.41.128:3861 authenticate.php disp 2>>
+<<1161799738 ^ 10.30.41.128:3899 authenticate.php disp 1>>
+<<1161799761 ^ 10.30.41.128:3979 authenticate.php succ>>
+<<1161969183 ^ 10.30.41.128:4468 login.php atst status 2>>
+<<1161969184 ^ 10.30.41.128:4470 authenticate.php disp 3>>
+<<1161969186 ^ 10.30.41.128:4470 authenticate.php disp 2>>
+<<1161969188 ^ 10.30.41.128:4473 authenticate.php disp 1>>
+<<1161969198 ^ 10.30.41.128:4484 authenticate.php succ>>
+<<1161969223 ^ 10.30.41.128:4487 % lperezp adminlogout.php lout>>
+<<1162319077 ^ 10.244.56.75:1886 login.php atst status 2>>
+<<1162319078 ^ 10.244.56.75:1888 authenticate.php disp 3>>
+<<1162319082 ^ 10.244.56.75:1888 authenticate.php disp 1>>
+<<1162319092 ^ 10.244.56.75:1917 authenticate.php disp 2>>
+<<1162319094 ^ 10.244.56.75:1917 authenticate.php succ>>
+<<1162319113 ^ 10.244.56.75:1917 % lperezp adminlogout.php lout>>
+<<1162357343 ^ 72.196.110.92:2754 login.php atst status 2>>
+<<1162357344 ^ 72.196.110.92:2755 authenticate.php disp 2>>
+<<1162357410 ^ 72.196.110.92:2758 authenticate.php disp 3>>
+<<1162357417 ^ 72.196.110.92:2759 authenticate.php disp 1>>
+<<1162357436 ^ 72.196.110.92:2784 authenticate.php fail missed 0 extra 1>>
+<<1162357442 ^ 72.196.110.92:2786 login.php atst status 2>>
+<<1162357442 ^ 72.196.110.92:2786 authenticate.php disp 1>>
+<<1162357451 ^ 72.196.110.92:2796 authenticate.php disp 2>>
+<<1162357453 ^ 72.196.110.92:2797 authenticate.php disp 3>>
+<<1162357455 ^ 72.196.110.92:2798 authenticate.php succ>>
+<<1162419296 ^ 10.30.41.128:3875 login.php atst status 2>>
+<<1163050652 ^ 72.196.116.6:33692 login.php atst status 2>>
+<<1163050654 ^ 72.196.116.6:33684 authenticate.php disp 1>>
+<<1163050827 ^ 72.196.116.6:33448 authenticate.php disp 2>>
+<<1163050831 ^ 72.196.116.6:33432 authenticate.php disp 3>>
+<<1163050832 ^ 72.196.116.6:33432 authenticate.php succ>>
+<<1163050909 ^ 72.196.116.6:33416 % lperezp adminlogout.php lout>>
+<<1163452104 ^ 10.30.41.128:4326 login.php atst status 2>>
+<<1163452104 ^ 10.30.41.128:4328 authenticate.php disp 2>>
+<<1163452113 ^ 10.30.41.128:4328 authenticate.php disp 1>>
+<<1163452121 ^ 10.30.41.128:4344 authenticate.php disp 3>>
+<<1163452122 ^ 10.30.41.128:4348 authenticate.php succ>>
+<<1163452137 ^ 10.30.41.128:4348 % lperezp adminlogout.php lout>>
+<<1163487120 ^ 72.196.116.6:32972 login.php atst status 2>>
+<<1163487121 ^ 72.196.116.6:32980 authenticate.php disp 3>>
+<<1163487127 ^ 72.196.116.6:32768 authenticate.php disp 1>>
+<<1163487132 ^ 72.196.116.6:32848 authenticate.php disp 2>>
+<<1163487134 ^ 72.196.116.6:33703 authenticate.php fail missed 1 extra 1>>
+<<1163487138 ^ 72.196.116.6:33699 login.php atst status 2>>
+<<1163487139 ^ 72.196.116.6:33699 authenticate.php disp 2>>
+<<1163487141 ^ 72.196.116.6:33699 authenticate.php disp 1>>
+<<1163487152 ^ 72.196.116.6:33715 authenticate.php disp 3>>
+<<1163487153 ^ 72.196.116.6:33715 authenticate.php succ>>
+<<1163487187 ^ 72.196.116.6:33727 % lperezp adminlogout.php lout>>
+<<1163711204 ^ 10.30.41.128:4072 login.php atst status 2>>
+<<1163711209 ^ 10.30.41.128:4074 authenticate.php disp 3>>
+<<1163711214 ^ 10.30.41.128:4075 authenticate.php disp 2>>
+<<1163711219 ^ 10.30.41.128:4076 authenticate.php disp 1>>
+<<1163711226 ^ 10.30.41.128:4087 authenticate.php succ>>
+<<1163711300 ^ 10.30.41.128:4088 % lperezp adminlogout.php lout>>
+<<1163904045 ^ 72.196.116.6:33286 login.php atst status 2>>
+<<1163904046 ^ 72.196.116.6:33310 authenticate.php disp 1>>
+<<1163904075 ^ 72.196.116.6:33214 authenticate.php disp 3>>
+<<1163904077 ^ 72.196.116.6:33166 authenticate.php disp 2>>
+<<1163904079 ^ 72.196.116.6:33154 authenticate.php succ>>
+<<1163984170 ^ 10.30.41.128:2274 login.php atst status 2>>
+<<1163984170 ^ 10.30.41.128:2276 authenticate.php disp 3>>
+<<1163984177 ^ 10.30.41.128:2288 authenticate.php disp 2>>
+<<1163984186 ^ 10.30.41.128:2308 authenticate.php disp 1>>
+<<1163984192 ^ 10.30.41.128:2318 authenticate.php succ>>
+<<1164183348 ^ 72.196.116.6:33056 login.php atst status 2>>
+<<1164183349 ^ 72.196.116.6:33084 authenticate.php disp 1>>
+<<1164183381 ^ 72.196.116.6:33097 authenticate.php disp 2>>
+<<1164183383 ^ 72.196.116.6:33088 authenticate.php disp 3>>
+<<1164183384 ^ 72.196.116.6:33088 authenticate.php succ>>
+<<1164661060 ^ 10.30.41.128:4996 login.php atst status 2>>
+<<1164661063 ^ 10.30.41.128:4998 authenticate.php disp 2>>
+<<1164661070 ^ 10.30.41.128:1025 authenticate.php disp 1>>
+<<1164661076 ^ 10.30.41.128:1036 authenticate.php disp 3>>
+<<1164661078 ^ 10.30.41.128:1041 authenticate.php succ>>
+<<1164693153 ^ 72.196.116.6:33085 login.php atst status 2>>
+<<1164693154 ^ 72.196.116.6:33029 authenticate.php disp 1>>
+<<1164693165 ^ 72.196.116.6:33001 authenticate.php disp 3>>
+<<1164693166 ^ 72.196.116.6:33013 authenticate.php disp 2>>
+<<1164693168 ^ 72.196.116.6:32973 authenticate.php succ>>
+<<1164745819 ^ 10.30.41.128:1062 login.php atst status 2>>
+<<1164745825 ^ 10.30.41.128:1064 authenticate.php disp 1>>
+<<1164745840 ^ 10.30.41.128:1093 authenticate.php disp 3>>
+<<1164745844 ^ 10.30.41.128:1096 authenticate.php disp 2>>
+<<1164745846 ^ 10.30.41.128:1101 authenticate.php succ>>
+<<1164843354 ^ 10.30.41.128:1817 login.php atst status 2>>
+<<1164843361 ^ 10.30.41.128:1819 authenticate.php disp 2>>
+<<1164843368 ^ 10.30.41.128:1832 authenticate.php disp 1>>
+<<1164843383 ^ 10.30.41.128:1859 authenticate.php disp 3>>
+<<1164843385 ^ 10.30.41.128:1862 authenticate.php fail missed 1 extra 0>>
+<<1164843390 ^ 10.30.41.128:1863 login.php atst status 2>>
+<<1164843391 ^ 10.30.41.128:1863 authenticate.php disp 3>>
+<<1164843401 ^ 10.30.41.128:1882 authenticate.php disp 1>>
+<<1164843413 ^ 10.30.41.128:1890 authenticate.php disp 2>>
+<<1164843414 ^ 10.30.41.128:1890 authenticate.php succ>>
+<<1164914715 ^ 10.242.61.30:1834 login.php atst status 2>>
+<<1164914716 ^ 10.242.61.30:1837 authenticate.php disp 1>>
+<<1164914775 ^ 10.242.61.30:1854 authenticate.php disp 2>>
+<<1164914776 ^ 10.242.61.30:1858 authenticate.php disp 3>>
+<<1164914777 ^ 10.242.61.30:1860 authenticate.php succ>>
+<<1164988452 ^ 72.196.116.6:32795 login.php atst status 2>>
+<<1164988458 ^ 72.196.116.6:32872 authenticate.php disp 1>>
+<<1164988488 ^ 72.196.116.6:33586 authenticate.php disp 3>>
+<<1164988493 ^ 72.196.116.6:33638 authenticate.php disp 2>>
+<<1164988496 ^ 72.196.116.6:33634 authenticate.php succ>>
+<<1164988518 ^ 72.196.116.6:33466 % lperezp adminlogout.php lout>>
+<<1165258096 ^ 72.196.116.6:33259 login.php atst status 2>>
+<<1165258101 ^ 72.196.116.6:33251 authenticate.php disp 3>>
+<<1165258106 ^ 72.196.116.6:33227 authenticate.php disp 2>>
+<<1165258111 ^ 72.196.116.6:33219 authenticate.php disp 1>>
+<<1165258120 ^ 72.196.116.6:33063 authenticate.php succ>>
+<<1165356809 ^ 72.196.116.6:33422 login.php atst status 2>>
+<<1165356815 ^ 72.196.116.6:33506 authenticate.php disp 1>>
+<<1165356962 ^ 72.196.116.6:32835 authenticate.php disp 3>>
+<<1165356981 ^ 72.196.116.6:33503 authenticate.php disp 2>>
+<<1165357006 ^ 72.196.116.6:33019 authenticate.php succ>>
+<<1165357183 ^ 72.196.116.6:33403 % lperezp adminlogout.php lout>>
+<<1165448584 ^ 10.30.41.128:1681 login.php atst status 2>>
+<<1165448585 ^ 10.30.41.128:1684 authenticate.php disp 2>>
+<<1165448591 ^ 10.30.41.128:1688 authenticate.php disp 1>>
+<<1165448599 ^ 10.30.41.128:1701 authenticate.php disp 3>>
+<<1165448608 ^ 10.30.41.128:1705 authenticate.php succ>>
+<<1165526650 ^ 10.242.61.30:2485 login.php atst status 2>>
+<<1165526656 ^ 10.242.61.30:2487 authenticate.php disp 2>>
+<<1165526677 ^ 10.242.61.30:2491 authenticate.php disp 3>>
+<<1165526681 ^ 10.242.61.30:2494 authenticate.php disp 1>>
+<<1165526692 ^ 10.242.61.30:2517 authenticate.php succ>>
+<<1165598345 ^ 72.196.116.6:33107 login.php atst status 2>>
+<<1165598346 ^ 72.196.116.6:33115 authenticate.php disp 1>>
+<<1165598369 ^ 72.196.116.6:33003 authenticate.php disp 3>>
+<<1165598377 ^ 72.196.116.6:33015 authenticate.php disp 2>>
+<<1165598383 ^ 72.196.116.6:33015 authenticate.php succ>>
+<<1165709662 ^ 72.196.116.6:33690 login.php atst status 2>>
+<<1165709667 ^ 72.196.116.6:33682 authenticate.php disp 3>>
+<<1165709670 ^ 72.196.116.6:33666 authenticate.php disp 2>>
+<<1165709672 ^ 72.196.116.6:33670 authenticate.php disp 1>>
+<<1165709683 ^ 72.196.116.6:33738 authenticate.php succ>>
+<<1165736262 ^ 72.196.116.6:33339 login.php atst status 2>>
+<<1165736263 ^ 72.196.116.6:33343 authenticate.php disp 1>>

@@ -1,0 +1,167 @@
+<<1156543565 ^ 70.124.54.203:63846 register1.php succ>>
+<<1156543995 ^ 70.124.54.203:60273 % swa12san adminlogout.php lout>>
+<<1156544260 ^ 70.124.54.203:61198 selectpass.php succ count 5>>
+<<1156544377 ^ 70.124.54.203:61215 training.php disp 3>>
+<<1156544402 ^ 70.124.54.203:61262 training.php disp 1>>
+<<1156544407 ^ 70.124.54.203:61305 training.php disp 2>>
+<<1156544409 ^ 70.124.54.203:61348 training.php fail missed 5 extra 0>>
+<<1156544466 ^ 70.124.54.203:61360 training.php disp 2>>
+<<1156544531 ^ 70.124.54.203:61642 training.php disp 3>>
+<<1156544592 ^ 70.124.54.203:62050 training.php disp 1>>
+<<1156544611 ^ 70.124.54.203:62198 training.php fail missed 4 extra 1>>
+<<1156544627 ^ 70.124.54.203:62211 training.php disp 3>>
+<<1156544677 ^ 70.124.54.203:62539 training.php disp 1>>
+<<1156544727 ^ 70.124.54.203:62870 training.php disp 2>>
+<<1156544759 ^ 70.124.54.203:63022 training.php succ>>
+<<1156544783 ^ 70.124.54.203:63034 % swa12san adminlogout.php lout>>
+<<1156544812 ^ 70.124.54.203:63050 training.php disp 1>>
+<<1156544848 ^ 70.124.54.203:63328 training.php disp 3>>
+<<1156544891 ^ 70.124.54.203:63662 training.php disp 2>>
+<<1156544918 ^ 70.124.54.203:63895 training.php succ>>
+<<1156800507 ^ 24.250.231.156:28989 training.php disp 3>>
+<<1156800560 ^ 24.250.231.156:29112 training.php disp 2>>
+<<1156800606 ^ 24.250.231.156:29252 training.php disp 1>>
+<<1156800656 ^ 24.250.231.156:29389 training.php fail missed 0 extra 1>>
+<<1156800737 ^ 24.250.231.156:29469 % swa12san adminlogout.php lout>>
+<<1157638698 ^ 128.227.248.138:3169 getuname1.php succ email spujari@cise.ufl.edu>>
+<<1157638758 ^ 128.227.248.138:3188 % swa12san adminlogout.php lout>>
+<<1157638780 ^ 128.227.248.138:3198 training.php disp 1>>
+<<1157638822 ^ 128.227.248.138:3321 training.php disp 3>>
+<<1157638934 ^ 128.227.248.138:3462 training.php disp 2>>
+<<1157638990 ^ 128.227.248.138:3588 training.php fail missed 0 extra 1>>
+<<1157639019 ^ 128.227.248.138:3590 training.php disp 1>>
+<<1157639063 ^ 128.227.248.138:3594 training.php disp 2>>
+<<1157639099 ^ 128.227.248.138:3600 training.php disp 3>>
+<<1157639108 ^ 128.227.248.138:3602 training.php succ>>
+<<1157639224 ^ 128.227.248.138:3628 % swa12san adminlogout.php lout>>
+<<1157688332 ^ 24.250.231.156:20721 training.php disp 3>>
+<<1157688391 ^ 24.250.231.156:20851 training.php disp 1>>
+<<1157688429 ^ 24.250.231.156:20986 training.php disp 2>>
+<<1157688441 ^ 24.250.231.156:21052 training.php succ>>
+<<1157688454 ^ 24.250.231.156:21057 % swa12san adminlogout.php lout>>
+<<1157688469 ^ 24.250.231.156:21067 login.php atst status 2>>
+<<1157688469 ^ 24.250.231.156:21068 authenticate.php disp 2>>
+<<1157688515 ^ 24.250.231.156:21130 authenticate.php disp 3>>
+<<1157688546 ^ 24.250.231.156:21143 authenticate.php disp 1>>
+<<1157688554 ^ 24.250.231.156:21146 authenticate.php succ>>
+<<1158158263 ^ 24.250.231.156:61249 login.php atst status 2>>
+<<1158158264 ^ 24.250.231.156:61254 authenticate.php disp 2>>
+<<1158158316 ^ 24.250.231.156:61401 authenticate.php disp 1>>
+<<1158158335 ^ 24.250.231.156:61506 authenticate.php disp 3>>
+<<1158158341 ^ 24.250.231.156:61558 authenticate.php succ>>
+<<1158159575 ^ 24.250.231.156:61792 authenticate.php disp 3>>
+<<1158159658 ^ 24.250.231.156:61910 authenticate.php fail missed 1 extra 0>>
+<<1158159669 ^ 24.250.231.156:61917 % swa12san adminlogout.php lout>>
+<<1158159707 ^ 24.250.231.156:61929 reset.php succ email spujari@cise.ufl.edu>>
+<<1158159865 ^ 24.250.231.156:61971 login.php atst status 2>>
+<<1158159866 ^ 24.250.231.156:61972 authenticate.php disp 1>>
+<<1158159926 ^ 24.250.231.156:62031 authenticate.php disp 2>>
+<<1158160019 ^ 24.250.231.156:62047 authenticate.php disp 3>>
+<<1158160023 ^ 24.250.231.156:62058 authenticate.php succ>>
+<<1159193217 ^ 128.227.248.131:1952 login.php atst status 2>>
+<<1159193217 ^ 128.227.248.131:1955 authenticate.php disp 3>>
+<<1159193250 ^ 128.227.248.131:2099 authenticate.php disp 2>>
+<<1159193309 ^ 128.227.248.131:2250 authenticate.php disp 1>>
+<<1159193315 ^ 128.227.248.131:2310 authenticate.php succ>>
+<<1159194596 ^ 128.227.248.131:2389 % swa12san adminlogout.php lout>>
+<<1159449555 ^ 128.227.248.131:1914 login.php atst status 2>>
+<<1159449555 ^ 128.227.248.131:1917 authenticate.php disp 3>>
+<<1159449580 ^ 128.227.248.131:2019 authenticate.php disp 2>>
+<<1159449606 ^ 128.227.248.131:2129 authenticate.php disp 1>>
+<<1159449620 ^ 128.227.248.131:2211 authenticate.php succ>>
+<<1159449708 ^ 128.227.248.131:2220 % swa12san adminlogout.php lout>>
+<<1159922558 ^ 24.250.231.156:12894 login.php atst status 2>>
+<<1159922559 ^ 24.250.231.156:12897 authenticate.php disp 2>>
+<<1159922594 ^ 24.250.231.156:13032 authenticate.php disp 3>>
+<<1159922640 ^ 24.250.231.156:13143 authenticate.php disp 1>>
+<<1159922677 ^ 24.250.231.156:13278 authenticate.php fail missed 1 extra 0>>
+<<1159922695 ^ 24.250.231.156:13282 login.php atst status 2>>
+<<1159922696 ^ 24.250.231.156:13283 authenticate.php disp 2>>
+<<1159922723 ^ 24.250.231.156:13287 authenticate.php disp 1>>
+<<1159922736 ^ 24.250.231.156:13289 authenticate.php disp 3>>
+<<1159922744 ^ 24.250.231.156:13297 authenticate.php succ>>
+<<1159933541 ^ 24.250.231.156:14435 login.php atst status 2>>
+<<1159933542 ^ 24.250.231.156:14437 authenticate.php disp 2>>
+<<1159933562 ^ 24.250.231.156:14448 authenticate.php disp 3>>
+<<1159933602 ^ 24.250.231.156:14467 authenticate.php disp 1>>
+<<1159933607 ^ 24.250.231.156:14470 authenticate.php succ>>
+<<1159933753 ^ 24.250.231.156:14480 % swa12san adminlogout.php lout>>
+<<1160078404 ^ 128.227.248.135:3953 login.php atst status 2>>
+<<1160078405 ^ 128.227.248.135:3956 authenticate.php disp 2>>
+<<1160078438 ^ 128.227.248.135:4088 authenticate.php disp 3>>
+<<1160078452 ^ 128.227.248.135:4204 authenticate.php disp 1>>
+<<1160078469 ^ 128.227.248.135:4272 authenticate.php succ>>
+<<1160078493 ^ 128.227.248.135:4278 % swa12san adminlogout.php lout>>
+<<1160078505 ^ 128.227.248.135:4285 % swa12san adminlogout.php lout>>
+<<1160094625 ^ 24.250.205.80:29530 login.php atst status 2>>
+<<1160094628 ^ 24.250.205.80:29535 authenticate.php disp 2>>
+<<1160094685 ^ 24.250.205.80:29814 authenticate.php disp 3>>
+<<1160094718 ^ 24.250.205.80:29918 authenticate.php disp 1>>
+<<1160094746 ^ 24.250.205.80:29996 authenticate.php fail missed 0 extra 1>>
+<<1160515619 ^ 24.250.211.116:1301 login.php atst status 2>>
+<<1160515619 ^ 24.250.211.116:1304 authenticate.php disp 2>>
+<<1160515656 ^ 24.250.211.116:1482 authenticate.php disp 1>>
+<<1160515684 ^ 24.250.211.116:1607 authenticate.php disp 3>>
+<<1160515692 ^ 24.250.211.116:1659 authenticate.php succ>>
+<<1160515725 ^ 24.250.211.116:1663 % swa12san adminlogout.php lout>>
+<<1161707948 ^ 10.244.55.153:1314 login.php atst status 2>>
+<<1161707949 ^ 10.244.55.153:1317 authenticate.php disp 3>>
+<<1161707975 ^ 10.244.55.153:1476 authenticate.php disp 2>>
+<<1161707990 ^ 10.244.55.153:1540 authenticate.php disp 1>>
+<<1161707995 ^ 10.244.55.153:1587 authenticate.php succ>>
+<<1161708015 ^ 10.244.55.153:1591 % swa12san adminlogout.php lout>>
+<<1161869238 ^ 24.250.238.47:16527 login.php atst status 2>>
+<<1161869239 ^ 24.250.238.47:16529 authenticate.php disp 1>>
+<<1161869419 ^ 24.250.238.47:16586 authenticate.php disp 2>>
+<<1161869434 ^ 24.250.238.47:16596 authenticate.php disp 3>>
+<<1161869443 ^ 24.250.238.47:16601 authenticate.php succ>>
+<<1161869547 ^ 24.250.238.47:16604 % swa12san adminlogout.php lout>>
+<<1162447232 ^ 24.250.238.47:1991 login.php atst status 2>>
+<<1162447233 ^ 24.250.238.47:1993 authenticate.php disp 1>>
+<<1162447260 ^ 24.250.238.47:2024 authenticate.php disp 3>>
+<<1162447291 ^ 24.250.238.47:2055 authenticate.php disp 2>>
+<<1162447302 ^ 24.250.238.47:2060 authenticate.php succ>>
+<<1162447359 ^ 24.250.238.47:2065 % swa12san adminlogout.php lout>>
+<<1162480046 ^ 128.227.205.139:1436 login.php atst status 2>>
+<<1162480047 ^ 128.227.205.139:1439 authenticate.php disp 3>>
+<<1162480062 ^ 128.227.205.139:1569 authenticate.php disp 2>>
+<<1162480075 ^ 128.227.205.139:1655 authenticate.php disp 1>>
+<<1162480082 ^ 128.227.205.139:1747 authenticate.php succ>>
+<<1162480107 ^ 128.227.205.139:1753 % swa12san adminlogout.php lout>>
+<<1162565786 ^ 24.250.238.47:23742 login.php atst status 2>>
+<<1162565800 ^ 24.250.238.47:23751 authenticate.php disp 2>>
+<<1162565830 ^ 24.250.238.47:23840 authenticate.php disp 3>>
+<<1162565850 ^ 24.250.238.47:23886 authenticate.php disp 1>>
+<<1162565859 ^ 24.250.238.47:23914 authenticate.php succ>>
+<<1162565877 ^ 24.250.238.47:23925 % swa12san adminlogout.php lout>>
+<<1164121393 ^ 72.185.203.28:61041 login.php atst status 2>>
+<<1164121394 ^ 72.185.203.28:61044 authenticate.php disp 2>>
+<<1164121416 ^ 72.185.203.28:61137 authenticate.php disp 1>>
+<<1164121429 ^ 72.185.203.28:61194 authenticate.php disp 3>>
+<<1164121435 ^ 72.185.203.28:61249 authenticate.php succ>>
+<<1164121495 ^ 72.185.203.28:61253 % swa12san adminlogout.php lout>>
+<<1164167801 ^ 72.185.203.28:62578 login.php atst status 2>>
+<<1164167802 ^ 72.185.203.28:62582 authenticate.php disp 3>>
+<<1164167818 ^ 72.185.203.28:62669 authenticate.php disp 2>>
+<<1164167846 ^ 72.185.203.28:62874 authenticate.php disp 1>>
+<<1164167868 ^ 72.185.203.28:63236 authenticate.php fail missed 1 extra 0>>
+<<1164167876 ^ 72.185.203.28:63250 authenticate.php disp 2>>
+<<1164167888 ^ 72.185.203.28:63301 authenticate.php disp 3>>
+<<1164985588 ^ 24.250.238.47:26602 login.php atst status 2>>
+<<1164985589 ^ 24.250.238.47:26605 authenticate.php disp 2>>
+<<1164985629 ^ 24.250.238.47:26755 authenticate.php disp 1>>
+<<1164985638 ^ 24.250.238.47:26845 authenticate.php disp 3>>
+<<1164985645 ^ 24.250.238.47:26899 authenticate.php succ>>
+<<1164985748 ^ 24.250.238.47:26904 % swa12san adminlogout.php lout>>
+<<1165270504 ^ 10.30.32.32:1387 login.php atst status 2>>
+<<1165270504 ^ 10.30.32.32:1390 authenticate.php disp 3>>
+<<1165270523 ^ 10.30.32.32:1455 authenticate.php disp 1>>
+<<1165270558 ^ 10.30.32.32:1565 authenticate.php disp 2>>
+<<1165270607 ^ 10.30.32.32:1688 authenticate.php succ>>
+<<1165270635 ^ 10.30.32.32:1692 % swa12san adminlogout.php lout>>
+<<1165631126 ^ 24.250.238.47:21819 login.php atst status 2>>
+<<1165631136 ^ 24.250.238.47:21822 authenticate.php disp 3>>
+<<1165631224 ^ 24.250.238.47:22100 authenticate.php disp 1>>
+<<1165631286 ^ 24.250.238.47:22258 authenticate.php disp 2>>
+<<1165631334 ^ 24.250.238.47:22366 authenticate.php succ>>
+<<1165631420 ^ 24.250.238.47:22416 % swa12san adminlogout.php lout>>

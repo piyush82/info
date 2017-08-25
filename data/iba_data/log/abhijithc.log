@@ -1,0 +1,7 @@
+<<1282079318 ^ 128.227.205.222:56360 register1.php succ>>
+<<1282079470 ^ 128.227.205.222:56695 selectpass.php succ count 5>>
+<<1282079491 ^ 128.227.205.222:56723 training.php disp 2>>
+<<1282079549 ^ 128.227.205.222:56827 training.php disp 3>>
+<<1282079577 ^ 128.227.205.222:56905 training.php disp 1>>
+<<1282079607 ^ 128.227.205.222:57020 training.php fail missed 3 extra 2>>
+<<1282079650 ^ 128.227.205.222:57130 % abhijithc adminlogout.php lout>>

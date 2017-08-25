@@ -1,0 +1,289 @@
+<<1157399496 ^ 128.227.88.2:23809 register1.php succ>>
+<<1157399649 ^ 128.227.88.2:24010 selectpass.php succ count 5>>
+<<1157399827 ^ 128.227.88.2:24037 training.php disp 1>>
+<<1157399880 ^ 128.227.88.2:24050 training.php disp 3>>
+<<1157399896 ^ 128.227.88.2:24076 training.php disp 2>>
+<<1157399906 ^ 128.227.88.2:24093 training.php fail missed 2 extra 2>>
+<<1157399933 ^ 128.227.88.2:24101 training.php disp 1>>
+<<1157399967 ^ 128.227.88.2:24184 training.php disp 3>>
+<<1157399977 ^ 128.227.88.2:24220 training.php disp 2>>
+<<1157399992 ^ 128.227.88.2:24266 training.php fail missed 2 extra 1>>
+<<1157400010 ^ 128.227.88.2:24276 training.php disp 3>>
+<<1157400033 ^ 128.227.88.2:24347 training.php disp 1>>
+<<1157400093 ^ 128.227.88.2:24365 training.php disp 2>>
+<<1157400106 ^ 128.227.88.2:24382 training.php fail missed 1 extra 0>>
+<<1157400114 ^ 128.227.88.2:24388 training.php disp 3>>
+<<1157400147 ^ 128.227.88.2:24426 training.php disp 1>>
+<<1157400175 ^ 128.227.88.2:24440 training.php disp 2>>
+<<1157400187 ^ 128.227.88.2:24471 training.php fail missed 2 extra 0>>
+<<1157400197 ^ 128.227.88.2:24473 training.php disp 3>>
+<<1157400211 ^ 128.227.88.2:24491 training.php disp 2>>
+<<1157400226 ^ 128.227.88.2:24506 training.php disp 1>>
+<<1157400242 ^ 128.227.88.2:24510 training.php fail missed 3 extra 0>>
+<<1157400248 ^ 128.227.88.2:24512 training.php disp 2>>
+<<1157400259 ^ 128.227.88.2:24531 training.php disp 3>>
+<<1157400272 ^ 128.227.88.2:24541 training.php disp 1>>
+<<1157400296 ^ 128.227.88.2:24554 training.php fail missed 2 extra 0>>
+<<1157400315 ^ 128.227.88.2:24556 training.php disp 2>>
+<<1157400332 ^ 128.227.88.2:24569 training.php disp 3>>
+<<1157400347 ^ 128.227.88.2:24587 training.php disp 1>>
+<<1157400357 ^ 128.227.88.2:24589 training.php fail missed 1 extra 0>>
+<<1157400361 ^ 128.227.88.2:24591 training.php disp 3>>
+<<1157400378 ^ 128.227.88.2:24597 training.php disp 2>>
+<<1157400400 ^ 128.227.88.2:24605 training.php disp 1>>
+<<1157400413 ^ 128.227.88.2:24609 training.php succ>>
+<<1157400440 ^ 128.227.88.2:24611 training.php disp 3>>
+<<1157400503 ^ 128.227.88.2:24619 training.php disp 1>>
+<<1157400512 ^ 128.227.88.2:24625 training.php disp 2>>
+<<1157400523 ^ 128.227.88.2:24647 training.php fail missed 2 extra 0>>
+<<1157400531 ^ 128.227.88.2:24649 training.php disp 1>>
+<<1157400567 ^ 128.227.88.2:24651 training.php disp 3>>
+<<1157400585 ^ 128.227.88.2:24657 training.php disp 2>>
+<<1157400592 ^ 128.227.88.2:24663 training.php fail missed 1 extra 0>>
+<<1157400623 ^ 128.227.88.2:24665 training.php disp 3>>
+<<1157400812 ^ 128.227.88.2:24698 training.php disp 1>>
+<<1157400822 ^ 128.227.88.2:24700 training.php disp 2>>
+<<1157400833 ^ 128.227.88.2:24720 training.php fail missed 1 extra 0>>
+<<1157400841 ^ 128.227.88.2:24724 training.php disp 1>>
+<<1157400854 ^ 128.227.88.2:24726 training.php disp 2>>
+<<1157400904 ^ 128.227.88.2:24746 training.php disp 3>>
+<<1157400908 ^ 128.227.88.2:24752 training.php succ>>
+<<1157400914 ^ 128.227.88.2:24754 training.php disp 3>>
+<<1157400921 ^ 128.227.88.2:24764 training.php disp 1>>
+<<1157400932 ^ 128.227.88.2:24768 training.php disp 2>>
+<<1157400940 ^ 128.227.88.2:24776 training.php fail missed 1 extra 0>>
+<<1157400943 ^ 128.227.88.2:24778 training.php disp 2>>
+<<1157400959 ^ 128.227.88.2:24786 training.php disp 1>>
+<<1157400970 ^ 128.227.88.2:24792 training.php disp 3>>
+<<1157400983 ^ 128.227.88.2:24797 training.php fail missed 1 extra 0>>
+<<1157400991 ^ 128.227.88.2:24799 training.php disp 1>>
+<<1157401022 ^ 128.227.88.2:24803 training.php disp 2>>
+<<1157401034 ^ 128.227.88.2:24811 training.php disp 3>>
+<<1157401039 ^ 128.227.88.2:24815 training.php succ>>
+<<1157401047 ^ 128.227.88.2:24817 training.php disp 1>>
+<<1157401117 ^ 128.227.88.2:24826 training.php disp 3>>
+<<1157401131 ^ 128.227.88.2:24834 training.php disp 2>>
+<<1157401137 ^ 128.227.88.2:24838 training.php succ>>
+<<1157401150 ^ 128.227.88.2:24840 training.php disp 2>>
+<<1157401196 ^ 128.227.88.2:24848 training.php disp 3>>
+<<1157401218 ^ 128.227.88.2:24857 training.php disp 1>>
+<<1157401235 ^ 128.227.88.2:24859 training.php fail missed 1 extra 0>>
+<<1157401250 ^ 128.227.88.2:24861 training.php disp 3>>
+<<1157401268 ^ 128.227.88.2:24865 training.php disp 1>>
+<<1157401276 ^ 128.227.88.2:24869 training.php disp 2>>
+<<1157401287 ^ 128.227.88.2:24883 training.php fail missed 1 extra 0>>
+<<1157401291 ^ 128.227.88.2:24886 training.php disp 3>>
+<<1157401301 ^ 128.227.88.2:24890 training.php disp 1>>
+<<1157401318 ^ 128.227.88.2:24894 training.php disp 2>>
+<<1157401331 ^ 128.227.88.2:24904 training.php fail missed 1 extra 0>>
+<<1157401334 ^ 128.227.88.2:24906 training.php disp 2>>
+<<1157401362 ^ 128.227.88.2:24912 training.php disp 3>>
+<<1157401382 ^ 128.227.88.2:24916 training.php disp 1>>
+<<1157401396 ^ 128.227.88.2:24918 training.php fail missed 1 extra 0>>
+<<1157401428 ^ 128.227.88.2:24922 training.php disp 3>>
+<<1157401447 ^ 128.227.88.2:24926 training.php disp 1>>
+<<1157401460 ^ 128.227.88.2:24930 training.php disp 2>>
+<<1157401478 ^ 128.227.88.2:24934 training.php succ>>
+<<1157401520 ^ 128.227.88.2:24936 training.php disp 3>>
+<<1157401580 ^ 128.227.88.2:24943 training.php disp 1>>
+<<1157401629 ^ 128.227.88.2:24949 training.php disp 2>>
+<<1157401637 ^ 128.227.88.2:24955 training.php succ>>
+<<1157401709 ^ 128.227.88.2:24963 training.php disp 2>>
+<<1157401724 ^ 128.227.88.2:24973 training.php disp 1>>
+<<1157401758 ^ 128.227.88.2:24975 training.php disp 3>>
+<<1157401770 ^ 128.227.88.2:24985 training.php fail missed 1 extra 0>>
+<<1157401774 ^ 128.227.88.2:24989 training.php disp 1>>
+<<1157401788 ^ 128.227.88.2:24991 training.php disp 2>>
+<<1157401799 ^ 128.227.88.2:25001 training.php disp 3>>
+<<1157401803 ^ 128.227.88.2:25006 training.php succ>>
+<<1157401857 ^ 128.227.88.2:25008 training.php disp 3>>
+<<1157401943 ^ 128.227.88.2:25013 training.php disp 2>>
+<<1157402003 ^ 128.227.88.2:25021 training.php disp 1>>
+<<1157402009 ^ 128.227.88.2:25023 training.php succ>>
+<<1157402019 ^ 128.227.88.2:25025 training.php disp 1>>
+<<1157402044 ^ 128.227.88.2:25027 training.php disp 2>>
+<<1157402052 ^ 128.227.88.2:25031 training.php disp 3>>
+<<1157402056 ^ 128.227.88.2:25033 training.php succ>>
+<<1157402084 ^ 128.227.88.2:25035 training.php disp 3>>
+<<1157402102 ^ 128.227.88.2:25045 training.php disp 1>>
+<<1157402141 ^ 128.227.88.2:25058 training.php disp 2>>
+<<1157402149 ^ 128.227.88.2:25060 training.php fail missed 1 extra 0>>
+<<1157402162 ^ 128.227.88.2:25062 training.php disp 2>>
+<<1157402176 ^ 128.227.88.2:25072 training.php disp 1>>
+<<1157402189 ^ 128.227.88.2:25074 training.php disp 3>>
+<<1157402204 ^ 128.227.88.2:25080 training.php fail missed 1 extra 0>>
+<<1157402211 ^ 128.227.88.2:25082 training.php disp 2>>
+<<1157402276 ^ 128.227.88.2:25096 training.php disp 1>>
+<<1157402292 ^ 128.227.88.2:25098 training.php disp 3>>
+<<1157402302 ^ 128.227.88.2:25100 training.php fail missed 1 extra 1>>
+<<1157402306 ^ 128.227.88.2:25102 training.php disp 2>>
+<<1157402324 ^ 128.227.88.2:25121 training.php disp 1>>
+<<1157402338 ^ 128.227.88.2:25124 training.php disp 3>>
+<<1157402348 ^ 128.227.88.2:25132 training.php fail missed 1 extra 0>>
+<<1157402353 ^ 128.227.88.2:25136 training.php disp 3>>
+<<1157402381 ^ 128.227.88.2:25138 training.php disp 2>>
+<<1157402399 ^ 128.227.88.2:25146 training.php disp 1>>
+<<1157402402 ^ 128.227.88.2:25148 training.php fail missed 1 extra 0>>
+<<1157402406 ^ 128.227.88.2:25150 training.php disp 2>>
+<<1157402422 ^ 128.227.88.2:25168 training.php disp 1>>
+<<1157402449 ^ 128.227.88.2:25173 training.php disp 3>>
+<<1157402459 ^ 128.227.88.2:25186 training.php fail missed 1 extra 0>>
+<<1157402461 ^ 128.227.88.2:25188 training.php disp 2>>
+<<1157402475 ^ 128.227.88.2:25217 training.php disp 3>>
+<<1157402699 ^ 128.227.88.2:25233 training.php disp 1>>
+<<1157402711 ^ 128.227.88.2:25235 training.php succ>>
+<<1157402733 ^ 128.227.88.2:25237 training.php disp 2>>
+<<1157402781 ^ 128.227.88.2:25242 training.php disp 1>>
+<<1157402800 ^ 128.227.88.2:25244 training.php disp 3>>
+<<1157402805 ^ 128.227.88.2:25248 training.php succ>>
+<<1157402825 ^ 128.227.88.2:25250 training.php disp 3>>
+<<1157402839 ^ 128.227.88.2:25252 training.php disp 2>>
+<<1157402851 ^ 128.227.88.2:25258 training.php disp 1>>
+<<1157402869 ^ 128.227.88.2:25260 training.php succ>>
+<<1157402907 ^ 128.227.88.2:25262 training.php disp 1>>
+<<1157402923 ^ 128.227.88.2:25264 training.php disp 3>>
+<<1157402937 ^ 128.227.88.2:25268 training.php disp 2>>
+<<1157402947 ^ 128.227.88.2:25273 training.php succ>>
+<<1157402954 ^ 128.227.88.2:25275 training.php disp 1>>
+<<1157403093 ^ 128.227.88.2:25277 training.php disp 2>>
+<<1157403102 ^ 128.227.88.2:25283 training.php disp 3>>
+<<1157403111 ^ 128.227.88.2:25291 training.php fail missed 1 extra 0>>
+<<1157403113 ^ 128.227.88.2:25293 training.php disp 1>>
+<<1157403130 ^ 128.227.88.2:25295 training.php disp 2>>
+<<1157403145 ^ 128.227.88.2:25301 training.php disp 3>>
+<<1157403147 ^ 128.227.88.2:25303 training.php succ>>
+<<1157403151 ^ 128.227.88.2:25305 training.php disp 3>>
+<<1157403165 ^ 128.227.88.2:25307 training.php disp 1>>
+<<1157403177 ^ 128.227.88.2:25309 training.php disp 2>>
+<<1157403186 ^ 128.227.88.2:25319 training.php fail missed 1 extra 0>>
+<<1157403188 ^ 128.227.88.2:25321 training.php disp 3>>
+<<1157403263 ^ 128.227.88.2:25340 training.php disp 2>>
+<<1157403275 ^ 128.227.88.2:25352 training.php disp 1>>
+<<1157403284 ^ 128.227.88.2:25356 training.php fail missed 1 extra 0>>
+<<1157403290 ^ 128.227.88.2:25358 training.php disp 3>>
+<<1157403303 ^ 128.227.88.2:25360 training.php disp 1>>
+<<1157403316 ^ 128.227.88.2:25367 training.php disp 2>>
+<<1157403325 ^ 128.227.88.2:25386 training.php fail missed 1 extra 1>>
+<<1157403331 ^ 128.227.88.2:25388 training.php disp 3>>
+<<1157403378 ^ 128.227.88.2:25390 training.php disp 1>>
+<<1157403389 ^ 128.227.88.2:25392 training.php disp 2>>
+<<1157403394 ^ 128.227.88.2:25395 training.php succ>>
+<<1157403398 ^ 128.227.88.2:25397 training.php disp 1>>
+<<1157403426 ^ 128.227.88.2:25399 training.php disp 2>>
+<<1157403457 ^ 128.227.88.2:25401 training.php disp 3>>
+<<1157403462 ^ 128.227.88.2:25405 training.php succ>>
+<<1157403513 ^ 128.227.88.2:25407 % jboada adminlogout.php lout>>
+<<1157466029 ^ 70.171.12.85:1261 login.php atst status 2>>
+<<1157466030 ^ 70.171.12.85:1264 authenticate.php disp 3>>
+<<1157466045 ^ 70.171.12.85:1285 authenticate.php disp 1>>
+<<1157466056 ^ 70.171.12.85:1292 authenticate.php disp 2>>
+<<1157466062 ^ 70.171.12.85:1306 authenticate.php succ>>
+<<1157466129 ^ 70.171.12.85:1308 % jboada adminlogout.php lout>>
+<<1157638040 ^ 70.171.12.85:1510 login.php atst status 2>>
+<<1157638041 ^ 70.171.12.85:1512 authenticate.php disp 3>>
+<<1157638061 ^ 70.171.12.85:1524 authenticate.php disp 2>>
+<<1157638074 ^ 70.171.12.85:1540 authenticate.php disp 1>>
+<<1157638086 ^ 70.171.12.85:1548 authenticate.php succ>>
+<<1157638103 ^ 70.171.12.85:1550 % jboada adminlogout.php lout>>
+<<1157638200 ^ 70.171.12.85:1555 login.php atst status 2>>
+<<1157638201 ^ 70.171.12.85:1556 authenticate.php disp 3>>
+<<1157638213 ^ 70.171.12.85:1569 authenticate.php disp 2>>
+<<1157638227 ^ 70.171.12.85:1584 authenticate.php disp 1>>
+<<1157638238 ^ 70.171.12.85:1592 authenticate.php succ>>
+<<1158203689 ^ 70.171.12.85:4816 login.php atst status 2>>
+<<1158203690 ^ 70.171.12.85:4818 authenticate.php disp 3>>
+<<1158203707 ^ 70.171.12.85:4953 authenticate.php disp 2>>
+<<1158203719 ^ 70.171.12.85:4987 authenticate.php disp 1>>
+<<1158203729 ^ 70.171.12.85:4999 authenticate.php succ>>
+<<1159293166 ^ 128.227.194.162:1355 login.php atst status 2>>
+<<1159293167 ^ 128.227.194.162:1357 authenticate.php disp 3>>
+<<1159293179 ^ 128.227.194.162:1359 authenticate.php disp 1>>
+<<1159293192 ^ 128.227.194.162:1362 authenticate.php disp 2>>
+<<1159293197 ^ 128.227.194.162:1379 authenticate.php succ>>
+<<1159667323 ^ 70.171.12.85:1245 login.php atst status 2>>
+<<1159667324 ^ 70.171.12.85:1247 authenticate.php disp 2>>
+<<1159667333 ^ 70.171.12.85:1266 authenticate.php disp 3>>
+<<1159667346 ^ 70.171.12.85:1281 authenticate.php disp 1>>
+<<1159667364 ^ 70.171.12.85:1303 authenticate.php disp 3>>
+<<1159667376 ^ 70.171.12.85:1312 authenticate.php disp 2>>
+<<1159667392 ^ 70.171.12.85:1333 authenticate.php disp 3>>
+<<1159667396 ^ 70.171.12.85:1347 authenticate.php disp 1>>
+<<1159667402 ^ 70.171.12.85:1367 authenticate.php succ>>
+<<1159979092 ^ 70.171.12.85:4000 login.php atst status 2>>
+<<1159979093 ^ 70.171.12.85:4002 authenticate.php disp 3>>
+<<1159979103 ^ 70.171.12.85:4013 authenticate.php disp 2>>
+<<1159979107 ^ 70.171.12.85:4025 authenticate.php disp 1>>
+<<1159979114 ^ 70.171.12.85:4033 authenticate.php succ>>
+<<1160073248 ^ 128.227.248.131:4644 login.php atst status 2>>
+<<1160073249 ^ 128.227.248.131:4644 authenticate.php disp 1>>
+<<1160073254 ^ 128.227.248.131:4644 authenticate.php disp 2>>
+<<1160073259 ^ 128.227.248.131:4651 authenticate.php disp 3>>
+<<1160073262 ^ 128.227.248.131:4659 authenticate.php succ>>
+<<1160391340 ^ 70.171.12.85:2995 login.php atst status 2>>
+<<1160391341 ^ 70.171.12.85:2996 authenticate.php disp 3>>
+<<1160391351 ^ 70.171.12.85:3036 authenticate.php disp 1>>
+<<1160391358 ^ 70.171.12.85:3044 authenticate.php disp 2>>
+<<1160391363 ^ 70.171.12.85:3053 authenticate.php succ>>
+<<1160596448 ^ 128.227.88.2:11807 login.php atst status 2>>
+<<1160596449 ^ 128.227.88.2:11815 authenticate.php disp 1>>
+<<1160596459 ^ 128.227.88.2:11976 authenticate.php disp 3>>
+<<1160596467 ^ 128.227.88.2:12050 authenticate.php disp 2>>
+<<1160596476 ^ 128.227.88.2:12140 authenticate.php succ>>
+<<1160596490 ^ 128.227.88.2:12176 % jboada adminlogout.php lout>>
+<<1160969180 ^ 70.171.12.85:1428 login.php atst status 2>>
+<<1160969182 ^ 70.171.12.85:1432 authenticate.php disp 1>>
+<<1160969217 ^ 70.171.12.85:1459 authenticate.php disp 2>>
+<<1160969232 ^ 70.171.12.85:1466 authenticate.php disp 3>>
+<<1160969245 ^ 70.171.12.85:1470 authenticate.php succ>>
+<<1160969794 ^ 70.171.12.85:1478 authenticate.php succ>>
+<<1161341485 ^ 70.171.12.85:3602 login.php atst status 2>>
+<<1161341513 ^ 70.171.12.85:3619 authenticate.php disp 3>>
+<<1161341529 ^ 70.171.12.85:3633 authenticate.php disp 2>>
+<<1161341535 ^ 70.171.12.85:3644 authenticate.php disp 1>>
+<<1161341541 ^ 70.171.12.85:3662 authenticate.php succ>>
+<<1162699572 ^ 72.196.109.76:3270 login.php atst status 2>>
+<<1162699572 ^ 72.196.109.76:3273 authenticate.php disp 2>>
+<<1162699595 ^ 72.196.109.76:3374 authenticate.php disp 1>>
+<<1162699614 ^ 72.196.109.76:3444 authenticate.php disp 3>>
+<<1162699619 ^ 72.196.109.76:3498 authenticate.php succ>>
+<<1162927242 ^ 10.227.158.131:1456 login.php atst status 2>>
+<<1162927243 ^ 10.227.158.131:1458 authenticate.php disp 3>>
+<<1162927255 ^ 10.227.158.131:1469 authenticate.php disp 2>>
+<<1162927262 ^ 10.227.158.131:1480 authenticate.php disp 1>>
+<<1162927278 ^ 10.227.158.131:1490 authenticate.php disp 2>>
+<<1162927281 ^ 10.227.158.131:1494 authenticate.php disp 1>>
+<<1162927287 ^ 10.227.158.131:1491 authenticate.php fail missed 2 extra 0>>
+<<1162927299 ^ 10.227.158.131:1491 login.php atst status 2>>
+<<1162927300 ^ 10.227.158.131:1491 authenticate.php disp 2>>
+<<1162927317 ^ 10.227.158.131:1512 authenticate.php disp 1>>
+<<1162927322 ^ 10.227.158.131:1516 authenticate.php disp 3>>
+<<1162927328 ^ 10.227.158.131:1521 authenticate.php succ>>
+<<1164254637 ^ 72.196.109.76:1735 login.php atst status 2>>
+<<1164254638 ^ 72.196.109.76:1737 authenticate.php disp 2>>
+<<1164254651 ^ 72.196.109.76:1763 authenticate.php disp 3>>
+<<1164254658 ^ 72.196.109.76:1801 authenticate.php disp 1>>
+<<1164254665 ^ 72.196.109.76:1814 authenticate.php succ>>
+<<1164777093 ^ 72.196.109.76:3514 login.php atst status 2>>
+<<1164777094 ^ 72.196.109.76:3516 authenticate.php disp 3>>
+<<1164777104 ^ 72.196.109.76:3535 authenticate.php disp 1>>
+<<1164777116 ^ 72.196.109.76:3551 authenticate.php disp 2>>
+<<1164777125 ^ 72.196.109.76:3563 authenticate.php disp 1>>
+<<1164777129 ^ 72.196.109.76:3568 authenticate.php disp 3>>
+<<1164777141 ^ 72.196.109.76:3584 authenticate.php disp 1>>
+<<1164777150 ^ 72.196.109.76:3592 authenticate.php disp 2>>
+<<1164777165 ^ 72.196.109.76:3608 authenticate.php succ>>
+<<1165346344 ^ 10.227.158.189:1149 login.php atst status 2>>
+<<1165346345 ^ 10.227.158.189:1152 authenticate.php disp 1>>
+<<1165346380 ^ 10.227.158.189:1206 authenticate.php disp 2>>
+<<1165346385 ^ 10.227.158.189:1216 authenticate.php disp 3>>
+<<1165346390 ^ 10.227.158.189:1217 authenticate.php succ>>
+<<1165541909 ^ 72.196.109.76:1134 login.php atst status 2>>
+<<1165541911 ^ 72.196.109.76:1137 authenticate.php disp 3>>
+<<1165541937 ^ 72.196.109.76:1149 authenticate.php disp 2>>
+<<1165541954 ^ 72.196.109.76:1161 authenticate.php disp 1>>
+<<1165541978 ^ 72.196.109.76:1173 authenticate.php succ>>
+<<1165588655 ^ 72.196.109.76:1419 login.php atst status 2>>
+<<1165588656 ^ 72.196.109.76:1419 authenticate.php disp 2>>
+<<1165588662 ^ 72.196.109.76:1424 authenticate.php disp 1>>
+<<1165588669 ^ 72.196.109.76:1432 authenticate.php disp 3>>
+<<1165588674 ^ 72.196.109.76:1438 authenticate.php succ>>

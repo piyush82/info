@@ -1,0 +1,23 @@
+<<1197405051 ^ 140.134.26.37:4462 register1.php succ>>
+<<1197405152 ^ 140.134.26.37:4525 % cfh adminlogout.php lout>>
+<<1197405351 ^ 140.134.26.37:4579 selectpass.php succ count 10>>
+<<1197405383 ^ 140.134.26.37:4580 training.php disp 1>>
+<<1197405397 ^ 140.134.26.37:4593 training.php disp 3>>
+<<1197405401 ^ 140.134.26.37:4596 training.php disp 2>>
+<<1197405406 ^ 140.134.26.37:4598 training.php fail missed 9 extra 2>>
+<<1197405439 ^ 140.134.26.37:4600 training.php disp 3>>
+<<1197405448 ^ 140.134.26.37:4615 training.php disp 2>>
+<<1197405453 ^ 140.134.26.37:4615 training.php disp 1>>
+<<1197405459 ^ 140.134.26.37:4616 training.php fail missed 9 extra 10>>
+<<1197405465 ^ 140.134.26.37:4616 % cfh adminlogout.php lout>>
+<<1197405478 ^ 140.134.26.37:4616 authenticate.php disp 3>>
+<<1197405497 ^ 140.134.26.37:4626 authenticate.php disp 1>>
+<<1197405503 ^ 140.134.26.37:4634 authenticate.php disp 2>>
+<<1197405509 ^ 140.134.26.37:4641 authenticate.php fail missed 10 extra 3>>
+<<1197405521 ^ 140.134.26.37:4642 % cfh adminlogout.php lout>>
+<<1197405533 ^ 140.134.26.37:4643 authenticate.php disp 2>>
+<<1197405553 ^ 140.134.26.37:4665 authenticate.php disp 1>>
+<<1197405560 ^ 140.134.26.37:4672 authenticate.php disp 3>>
+<<1197405570 ^ 140.134.26.37:4678 authenticate.php fail missed 9 extra 2>>
+<<1197405581 ^ 140.134.26.37:4678 % cfh adminlogout.php lout>>
+<<1197405749 ^ 140.134.26.37:4685 authenticate.php disp 2>>

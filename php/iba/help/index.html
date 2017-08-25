@@ -1,0 +1,217 @@
+
+<!-- Created on: 6/7/2006 -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>UF-IBA: SURVEY PAGE - FAQs / Help Page</title>
+<meta name="description" content="IBA Survey">
+<meta name="keywords" content="UF, IBA, CISE">
+<meta name="author" content="root">
+<meta name="generator" content="Bluefish 1.0.5">      
+<script type="text/javascript">
+<!--
+var BrowserDetect = {
+	init: function () {
+		this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+		this.version = this.searchVersion(navigator.userAgent)
+			|| this.searchVersion(navigator.appVersion)
+			|| "an unknown version";
+		this.OS = this.searchString(this.dataOS) || "an unknown OS";
+	},
+	searchString: function (data) {
+		for (var i=0;i<data.length;i++)	{
+			var dataString = data[i].string;
+			var dataProp = data[i].prop;
+			this.versionSearchString = data[i].versionSearch || data[i].identity;
+			if (dataString) {
+				if (dataString.indexOf(data[i].subString) != -1)
+					return data[i].identity;
+			}
+			else if (dataProp)
+				return data[i].identity;
+		}
+	},
+	searchVersion: function (dataString) {
+		var index = dataString.indexOf(this.versionSearchString);
+		if (index == -1) return;
+		return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+	},
+	dataBrowser: [
+		{
+			string: navigator.vendor,
+			subString: "Apple",
+			identity: "Safari"
+		},
+		{
+			prop: window.opera,
+			identity: "Opera"
+		},
+		{
+			string: navigator.vendor,
+			subString: "iCab",
+			identity: "iCab"
+		},
+		{
+			string: navigator.vendor,
+			subString: "KDE",
+			identity: "Konqueror"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "Firefox",
+			identity: "Firefox"
+		},
+		{		// for newer Netscapes (6+)
+			string: navigator.userAgent,
+			subString: "Netscape",
+			identity: "Netscape"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "MSIE",
+			identity: "Explorer",
+			versionSearch: "MSIE"
+		},
+		{
+			string: navigator.userAgent,
+			subString: "Gecko",
+			identity: "Mozilla",
+			versionSearch: "rv"
+		},
+		{ 		// for older Netscapes (4-)
+			string: navigator.userAgent,
+			subString: "Mozilla",
+			identity: "Netscape",
+			versionSearch: "Mozilla"
+		}
+	],
+	dataOS : [
+		{
+			string: navigator.platform,
+			subString: "Win",
+			identity: "Windows"
+		},
+		{
+			string: navigator.platform,
+			subString: "Mac",
+			identity: "Mac"
+		},
+		{
+			string: navigator.platform,
+			subString: "Linux",
+			identity: "Linux"
+		}
+	]
+
+};
+BrowserDetect.init();
+
+function changeElement()
+{
+	if(BrowserDetect.browser == "Opera")
+	{
+		
+	}
+	else
+	{
+                document.getElementById("faq").style.top = 180 + 'px';
+		document.getElementById("guide").style.top = 30 + 'px';
+	}
+}
+// -->
+</script>
+<link rel="stylesheet" type="text/css" href="../styles.css">
+</head>
+<body onload="changeElement();">
+<table align="center" valign="center" border="0" width="800" bgcolor="white" cellspacing="0" cellpadding="0">
+<tr><td><img src="../banner.jpg" vspace="0">
+<tr><td>
+<table valign="top" border="0" width="800" cellspacing="0" cellpadding="0">
+<tr><td background="directory.jpg" width=800 height=600>
+<div id="faq" style="position:relative;left:5px;top:300px;width:480px;height:270px;color:brown;font-size:10px;font-family:Verdana;overflow:auto;
+text-align:justify;">
+<a name="top"></a>
+<u>FREQUENTLY ASKED QUESTIONS</u><br><br>
+<a name="admin"><b>For IBA Administrators</b></a><br>
+1. How do I setup another TA's account?<br>
+-> Just login using username <i>admin</i> and the corresponding password from the UF-IBA Administrators section of the webpage. Once
+you have been successfully logged in, you will have the capabilities to admin the admin-list file and also create another TA's account
+<a href="#top">^</a><br><br>
+2. How do I disable a particular TA's admin privilages?<br>
+-> Again log in using <i>admin</i> as the username and the corresponding password using the UF-IBA Administrators login form in the home page.
+After you are successfully logged in, then remove the TA's entry from the admin-list panel and submit the form. This would disable that TA's
+admin privilages.<a href="#top">^</a><br><br>
+3. Can multiple TAs have same admin privilages i.e. can they access the same resources?<br>
+-> Yes, multiple TA admin accounts having same control domain will be able to access the same resource files from the course subdirectory. The
+control domain name has to be specified while creating a TA's account. Make sure to specify the same control domain name example: cop5615fa06
+while creating their account.<a href="#top">^</a><br><br>
+4. What are the necessary fields required in the class gradebook for the system to function correctly?<br>
+-> Class gradebook must contain a header row as the first row of the csv file. It must contain at least these 4 columns titled exactly as
+"UFID", "Last Name", "First Name" and "Email". Other than these it may have any number of columns like "hw1", "proj1" etc. etc as desired.
+<a href="#top">^</a><br><br>
+5. How can I make certain columns in the class gradebook not accessible by the students?<br>
+-> Any column whose corresponding header name begins with ## is not displayed to the students. For example you want to have a "letter grade"
+column in your gradebook file but do not want the letter grades to be displayed yet to the students, you can name the header row title for
+that column as "##letter grade".<a href="#top">^</a><br><br>
+6. What is the structure for the class roster file?<br>
+-> The class roster csv file must contain just 2 columns containing only the ufids and the full name of the students in that class and without 
+any header title.
+<a href="#top">^</a><br><br>
+7. I have forgotten my password. How can I retrive it?<br>
+-> IBA Administrators' passwords are securely stored as a one way hash value, so there is no way to retrieve the password corresponding to the hash
+hence if you have forgotten your password contact the system admin who has control over <i>admin</i> username in order to reset your password to a new
+one. You will be first asked to change your password next time you login after it has been resetted and then you can choose a proper password.
+<a href="#top">^</a><br><br>
+8. How do I access the submitted homeworks for grading them?<br>
+-> When the IBA System is first setup and when TAs accounts are created by the <i>admin</i> the system also creates a homework directory
+where all the submitted files are stored. You must have read access to that directory. Contact your TA supervisor for getting appropriate
+access rights. After that you should be able to access the files from any CISE shell.<a href="#top">^</a><br><br> 
+<a name="general"><b>For General Survey Users</b></a><br>
+1. What is UF-IBA?<br>
+-> UF-IBA is a new take on user authentication which is theoretically more secure and psychologically supposed to be more user friendly. It replaces the
+traditional text passwords with set of images as passwords. This user study has been designed to find out how practical the system is and to
+find out whether it is more acceptable to general users compared to text based password authentication systems.<a href="#top">^</a><br><br>
+2. I forgot my image password set. What should I do?<br>
+-> There is a link on the homepage to retrieve forgotten passwords. Once identity of the user has been confirmed using his/her secret question and
+answer, the system emails the password image set to the email address used during registration.<a href="#top">^</a><br><br>
+3. I want to change my password. What should I do?<br>
+-> After you have been successfully logged into the system using your current password image set, select the 'Change Password' option from the
+IBA Control Panel. Next time when you try to login, the system will prompt you to select your password image set. You can now change the password
+image set. Remember you will have to again undergo training on the newer password set.<a href="#top">^</a><br><br>
+4. How many images should I select in my password set? Is there a minimum number of images that I have to select per screen?<br>
+-> There is no niminum number of images requirement per grid screen. There are a total of 3 image grid screens. You may not select any image from a
+particular image grid screen if you do not like any of the images in that grid. There is one restriction though - your password image set must
+contain at least 5 images from these three grids. You can use any image selection combinations per grid as long as this restriction is satisfied
+in the end of your password selection process.<a href="#top">^</a><br><br>
+5. I want to retake the training again on my password image set. How can I do that?<br>
+-> Logon to the system using your password image set. Then choose the option to 'Re-enable Training' from the IBA Control panel once you have
+successfully logged in. Next time when you login into the UF-IBA system you will be allowed to retake the training again.<a href="#top">^</a><br><br>
+6. Is there any user survey planned for us to take? How will I do the survey?<br>
+-> Yes, there are 4 user surveys planned to be given at different point of time during the duration of this study. Once a survey has been given, it
+will be displayed on the screen after you have successfully logged into the system. There will be no more than 10 - 15 questions per survey. The
+survey will be available for taking for few days to a week or so from the initial date of listing.<a href="#top">^</a><br><br>
+7. How often am I supposed to logon into the system for this study?<br>
+-> Please try to login into UF-IBA system at least once per week. If you do not login into the system for 7 days in a row, the system will
+automatically send you a short reminder once per week of inactivity to the email address used during the registration process. 
+<a href="#top">^</a><br><br>
+<a name="student"><b>For Specific Course Users</b></a><br>
+Note: These FAQs are in addition to the FAQs for the General Survey User. Please refer to those too in addition to the ones listed below.<br><br>
+1. If I submit my homeowrks / projects multiple times are all the versions stored at the server?<br>
+-> No, the server only stores the version that you submitted last. Therefore after the submission deadline has passed do not try to resubmit
+your homework as it will erase your previous homework which you had submitted well within the deadline resulting in late submission.
+<a href="#top">^</a><br><br>
+</div>
+<div id="guide" style="position:relative;left:510px;top:150px;width:270px;height:80px;color:navy;font-size:12px;font-family:Arial;" valign=center>
+Use these links below to navigate to required categories:<br><br>                 
+<a href="#admin" style="font-size:12px;">Administrators' FAQs</a><br>
+<a href="#general" style="font-size:12px;">General Survey Users' FAQs</a><br>
+<a href="#student" style="font-size:12px;">Specific Course Users' FAQs</a><br>
+<a href="../">Back to UF-IBA Homepage</a>
+</div>
+</table>
+<tr><td style="font-size:10px;font-family:Verdana;" align="center">(c) 2006 - <b>Piyush Harsh</b> :: Best viewed using 
+<a href="http://www.opera.com/" target="_blank">Opera 9.0</a>
+</table>
+</body>
+</html>
+

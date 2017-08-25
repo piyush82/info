@@ -1,0 +1,440 @@
+<<1156588690 ^ 136.182.2.221:8984 register1.php succ>>
+<<1156588902 ^ 136.182.2.221:12878 selectpass.php succ count 5>>
+<<1156588943 ^ 136.182.2.221:13369 training.php disp 1>>
+<<1156588961 ^ 136.182.2.221:13614 training.php disp 3>>
+<<1156588972 ^ 136.182.2.221:13810 training.php disp 2>>
+<<1156589000 ^ 136.182.2.221:14191 training.php fail missed 3 extra 7>>
+<<1156589021 ^ 136.182.2.221:14560 training.php disp 2>>
+<<1156589061 ^ 136.182.2.221:15291 training.php disp 1>>
+<<1156589071 ^ 136.182.2.221:15463 training.php disp 3>>
+<<1156589075 ^ 136.182.2.221:15512 training.php fail missed 2 extra 2>>
+<<1156589093 ^ 136.182.2.221:15763 % anavil adminlogout.php lout>>
+<<1156589808 ^ 129.188.33.222:31358 login.php atst status 2>>
+<<1156589810 ^ 129.188.33.222:31396 authenticate.php disp 2>>
+<<1156589828 ^ 129.188.33.222:31626 authenticate.php disp 1>>
+<<1156589836 ^ 129.188.33.222:31730 authenticate.php disp 3>>
+<<1156589848 ^ 129.188.33.222:31881 authenticate.php fail missed 0 extra 1>>
+<<1156589859 ^ 129.188.33.222:31964 % anavil adminlogout.php lout>>
+<<1156589869 ^ 129.188.33.222:32037 login.php atst status 2>>
+<<1156589870 ^ 129.188.33.222:32045 authenticate.php disp 1>>
+<<1156589883 ^ 129.188.33.222:32189 authenticate.php disp 3>>
+<<1156589906 ^ 129.188.33.222:32400 authenticate.php disp 2>>
+<<1156589918 ^ 129.188.33.222:32564 authenticate.php fail missed 1 extra 1>>
+<<1156589929 ^ 129.188.33.222:32659 % anavil adminlogout.php lout>>
+<<1156589939 ^ 129.188.33.222:32711 login.php atst status 2>>
+<<1156589940 ^ 129.188.33.222:32718 authenticate.php disp 2>>
+<<1156589955 ^ 129.188.33.222:32830 authenticate.php disp 1>>
+<<1156589965 ^ 129.188.33.222:32913 authenticate.php disp 3>>
+<<1156589984 ^ 129.188.33.222:33158 authenticate.php fail missed 1 extra 2>>
+<<1156589999 ^ 129.188.33.222:33253 % anavil adminlogout.php lout>>
+<<1156590025 ^ 136.182.2.221:28572 login.php atst status 2>>
+<<1156590026 ^ 136.182.2.221:28599 authenticate.php disp 2>>
+<<1156590039 ^ 136.182.2.221:28796 authenticate.php disp 1>>
+<<1156590052 ^ 136.182.2.221:28965 authenticate.php disp 3>>
+<<1156590172 ^ 136.182.2.221:31151 authenticate.php succ>>
+<<1156590260 ^ 136.182.2.221:32430 % anavil adminlogout.php lout>>
+<<1156633406 ^ 129.188.33.222:17776 login.php atst status 2>>
+<<1156633409 ^ 129.188.33.222:17834 authenticate.php disp 2>>
+<<1156633455 ^ 129.188.33.222:18411 authenticate.php disp 1>>
+<<1156633495 ^ 129.188.33.222:19042 authenticate.php disp 3>>
+<<1156633529 ^ 136.182.2.221:52145 authenticate.php fail missed 1 extra 1>>
+<<1156633540 ^ 136.182.2.221:52472 % anavil adminlogout.php lout>>
+<<1156633555 ^ 136.182.2.221:52937 login.php atst status 2>>
+<<1156633557 ^ 136.182.2.221:52960 authenticate.php disp 2>>
+<<1156633597 ^ 136.182.2.221:54373 authenticate.php disp 1>>
+<<1156633606 ^ 136.182.2.221:54648 authenticate.php disp 3>>
+<<1156633617 ^ 136.182.2.221:55015 authenticate.php fail missed 0 extra 1>>
+<<1156633624 ^ 136.182.2.221:55214 login.php atst status 2>>
+<<1156633626 ^ 136.182.2.221:55242 authenticate.php disp 3>>
+<<1156633644 ^ 136.182.2.221:55896 authenticate.php disp 1>>
+<<1156633655 ^ 136.182.2.221:56294 authenticate.php disp 2>>
+<<1156633673 ^ 136.182.2.221:56891 authenticate.php fail missed 1 extra 1>>
+<<1156633686 ^ 136.182.2.221:57290 login.php atst status 2>>
+<<1156633687 ^ 136.182.2.221:57336 authenticate.php disp 3>>
+<<1156633704 ^ 136.182.2.221:58000 authenticate.php disp 1>>
+<<1156633717 ^ 136.182.2.221:58491 authenticate.php disp 2>>
+<<1156633728 ^ 136.182.2.221:58865 authenticate.php fail missed 1 extra 1>>
+<<1156633740 ^ 136.182.2.221:59248 % anavil adminlogout.php lout>>
+<<1156633759 ^ 136.182.2.221:60046 login.php atst status 2>>
+<<1156633760 ^ 136.182.2.221:60085 authenticate.php disp 2>>
+<<1156633776 ^ 136.182.2.221:21149 authenticate.php disp 1>>
+<<1156633787 ^ 136.182.2.221:21639 authenticate.php disp 3>>
+<<1156633794 ^ 136.182.2.221:21848 authenticate.php succ>>
+<<1156939283 ^ 136.182.2.222:20619 login.php atst status 2>>
+<<1156939286 ^ 136.182.2.222:21014 authenticate.php disp 3>>
+<<1156939348 ^ 136.182.2.222:26113 authenticate.php disp 2>>
+<<1156939378 ^ 136.182.2.222:28271 authenticate.php disp 1>>
+<<1156939400 ^ 136.182.2.222:30134 authenticate.php fail missed 0 extra 1>>
+<<1156939411 ^ 136.182.2.222:31001 login.php atst status 2>>
+<<1156939412 ^ 136.182.2.222:31134 authenticate.php disp 3>>
+<<1156939431 ^ 136.182.2.222:32765 authenticate.php disp 1>>
+<<1156939447 ^ 136.182.2.222:34336 authenticate.php disp 2>>
+<<1156939460 ^ 136.182.2.222:35436 authenticate.php fail missed 1 extra 1>>
+<<1156939472 ^ 136.182.2.222:36335 % anavil adminlogout.php lout>>
+<<1156939490 ^ 136.182.2.222:37544 login.php atst status 2>>
+<<1156939491 ^ 136.182.2.222:37668 authenticate.php disp 2>>
+<<1156939740 ^ 129.188.33.222:64489 authenticate.php disp 3>>
+<<1156939750 ^ 129.188.33.222:64841 authenticate.php disp 1>>
+<<1156939769 ^ 129.188.33.222:1486 authenticate.php fail missed 2 extra 1>>
+<<1156939780 ^ 129.188.33.222:1900 % anavil adminlogout.php lout>>
+<<1156939803 ^ 136.182.2.222:62768 login.php atst status 2>>
+<<1156939804 ^ 136.182.2.222:63166 authenticate.php disp 1>>
+<<1156939823 ^ 136.182.2.222:64950 authenticate.php disp 3>>
+<<1156939833 ^ 136.182.2.222:2020 authenticate.php disp 2>>
+<<1156940948 ^ 136.182.2.221:33666 authenticate.php fail missed 0 extra 1>>
+<<1156940987 ^ 136.182.2.221:37056 login.php atst status 2>>
+<<1156940989 ^ 136.182.2.221:37474 authenticate.php disp 2>>
+<<1156941006 ^ 136.182.2.221:38854 authenticate.php disp 1>>
+<<1156941016 ^ 136.182.2.221:39817 authenticate.php disp 3>>
+<<1156941022 ^ 136.182.2.221:40291 authenticate.php fail missed 1 extra 1>>
+<<1156941034 ^ 136.182.2.221:41254 % anavil adminlogout.php lout>>
+<<1156941074 ^ 136.182.2.221:44254 login.php atst status 2>>
+<<1156941075 ^ 136.182.2.221:44429 authenticate.php disp 2>>
+<<1156941111 ^ 136.182.2.221:47090 authenticate.php disp 3>>
+<<1156941121 ^ 136.182.2.221:48007 authenticate.php disp 1>>
+<<1156941155 ^ 136.182.2.221:50622 authenticate.php fail missed 1 extra 0>>
+<<1156941164 ^ 136.182.2.221:51381 login.php atst status 2>>
+<<1156941166 ^ 136.182.2.221:51486 authenticate.php disp 2>>
+<<1156941180 ^ 136.182.2.221:52462 authenticate.php disp 1>>
+<<1156941190 ^ 136.182.2.221:53040 authenticate.php disp 3>>
+<<1156941197 ^ 136.182.2.221:53620 authenticate.php fail missed 1 extra 1>>
+<<1156941223 ^ 136.182.2.221:55449 reset.php qanm>>
+<<1156941258 ^ 136.182.2.221:58382 reset.php qanm>>
+<<1156941269 ^ 136.182.2.221:59123 reset.php succ email anavil@ufl.edu>>
+<<1156941291 ^ 136.182.2.221:60692 % anavil adminlogout.php lout>>
+<<1156941404 ^ 136.182.2.221:5721 login.php atst status 2>>
+<<1156941406 ^ 136.182.2.221:5817 authenticate.php disp 1>>
+<<1156941420 ^ 136.182.2.221:7024 authenticate.php disp 2>>
+<<1156941429 ^ 136.182.2.221:7612 authenticate.php disp 3>>
+<<1156941432 ^ 136.182.2.221:7839 authenticate.php fail missed 1 extra 1>>
+<<1156941470 ^ 136.182.2.221:10717 login.php atst status 2>>
+<<1156941472 ^ 136.182.2.221:10865 authenticate.php disp 2>>
+<<1156941489 ^ 136.182.2.221:12150 authenticate.php disp 1>>
+<<1156941509 ^ 136.182.2.221:13654 authenticate.php disp 3>>
+<<1156941518 ^ 136.182.2.221:14258 authenticate.php succ>>
+<<1157023028 ^ 136.182.2.221:26584 login.php atst status 2>>
+<<1157023031 ^ 136.182.2.221:26844 authenticate.php disp 3>>
+<<1157023062 ^ 136.182.2.221:27868 authenticate.php disp 1>>
+<<1157023113 ^ 136.182.2.221:29402 authenticate.php disp 2>>
+<<1157023143 ^ 136.182.2.221:30376 authenticate.php succ>>
+<<1157073782 ^ 136.182.2.221:40734 login.php atst status 2>>
+<<1157073785 ^ 136.182.2.221:41070 authenticate.php disp 2>>
+<<1157073822 ^ 136.182.2.221:42784 authenticate.php disp 3>>
+<<1157073876 ^ 136.182.2.221:44859 authenticate.php disp 1>>
+<<1157073934 ^ 136.182.2.221:47826 authenticate.php fail missed 1 extra 0>>
+<<1157073946 ^ 136.182.2.221:48463 % anavil adminlogout.php lout>>
+<<1157550751 ^ 136.182.2.222:30392 login.php atst status 2>>
+<<1157550755 ^ 136.182.2.222:40942 authenticate.php disp 1>>
+<<1157550798 ^ 136.182.2.222:43426 authenticate.php disp 3>>
+<<1157550832 ^ 136.182.2.222:49555 authenticate.php disp 2>>
+<<1157550877 ^ 136.182.2.222:57683 authenticate.php fail missed 1 extra 0>>
+<<1157550885 ^ 136.182.2.222:59258 login.php atst status 2>>
+<<1157550891 ^ 136.182.2.222:59450 authenticate.php disp 1>>
+<<1157550906 ^ 136.182.2.222:63208 authenticate.php disp 3>>
+<<1157550919 ^ 136.182.2.222:1514 authenticate.php disp 2>>
+<<1157550926 ^ 136.182.2.222:2761 authenticate.php succ>>
+<<1157568927 ^ 136.182.2.222:52436 login.php atst status 2>>
+<<1157568929 ^ 136.182.2.222:52913 authenticate.php disp 2>>
+<<1157568965 ^ 136.182.2.222:58822 authenticate.php disp 1>>
+<<1157568994 ^ 136.182.2.222:63711 authenticate.php disp 3>>
+<<1157569009 ^ 136.182.2.222:1828 authenticate.php succ>>
+<<1157635228 ^ 136.182.2.221:35735 login.php atst status 2>>
+<<1157635230 ^ 136.182.2.221:36638 authenticate.php disp 2>>
+<<1157635279 ^ 136.182.2.221:44416 authenticate.php disp 3>>
+<<1157635294 ^ 136.182.2.221:46503 authenticate.php disp 1>>
+<<1157635302 ^ 136.182.2.221:47905 authenticate.php succ>>
+<<1157636048 ^ 129.188.33.223:14352 login.php atst status 2>>
+<<1157636050 ^ 129.188.33.223:14628 authenticate.php disp 3>>
+<<1157636072 ^ 129.188.33.223:15502 authenticate.php disp 1>>
+<<1157636092 ^ 129.188.33.223:16525 authenticate.php disp 2>>
+<<1157636103 ^ 129.188.33.223:17183 authenticate.php succ>>
+<<1157676507 ^ 136.182.2.222:11489 login.php atst status 2>>
+<<1157676509 ^ 136.182.2.222:11669 authenticate.php disp 1>>
+<<1157676763 ^ 136.182.2.222:17762 authenticate.php disp 3>>
+<<1157676871 ^ 136.182.2.222:20768 authenticate.php disp 2>>
+<<1157676944 ^ 136.182.2.222:22815 authenticate.php succ>>
+<<1157933568 ^ 129.188.33.222:11107 login.php atst status 2>>
+<<1157933571 ^ 129.188.33.222:11178 authenticate.php disp 1>>
+<<1157933598 ^ 129.188.33.222:11790 authenticate.php disp 3>>
+<<1157933636 ^ 129.188.33.222:12418 authenticate.php disp 2>>
+<<1157933665 ^ 129.188.33.222:12918 authenticate.php succ>>
+<<1158589316 ^ 66.176.237.87:61704 login.php atst status 2>>
+<<1158589317 ^ 66.176.237.87:61707 authenticate.php disp 3>>
+<<1158589359 ^ 66.176.237.87:61799 authenticate.php disp 2>>
+<<1158589375 ^ 66.176.237.87:61922 authenticate.php disp 1>>
+<<1158589382 ^ 66.176.237.87:61987 authenticate.php succ>>
+<<1158949464 ^ 136.182.2.221:47097 login.php atst status 2>>
+<<1158949466 ^ 136.182.2.221:47334 authenticate.php disp 1>>
+<<1158949484 ^ 136.182.2.221:50223 authenticate.php disp 2>>
+<<1158949498 ^ 136.182.2.221:52581 authenticate.php disp 3>>
+<<1158949506 ^ 136.182.2.221:53999 authenticate.php succ>>
+<<1159304567 ^ 136.182.2.221:45847 login.php atst status 2>>
+<<1159304568 ^ 136.182.2.221:46074 authenticate.php disp 1>>
+<<1159304584 ^ 136.182.2.221:48311 authenticate.php disp 3>>
+<<1159304593 ^ 136.182.2.221:49391 authenticate.php disp 2>>
+<<1159304606 ^ 136.182.2.221:50909 authenticate.php succ>>
+<<1159536269 ^ 136.182.2.222:57938 login.php atst status 2>>
+<<1159536271 ^ 136.182.2.222:58145 authenticate.php disp 1>>
+<<1159536286 ^ 136.182.2.222:60141 authenticate.php disp 2>>
+<<1159536315 ^ 136.182.2.222:63511 authenticate.php disp 3>>
+<<1159536321 ^ 136.182.2.222:64209 authenticate.php succ>>
+<<1159665266 ^ 129.188.33.223:22475 login.php atst status 2>>
+<<1159665268 ^ 129.188.33.223:22499 authenticate.php disp 3>>
+<<1159665299 ^ 129.188.33.223:22882 authenticate.php disp 2>>
+<<1159665321 ^ 129.188.33.223:5215 authenticate.php disp 1>>
+<<1159665339 ^ 129.188.33.223:5400 authenticate.php fail missed 1 extra 0>>
+<<1159665348 ^ 129.188.33.223:5477 login.php atst status 2>>
+<<1159665350 ^ 129.188.33.223:5484 authenticate.php disp 1>>
+<<1159665364 ^ 129.188.33.223:5631 authenticate.php disp 3>>
+<<1159665370 ^ 129.188.33.223:5681 authenticate.php disp 2>>
+<<1159665375 ^ 129.188.33.223:5764 authenticate.php succ>>
+<<1159715257 ^ 136.182.2.221:16767 login.php atst status 2>>
+<<1159715259 ^ 136.182.2.221:16795 authenticate.php disp 2>>
+<<1159715281 ^ 136.182.2.221:17312 authenticate.php disp 3>>
+<<1159715329 ^ 136.182.2.221:18037 authenticate.php disp 1>>
+<<1159715360 ^ 136.182.2.221:18635 authenticate.php succ>>
+<<1159737773 ^ 136.182.2.222:4896 login.php atst status 2>>
+<<1159737774 ^ 136.182.2.222:4930 authenticate.php disp 3>>
+<<1159737829 ^ 136.182.2.222:5941 authenticate.php disp 1>>
+<<1159737853 ^ 136.182.2.222:6481 authenticate.php disp 2>>
+<<1159737881 ^ 136.182.2.222:7348 authenticate.php succ>>
+<<1159745251 ^ 136.182.2.222:10045 login.php atst status 2>>
+<<1159745253 ^ 136.182.2.222:10091 authenticate.php disp 2>>
+<<1159745267 ^ 136.182.2.222:10402 authenticate.php disp 1>>
+<<1159745306 ^ 136.182.2.222:11185 authenticate.php disp 3>>
+<<1159745324 ^ 129.188.33.222:11605 authenticate.php succ>>
+<<1159750801 ^ 129.188.33.222:27001 login.php atst status 2>>
+<<1159750803 ^ 129.188.33.222:27036 authenticate.php disp 2>>
+<<1159750842 ^ 129.188.33.222:27675 authenticate.php disp 1>>
+<<1159750857 ^ 129.188.33.222:27852 authenticate.php disp 3>>
+<<1159750883 ^ 129.188.33.222:28238 authenticate.php succ>>
+<<1159798148 ^ 136.182.2.222:25004 login.php atst status 2>>
+<<1159798149 ^ 136.182.2.222:25275 authenticate.php disp 1>>
+<<1159798164 ^ 136.182.2.222:28022 authenticate.php disp 2>>
+<<1159798172 ^ 136.182.2.222:29224 authenticate.php disp 3>>
+<<1159798190 ^ 136.182.2.222:32535 authenticate.php succ>>
+<<1159926205 ^ 66.176.237.87:60313 login.php atst status 2>>
+<<1159926208 ^ 66.176.237.87:60316 authenticate.php disp 2>>
+<<1159926216 ^ 66.176.237.87:60379 authenticate.php disp 3>>
+<<1159926227 ^ 66.176.237.87:60455 authenticate.php disp 1>>
+<<1159926237 ^ 66.176.237.87:60524 authenticate.php succ>>
+<<1159926985 ^ 66.176.237.87:60538 % anavil adminlogout.php lout>>
+<<1159969386 ^ 136.182.2.222:18642 login.php atst status 2>>
+<<1159969387 ^ 136.182.2.222:18959 authenticate.php disp 3>>
+<<1159969409 ^ 136.182.2.222:23277 authenticate.php disp 2>>
+<<1159969417 ^ 136.182.2.222:25215 authenticate.php disp 1>>
+<<1159969428 ^ 136.182.2.222:27353 authenticate.php succ>>
+<<1159997139 ^ 136.182.2.222:22547 login.php atst status 2>>
+<<1159997140 ^ 136.182.2.222:22679 authenticate.php disp 2>>
+<<1159997152 ^ 136.182.2.222:23903 authenticate.php disp 1>>
+<<1159997164 ^ 136.182.2.222:25439 authenticate.php disp 3>>
+<<1159997171 ^ 136.182.2.222:26346 authenticate.php succ>>
+<<1160005640 ^ 129.188.33.221:4156 login.php atst status 2>>
+<<1160005642 ^ 129.188.33.221:4207 authenticate.php disp 1>>
+<<1160005654 ^ 129.188.33.221:4522 authenticate.php disp 2>>
+<<1160005695 ^ 129.188.33.221:5366 authenticate.php disp 3>>
+<<1160005710 ^ 129.188.33.221:5749 authenticate.php succ>>
+<<1160005739 ^ 129.188.33.221:6515 % anavil adminlogout.php lout>>
+<<1160021593 ^ 129.188.33.221:22562 login.php atst status 2>>
+<<1160021595 ^ 129.188.33.221:22625 authenticate.php disp 2>>
+<<1160021610 ^ 129.188.33.221:22980 authenticate.php disp 3>>
+<<1160021621 ^ 129.188.33.221:23207 authenticate.php disp 1>>
+<<1160021637 ^ 129.188.33.221:23661 authenticate.php succ>>
+<<1160061088 ^ 136.182.2.222:13975 login.php atst status 2>>
+<<1160061090 ^ 136.182.2.222:14208 authenticate.php disp 3>>
+<<1160061103 ^ 136.182.2.222:16585 authenticate.php disp 1>>
+<<1160061126 ^ 136.182.2.222:20757 authenticate.php disp 2>>
+<<1160061142 ^ 136.182.2.222:23493 authenticate.php succ>>
+<<1160061182 ^ 136.182.2.222:30194 % anavil adminlogout.php lout>>
+<<1160073710 ^ 136.182.2.222:51302 login.php atst status 2>>
+<<1160073711 ^ 136.182.2.222:51625 authenticate.php disp 1>>
+<<1160073721 ^ 136.182.2.222:53621 authenticate.php disp 3>>
+<<1160073748 ^ 136.182.2.222:58494 authenticate.php disp 2>>
+<<1160073760 ^ 136.182.2.222:60737 authenticate.php succ>>
+<<1160073799 ^ 136.182.2.222:3918 % anavil adminlogout.php lout>>
+<<1160079689 ^ 136.182.2.221:43895 login.php atst status 2>>
+<<1160079691 ^ 136.182.2.221:44121 authenticate.php disp 3>>
+<<1160079695 ^ 136.182.2.221:44901 authenticate.php disp 1>>
+<<1160079728 ^ 136.182.2.221:25478 login.php atst status 2>>
+<<1160079729 ^ 136.182.2.221:25626 authenticate.php disp 3>>
+<<1160079760 ^ 136.182.2.221:30273 authenticate.php disp 1>>
+<<1160079847 ^ 129.188.33.222:51002 authenticate.php disp 2>>
+<<1160079867 ^ 129.188.33.222:53055 authenticate.php succ>>
+<<1160235005 ^ 136.182.2.221:52805 login.php atst status 2>>
+<<1160235007 ^ 136.182.2.221:52822 authenticate.php disp 3>>
+<<1160235035 ^ 136.182.2.221:53427 authenticate.php disp 2>>
+<<1160235056 ^ 129.188.33.222:61752 authenticate.php disp 1>>
+<<1160235076 ^ 129.188.33.222:62303 authenticate.php succ>>
+<<1160235123 ^ 129.188.33.222:62868 % anavil adminlogout.php lout>>
+<<1160409543 ^ 136.182.2.222:18784 login.php atst status 2>>
+<<1160409545 ^ 136.182.2.222:19182 authenticate.php disp 3>>
+<<1160409550 ^ 136.182.2.222:24348 authenticate.php disp 3>>
+<<1160409718 ^ 136.182.2.222:34043 authenticate.php disp 2>>
+<<1160409759 ^ 136.182.2.222:42728 authenticate.php disp 1>>
+<<1160409782 ^ 136.182.2.222:47123 authenticate.php succ>>
+<<1160492949 ^ 136.182.2.222:18331 login.php atst status 2>>
+<<1160492950 ^ 136.182.2.222:18464 authenticate.php disp 2>>
+<<1160492962 ^ 136.182.2.222:20521 authenticate.php disp 1>>
+<<1160492977 ^ 136.182.2.222:23178 authenticate.php disp 3>>
+<<1160492987 ^ 136.182.2.222:24829 authenticate.php succ>>
+<<1160505484 ^ 136.182.2.222:45992 login.php atst status 2>>
+<<1160505484 ^ 136.182.2.222:46222 login.php atst status 2>>
+<<1160505485 ^ 136.182.2.222:46383 authenticate.php disp 2>>
+<<1160505497 ^ 136.182.2.222:48391 authenticate.php disp 3>>
+<<1160505510 ^ 136.182.2.222:50830 authenticate.php disp 1>>
+<<1160505522 ^ 136.182.2.222:53070 authenticate.php succ>>
+<<1160509287 ^ 136.182.2.222:60909 login.php atst status 2>>
+<<1160509289 ^ 136.182.2.222:61205 authenticate.php disp 3>>
+<<1160509306 ^ 136.182.2.222:63734 authenticate.php disp 2>>
+<<1160509316 ^ 136.182.2.222:10342 authenticate.php disp 1>>
+<<1160509327 ^ 136.182.2.222:2040 authenticate.php succ>>
+<<1160509405 ^ 136.182.2.222:16411 % anavil adminlogout.php lout>>
+<<1160516477 ^ 136.182.2.222:10442 login.php atst status 2>>
+<<1160516479 ^ 136.182.2.222:10669 authenticate.php disp 2>>
+<<1160516494 ^ 136.182.2.222:12964 authenticate.php disp 3>>
+<<1160516502 ^ 136.182.2.222:14076 authenticate.php disp 1>>
+<<1160516509 ^ 136.182.2.222:24787 authenticate.php succ>>
+<<1160516527 ^ 136.182.2.222:61880 % anavil adminlogout.php lout>>
+<<1160521262 ^ 129.188.33.223:42907 login.php atst status 2>>
+<<1160521264 ^ 129.188.33.223:43003 authenticate.php disp 2>>
+<<1160521294 ^ 129.188.33.223:43822 authenticate.php disp 3>>
+<<1160521323 ^ 129.188.33.223:44506 authenticate.php disp 1>>
+<<1160521342 ^ 129.188.33.223:45040 authenticate.php succ>>
+<<1160522088 ^ 129.188.33.223:2787 % anavil adminlogout.php lout>>
+<<1160576668 ^ 136.182.2.222:25492 login.php atst status 2>>
+<<1160576670 ^ 136.182.2.222:25671 authenticate.php disp 3>>
+<<1160576682 ^ 136.182.2.222:27747 authenticate.php disp 2>>
+<<1160576692 ^ 136.182.2.222:29613 authenticate.php disp 1>>
+<<1160576699 ^ 136.182.2.222:30666 authenticate.php succ>>
+<<1160660124 ^ 129.188.33.221:39229 login.php atst status 2>>
+<<1160660126 ^ 129.188.33.221:39402 authenticate.php disp 3>>
+<<1160660139 ^ 129.188.33.221:40644 authenticate.php disp 1>>
+<<1160660158 ^ 129.188.33.221:42309 authenticate.php disp 2>>
+<<1160660179 ^ 129.188.33.221:44244 authenticate.php succ>>
+<<1160783963 ^ 129.188.33.222:7419 login.php atst status 2>>
+<<1160783965 ^ 129.188.33.222:7459 authenticate.php disp 2>>
+<<1160784006 ^ 129.188.33.222:8298 authenticate.php disp 1>>
+<<1160784032 ^ 129.188.33.222:8847 authenticate.php disp 3>>
+<<1160784057 ^ 129.188.33.222:9191 authenticate.php succ>>
+<<1160836688 ^ 129.188.33.222:42457 login.php atst status 2>>
+<<1160836690 ^ 129.188.33.222:42502 authenticate.php disp 1>>
+<<1160836763 ^ 129.188.33.222:43409 authenticate.php disp 2>>
+<<1160836800 ^ 129.188.33.222:43849 authenticate.php disp 3>>
+<<1160836819 ^ 129.188.33.222:44014 authenticate.php succ>>
+<<1160836854 ^ 129.188.33.222:44306 % anavil adminlogout.php lout>>
+<<1160946105 ^ 129.188.33.222:10122 login.php atst status 2>>
+<<1160946108 ^ 129.188.33.222:10138 authenticate.php disp 2>>
+<<1160946128 ^ 129.188.33.222:10501 authenticate.php disp 3>>
+<<1160946144 ^ 129.188.33.222:10812 authenticate.php disp 1>>
+<<1160946168 ^ 129.188.33.222:11214 authenticate.php succ>>
+<<1161013666 ^ 136.182.2.222:39248 login.php atst status 2>>
+<<1161013668 ^ 136.182.2.222:39645 authenticate.php disp 2>>
+<<1161013689 ^ 136.182.2.222:43598 authenticate.php disp 1>>
+<<1161013727 ^ 136.182.2.222:51132 authenticate.php disp 3>>
+<<1161013752 ^ 136.182.2.222:54839 authenticate.php succ>>
+<<1161013769 ^ 136.182.2.222:58210 % anavil adminlogout.php lout>>
+<<1161045091 ^ 129.188.33.222:50747 login.php atst status 2>>
+<<1161045093 ^ 129.188.33.222:50780 authenticate.php disp 2>>
+<<1161045122 ^ 129.188.33.222:51476 authenticate.php disp 3>>
+<<1161045137 ^ 129.188.33.222:51736 authenticate.php disp 1>>
+<<1161045150 ^ 129.188.33.222:52052 authenticate.php succ>>
+<<1161045183 ^ 129.188.33.222:52820 % anavil adminlogout.php lout>>
+<<1161132420 ^ 136.182.2.222:60211 login.php atst status 2>>
+<<1161132423 ^ 136.182.2.222:60332 authenticate.php disp 2>>
+<<1161132467 ^ 136.182.2.222:52298 authenticate.php disp 3>>
+<<1161132620 ^ 136.182.2.222:24265 authenticate.php disp 1>>
+<<1161132755 ^ 136.182.2.222:28163 authenticate.php succ>>
+<<1161133092 ^ 136.182.2.222:16935 % anavil adminlogout.php lout>>
+<<1161223957 ^ 129.188.33.222:64081 login.php atst status 2>>
+<<1161223960 ^ 129.188.33.222:64166 authenticate.php disp 2>>
+<<1161223993 ^ 129.188.33.222:32753 authenticate.php disp 1>>
+<<1161223995 ^ 129.188.33.222:32805 authenticate.php disp 1>>
+<<1161224026 ^ 129.188.33.222:33689 authenticate.php disp 3>>
+<<1161224036 ^ 129.188.33.222:33915 authenticate.php succ>>
+<<1161224306 ^ 136.182.2.221:43816 % anavil adminlogout.php lout>>
+<<1161291264 ^ 136.182.2.222:17360 login.php atst status 2>>
+<<1161291265 ^ 136.182.2.222:17489 authenticate.php disp 3>>
+<<1161291274 ^ 136.182.2.222:18781 authenticate.php disp 1>>
+<<1161291288 ^ 136.182.2.222:20713 authenticate.php disp 2>>
+<<1161291300 ^ 136.182.2.222:22531 authenticate.php succ>>
+<<1161291337 ^ 136.182.2.222:27309 % anavil adminlogout.php lout>>
+<<1161554831 ^ 136.182.2.222:19825 login.php atst status 2>>
+<<1161554833 ^ 136.182.2.222:19882 authenticate.php disp 1>>
+<<1161554849 ^ 136.182.2.222:20399 authenticate.php disp 2>>
+<<1161554862 ^ 136.182.2.222:20926 authenticate.php disp 3>>
+<<1161554874 ^ 136.182.2.222:21267 authenticate.php succ>>
+<<1161554891 ^ 136.182.2.222:21923 % anavil adminlogout.php lout>>
+<<1161638079 ^ 136.182.2.222:37021 login.php atst status 2>>
+<<1161638080 ^ 136.182.2.222:37267 authenticate.php disp 3>>
+<<1161638095 ^ 136.182.2.222:39481 authenticate.php disp 1>>
+<<1161638106 ^ 136.182.2.222:41041 authenticate.php disp 2>>
+<<1161638121 ^ 136.182.2.222:43126 authenticate.php succ>>
+<<1161699220 ^ 136.182.2.222:56868 login.php atst status 2>>
+<<1161699221 ^ 136.182.2.222:57131 authenticate.php disp 1>>
+<<1161700069 ^ 136.182.2.222:48643 authenticate.php disp 2>>
+<<1161700104 ^ 129.188.33.223:49007 authenticate.php disp 3>>
+<<1161700126 ^ 136.182.2.222:38749 authenticate.php succ>>
+<<1161703602 ^ 136.182.2.222:57901 % anavil adminlogout.php lout>>
+<<1162231603 ^ 136.182.2.221:51805 login.php atst status 2>>
+<<1162231605 ^ 136.182.2.221:52047 authenticate.php disp 1>>
+<<1162231623 ^ 136.182.2.221:18945 authenticate.php disp 2>>
+<<1162231634 ^ 136.182.2.221:20993 authenticate.php disp 3>>
+<<1162231646 ^ 136.182.2.221:51106 authenticate.php succ>>
+<<1162393238 ^ 136.182.2.221:11983 login.php atst status 2>>
+<<1162393239 ^ 136.182.2.221:12341 authenticate.php disp 3>>
+<<1162393281 ^ 136.182.2.221:19290 authenticate.php disp 2>>
+<<1162393298 ^ 136.182.2.221:21952 authenticate.php disp 1>>
+<<1162393318 ^ 136.182.2.221:24752 authenticate.php succ>>
+<<1162417675 ^ 136.182.2.222:37869 login.php atst status 2>>
+<<1162417681 ^ 136.182.2.222:38588 authenticate.php disp 3>>
+<<1162417770 ^ 136.182.2.222:24379 authenticate.php disp 1>>
+<<1162417866 ^ 136.182.2.222:37040 authenticate.php disp 2>>
+<<1162417896 ^ 136.182.2.222:40853 authenticate.php succ>>
+<<1162594303 ^ 136.182.2.221:39966 login.php atst status 2>>
+<<1162594304 ^ 136.182.2.221:40073 authenticate.php disp 1>>
+<<1162594323 ^ 136.182.2.221:41685 authenticate.php disp 2>>
+<<1162594333 ^ 136.182.2.221:42641 authenticate.php disp 3>>
+<<1162594359 ^ 136.182.2.221:44560 authenticate.php succ>>
+<<1162768905 ^ 136.182.158.145:25674 login.php atst status 2>>
+<<1162768910 ^ 136.182.158.145:25708 authenticate.php disp 3>>
+<<1162768957 ^ 136.182.158.145:26086 authenticate.php disp 2>>
+<<1162769010 ^ 136.182.158.145:26578 authenticate.php disp 1>>
+<<1162769050 ^ 136.182.158.145:26856 authenticate.php succ>>
+<<1163021696 ^ 136.182.158.129:56646 login.php atst status 2>>
+<<1163021698 ^ 136.182.158.129:56849 authenticate.php disp 1>>
+<<1163021739 ^ 136.182.158.129:4900 authenticate.php disp 2>>
+<<1163021774 ^ 136.182.158.129:11288 authenticate.php disp 3>>
+<<1163021808 ^ 136.182.158.129:15890 authenticate.php succ>>
+<<1163021842 ^ 136.182.158.129:20442 % anavil adminlogout.php lout>>
+<<1163522927 ^ 136.182.158.129:63399 login.php atst status 2>>
+<<1163522928 ^ 136.182.158.129:63503 authenticate.php disp 3>>
+<<1163522951 ^ 136.182.158.129:33171 authenticate.php disp 2>>
+<<1163522989 ^ 136.182.158.129:20558 authenticate.php disp 1>>
+<<1163523081 ^ 136.182.158.129:29483 authenticate.php succ>>
+<<1163714514 ^ 136.182.158.129:57947 login.php atst status 2>>
+<<1163714515 ^ 136.182.158.129:37875 authenticate.php disp 3>>
+<<1163714519 ^ 136.182.158.129:26409 authenticate.php disp 3>>
+<<1163727820 ^ 136.182.158.153:38535 login.php atst status 2>>
+<<1163727822 ^ 136.182.158.153:38588 authenticate.php disp 3>>
+<<1163727853 ^ 136.182.158.153:39258 authenticate.php disp 1>>
+<<1163727873 ^ 136.182.158.153:39647 authenticate.php disp 2>>
+<<1163727887 ^ 136.182.158.153:39890 authenticate.php succ>>
+<<1163986352 ^ 129.188.69.169:7564 login.php atst status 2>>
+<<1163986354 ^ 129.188.69.169:7593 authenticate.php disp 2>>
+<<1163986507 ^ 136.182.158.145:35042 authenticate.php disp 3>>
+<<1163986968 ^ 136.182.158.145:39096 authenticate.php disp 1>>
+<<1163987000 ^ 136.182.158.145:39686 authenticate.php succ>>
+<<1164485995 ^ 66.176.237.87:61779 login.php atst status 2>>
+<<1164485996 ^ 66.176.237.87:61782 authenticate.php disp 1>>
+<<1165187870 ^ 129.188.69.169:52372 login.php atst status 2>>
+<<1165187872 ^ 129.188.69.169:52432 authenticate.php disp 3>>
+<<1165187888 ^ 129.188.69.169:52735 authenticate.php disp 1>>
+<<1165187911 ^ 129.188.69.169:53113 authenticate.php disp 2>>
+<<1165187924 ^ 129.188.69.169:53266 authenticate.php succ>>
+<<1165187985 ^ 129.188.69.169:53649 % anavil adminlogout.php lout>>
+<<1165588524 ^ 136.182.158.129:7007 login.php atst status 2>>
+<<1165588525 ^ 136.182.158.129:7069 authenticate.php disp 1>>
+<<1165588584 ^ 136.182.158.129:11623 authenticate.php disp 2>>
+<<1165588596 ^ 136.182.158.129:12666 authenticate.php disp 3>>
+<<1165588604 ^ 136.182.158.129:13373 authenticate.php succ>>
+<<1165588941 ^ 136.182.158.129:40999 % anavil adminlogout.php lout>>

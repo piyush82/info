@@ -1,0 +1,36 @@
+<<1198601601 ^ 140.134.26.44:3094 register1.php succ>>
+<<1198601776 ^ 140.134.26.44:3116 % c13898 adminlogout.php lout>>
+<<1198601837 ^ 140.134.26.44:3121 selectpass.php succ count 5>>
+<<1198601854 ^ 140.134.26.44:3121 training.php disp 3>>
+<<1198601870 ^ 140.134.26.44:3128 training.php disp 2>>
+<<1198601877 ^ 140.134.26.44:3128 training.php disp 1>>
+<<1198601914 ^ 140.134.26.44:3140 training.php fail missed 1 extra 1>>
+<<1198609125 ^ 140.134.26.44:1812 training.php disp 3>>
+<<1198609159 ^ 140.134.26.44:1856 training.php disp 2>>
+<<1198609222 ^ 140.134.26.44:1890 training.php disp 1>>
+<<1198609277 ^ 140.134.26.44:1952 training.php fail missed 1 extra 1>>
+<<1198609287 ^ 140.134.26.44:1952 training.php disp 3>>
+<<1198609300 ^ 140.134.26.44:1964 training.php disp 2>>
+<<1198609311 ^ 140.134.26.44:1966 training.php disp 1>>
+<<1198609342 ^ 140.134.26.44:2013 training.php fail missed 1 extra 1>>
+<<1198609354 ^ 140.134.26.44:2015 training.php disp 1>>
+<<1198609381 ^ 140.134.26.44:2053 training.php disp 2>>
+<<1198609385 ^ 140.134.26.44:2055 training.php disp 3>>
+<<1198609393 ^ 140.134.26.44:2055 training.php fail missed 1 extra 1>>
+<<1198609404 ^ 140.134.26.44:2057 training.php disp 2>>
+<<1198609411 ^ 140.134.26.44:2060 training.php disp 1>>
+<<1198609434 ^ 140.134.26.44:2088 training.php disp 3>>
+<<1198609438 ^ 140.134.26.44:2090 training.php succ>>
+<<1198609543 ^ 140.134.26.44:2095 % c13898 adminlogout.php lout>>
+<<1198609557 ^ 140.134.26.44:2095 authenticate.php disp 3>>
+<<1198609564 ^ 140.134.26.44:2099 authenticate.php disp 2>>
+<<1198609572 ^ 140.134.26.44:2101 authenticate.php disp 1>>
+<<1198609589 ^ 140.134.26.44:2134 authenticate.php succ>>
+<<1198609616 ^ 140.134.26.44:2137 % c13898 adminlogout.php lout>>
+<<1198609628 ^ 140.134.26.44:2137 authenticate.php disp 3>>
+<<1198609641 ^ 140.134.26.44:2140 authenticate.php disp 1>>
+<<1198609681 ^ 140.134.26.44:2180 authenticate.php disp 2>>
+<<1198609686 ^ 140.134.26.44:2184 authenticate.php succ>>
+<<1198654346 ^ 140.134.116.241:2240 authenticate.php disp 1>>
+<<1198654421 ^ 140.134.116.241:2252 authenticate.php disp 1>>
+<<1198655616 ^ 140.134.116.241:2372 authenticate.php disp 1>>

@@ -1,0 +1,25 @@
+<<1155577062 ^ 128.227.35.13:48392 register1.php succ>>
+<<1155577392 ^ 128.227.35.13:48482 selectpass.php succ count 6>>
+<<1155577404 ^ 128.227.35.13:48483 % nemo adminlogout.php lout>>
+<<1155577441 ^ 128.227.35.13:48484 training.php disp 2>>
+<<1155577462 ^ 128.227.35.13:48490 training.php disp 1>>
+<<1155577500 ^ 128.227.35.13:48510 training.php disp 3>>
+<<1155577506 ^ 128.227.35.13:48516 training.php succ>>
+<<1155577523 ^ 128.227.35.13:48523 training.php disp 2>>
+<<1155577570 ^ 128.227.35.13:48539 training.php disp 3>>
+<<1155577689 ^ 128.227.35.13:48561 training.php disp 1>>
+<<1155577696 ^ 128.227.35.13:48561 training.php fail missed 4 extra 0>>
+<<1155577706 ^ 128.227.35.13:48566 training.php disp 3>>
+<<1155577721 ^ 128.227.35.13:48578 training.php disp 1>>
+<<1155577734 ^ 128.227.35.13:48578 training.php disp 2>>
+<<1155577751 ^ 128.227.35.13:48573 training.php succ>>
+<<1155577755 ^ 128.227.35.13:48589 training.php disp 2>>
+<<1155577766 ^ 128.227.35.13:48591 training.php disp 3>>
+<<1155577773 ^ 128.227.35.13:48590 training.php disp 1>>
+<<1155577798 ^ 128.227.35.13:48590 training.php succ>>
+<<1155577801 ^ 128.227.35.13:48597 training.php disp 3>>
+<<1155577809 ^ 128.227.35.13:48600 training.php disp 2>>
+<<1155577821 ^ 128.227.35.13:48611 training.php disp 1>>
+<<1155577833 ^ 128.227.35.13:48616 training.php succ>>
+<<1155577842 ^ 128.227.35.13:48613 % nemo adminlogout.php lout>>
+<<1155579072 ^ 128.227.35.13:48857 authenticate.php disp 3>>

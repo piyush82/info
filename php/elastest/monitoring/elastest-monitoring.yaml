@@ -1,0 +1,368 @@
+---
+swagger: '2.0'
+info:
+  version: '0.0.1'
+  title: ElasTest TORM monitoring service API specification
+  description: RESTful API specification for the ElasTest platform monitoring service
+  termsOfService: http://www.piyush-harsh.info/tos.txt
+  contact:
+    name: Piyush Harsh
+    email: piyush.harsh@zhaw.ch
+    url: http://www.piyush-harsh.info/
+  license:
+    name: Apache 2.0
+    url: https://www.apache.org/licenses/LICENSE-2.0
+
+host: elastest.torm.monitoring
+basePath: /api
+
+schemes:
+ - "http"
+ - "https"
+
+consumes:
+ - application/json
+
+produces:
+ - application/text
+ - application/json
+
+paths:
+  /:
+    get:
+      tags:
+      - "Sentinel"
+      description: list of supported api calls
+      produces:
+        - application/json
+      responses:
+        200:
+          description: OK
+        default:
+          description: unexpected error
+  /monitors/:
+    get:
+      tags:
+      - "Sentinel"
+      description: lists registered monitoring events/log data streams
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+      responses:
+        200:
+          description: OK
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/MonitorStream'
+        default:
+          description: unexpected error
+    post:
+      tags:
+      - "Sentinel"
+      description: request registration of a new data stream
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+        - name: body
+          in: body
+          description: details about data stream to be created
+          required: true
+          schema:
+            $ref: "#/definitions/CreateMonitorInput"
+      responses:
+        201:
+          description: created
+          schema:
+            $ref: "#/definitions/CreateMonitorOutput"
+        default:
+          description: unexpected error
+  /monitor/{id}:
+    get:
+      tags:
+      - "Sentinel"
+      description: get details about a given monitor
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+      responses:
+        200:
+          description: OK
+          schema:
+            $ref: "#/definitions/MonitorDetail"
+        default:
+          description: unexpected error
+    delete:
+      tags:
+      - "Sentinel"
+      description: deleted the specified data stream and all related alarms
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+      responses:
+        200:
+          description: OK
+        default:
+          description: unexpected error
+  /monitor/{id}/samples:
+    get:
+      tags:
+      - "Sentinel"
+      description: get all stored data samples in a given time window
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+        - in: query
+          name: from 
+          description: time value in UTC
+          required: true
+          type: string
+          format: date-time
+        - in: query
+          name: to
+          description: time value in UTC
+          required: false
+          type: string
+          format: date-time
+      responses:
+        200:
+          description: OK
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/MonitorSample'
+        default:
+          description: unexpected error
+  /alarms/:
+    get:
+      tags:
+      - "Sentinel"
+      description: get list of all alarms in the monitoring service
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+      responses:
+        200:
+          description: OK
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/AlarmDetail'
+        default:
+          description: unexpected error
+    post:
+      tags:
+      - "Sentinel"
+      description: create a new alarm rule for a monitored stream
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+        - name: body
+          in: body
+          description: details about alarm to be created
+          required: true
+          schema:
+            $ref: "#/definitions/NewAlarm"
+      responses:
+        201:
+          description: created
+          schema:
+            $ref: "#/definitions/AlarmDetail"
+        default:
+          description: unexpected error
+  /alarm/{id}:
+    get:
+      tags:
+      - "Sentinel"
+      description: det alarm details
+      produces: 
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+      responses:
+        200:
+          description: OK
+          schema:
+            $ref: "#/definitions/AlarmDetail"
+        default:
+          description: unexpected error
+    put:
+      tags:
+      - "Sentinel"
+      description: update alarm definition
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+        - in: body
+          name: body
+          description: updated alarm definition
+          required: true
+          schema:
+            $ref: "#/definitions/NewAlarm"
+      responses:
+        200:
+          description: OK
+        default:
+          description: unexpected error
+    delete:
+      tags:
+      - "Sentinel"
+      description: delete this alarm
+      produces:
+        - application/json
+      parameters:
+        - in: header
+          name: api_key
+          description: a valid api key for using the service
+          required: true
+          type: string
+      responses:
+        200:
+          description: OK
+        default:
+          description: unexpected error
+
+securityDefinitions:
+  api_key:
+    type: apiKey
+    name: api_key
+    in: header
+definitions:
+  MonitorSample:
+    type: object
+    properties:
+      timestamp:
+        type: string
+        format: date-time
+      value:
+        type: string
+  NewAlarm:
+    type: object
+    properties:
+      name:
+        type: string
+      nature:
+        type: string
+      threshold:
+        type: integer
+        format: int64
+      window-duration:
+        type: integer
+        format: int64
+      stat-operation:
+        type: string
+      action:
+        type: string
+      attached-to:
+        type: integer
+        format: int64
+  AlarmDetail:
+    type: object
+    properties:
+      id:
+        type: integer
+        format: int64
+      name:
+        type: string
+      nature:
+        type: string
+      threshold:
+        type: integer
+        format: int64
+      window-duration:
+        type: integer
+        format: int64
+      stat-operation:
+        type: string
+      action:
+        type: string
+      attached-to:
+        type: integer
+        format: int64
+  MonitorDetail:
+    type: object
+    properties:
+      id:
+        type: integer
+        format: int64
+      stream-name:
+        type: string
+      elastest-component-name:
+        type: string
+      alarms:
+        type: array
+        items:
+          $ref: '#/definitions/AlarmDetail'
+  MonitorStream:
+    type: object
+    properties:
+      id:
+        type: integer
+        format: int64
+      stream-name:
+        type: string
+      elastest-component-name:
+        type: string
+  CreateMonitorInput:
+    type: object
+    properties:
+      stream-name:
+        type: string
+      elastest-component-name:
+        type: string
+  CreateMonitorOutput:
+    type: object
+    properties:
+      id:
+        type: integer
+        format: int64
+      routing-key:
+        type: string
+      endpoint:
+        type: string
+      virtualhost:
+        type: string

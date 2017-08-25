@@ -1,0 +1,35 @@
+<<1155774475 ^ 68.105.167.182:1713 register1.php succ>>
+<<1155774509 ^ 68.105.167.182:1724 selectpass.php succ count 7>>
+<<1155774516 ^ 68.105.167.182:1727 training.php disp 2>>
+<<1155774524 ^ 68.105.167.182:1728 training.php disp 1>>
+<<1155774533 ^ 68.105.167.182:1729 training.php disp 3>>
+<<1155774538 ^ 68.105.167.182:1730 training.php succ>>
+<<1155774540 ^ 68.105.167.182:1731 % testuser adminlogout.php lout>>
+<<1155774548 ^ 68.105.167.182:1733 authenticate.php disp 2>>
+<<1155774553 ^ 68.105.167.182:1734 authenticate.php disp 1>>
+<<1155774559 ^ 68.105.167.182:1735 authenticate.php disp 3>>
+<<1155774564 ^ 68.105.167.182:1736 authenticate.php succ>>
+<<1155774579 ^ 68.105.167.182:1738 % testuser adminlogout.php lout>>
+<<1169168900 ^ 70.171.40.106:27600 pub-authenticate.php disp 1>>
+<<1169169248 ^ 70.171.40.106:27684 pub-authenticate.php disp 1>>
+<<1169169287 ^ 70.171.40.106:27727 pub-authenticate.php disp 1>>
+<<1169169300 ^ 70.171.40.106:27770 pub-authenticate.php disp 1>>
+<<1169169317 ^ 70.171.40.106:27813 pub-authenticate.php disp 1>>
+<<1169169330 ^ 70.171.40.106:27857 pub-authenticate.php disp 1>>
+<<1169169346 ^ 70.171.40.106:27900 pub-authenticate.php disp 1>>
+<<1169169362 ^ 70.171.40.106:27943 pub-authenticate.php disp 1>>
+<<1169169387 ^ 70.171.40.106:27988 pub-authenticate.php disp 1>>
+<<1169169404 ^ 70.171.40.106:28032 pub-authenticate.php disp 1>>
+<<1169169414 ^ 70.171.40.106:28075 pub-authenticate.php disp 1>>
+<<1169169423 ^ 70.171.40.106:28118 pub-authenticate.php disp 1>>
+<<1169169436 ^ 70.171.40.106:28161 pub-authenticate.php disp 1>>
+<<1169169471 ^ 70.171.40.106:28206 pub-authenticate.php disp 1>>
+<<1169169486 ^ 70.171.40.106:28249 pub-authenticate.php disp 1>>
+<<1169169502 ^ 70.171.40.106:28293 pub-authenticate.php disp 1>>
+<<1169169514 ^ 70.171.40.106:28337 pub-authenticate.php disp 1>>
+<<1169169527 ^ 70.171.40.106:28380 pub-authenticate.php disp 1>>
+<<1169169541 ^ 70.171.40.106:28423 pub-authenticate.php disp 1>>
+<<1169169669 ^ 70.171.40.106:28471 pub-authenticate.php disp 1>>
+<<1169169718 ^ 70.171.40.106:28514 pub-authenticate.php disp 1>>
+<<1169169753 ^ 70.171.40.106:28557 pub-authenticate.php disp 1>>
+<<1169169769 ^ 70.171.40.106:28601 pub-authenticate.php disp 1>>

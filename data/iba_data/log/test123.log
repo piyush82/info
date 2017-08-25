@@ -1,0 +1,12 @@
+<<1156440292 ^ 10.227.237.20:2151 register1.php succ>>
+<<1156440357 ^ 10.227.237.20:2187 selectpass.php succ count 5>>
+<<1156440400 ^ 10.227.237.20:2190 training.php disp 3>>
+<<1156440425 ^ 10.227.237.20:2205 training.php disp 1>>
+<<1156440428 ^ 10.227.237.20:2209 training.php disp 2>>
+<<1156440453 ^ 10.227.237.20:2218 training.php succ>>
+<<1156440462 ^ 10.227.237.20:2220 % test123 adminlogout.php lout>>
+<<1156440480 ^ 10.227.237.20:2224 authenticate.php disp 3>>
+<<1156440482 ^ 10.227.237.20:2231 authenticate.php disp 1>>
+<<1156440485 ^ 10.227.237.20:2240 authenticate.php disp 2>>
+<<1156440488 ^ 10.227.237.20:2244 authenticate.php succ>>
+<<1156440641 ^ 10.227.237.20:2246 % test123 adminlogout.php lout>>

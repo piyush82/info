@@ -1,0 +1,40 @@
+<<1261037652 ^ 222.124.22.26:53789 register1.php succ>>
+<<1261037899 ^ 222.124.22.26:60853 % 05051987 adminlogout.php lout>>
+<<1261038714 ^ 222.124.22.26:50027 getuname1.php succ email wijarnarko_siplah@yahoo.com>>
+<<1261038737 ^ 222.124.22.26:52292 % 05051987 adminlogout.php lout>>
+<<1261038992 ^ 222.124.22.26:50338 selectpass.php succ count 5>>
+<<1261039071 ^ 222.124.22.26:64989 selectpass.php succ count 5>>
+<<1261039145 ^ 222.124.22.26:54885 training.php disp 2>>
+<<1261040305 ^ 222.124.22.26:51027 training.php disp 3>>
+<<1261040348 ^ 222.124.22.26:52731 training.php disp 1>>
+<<1261040389 ^ 222.124.22.26:60311 training.php fail missed 3 extra 0>>
+<<1261040432 ^ 222.124.22.26:64145 training.php disp 2>>
+<<1261040502 ^ 222.124.22.26:56450 training.php disp 1>>
+<<1261040565 ^ 222.124.22.26:50563 training.php disp 3>>
+<<1261040625 ^ 222.124.22.26:60384 training.php disp 3>>
+<<1261040647 ^ 222.124.22.26:65224 training.php disp 1>>
+<<1261040750 ^ 222.124.22.26:63630 training.php disp 2>>
+<<1261040775 ^ 222.124.22.26:60687 training.php succ>>
+<<1261040806 ^ 222.124.22.26:53352 % 05051987 adminlogout.php lout>>
+<<1261040893 ^ 222.124.22.26:59262 pub-authenticate.php disp 1>>
+<<1261041135 ^ 222.124.22.26:58704 pub-authenticate.php disp 2>>
+<<1261041192 ^ 222.124.22.26:51126 pub-authenticate.php disp 3>>
+<<1261041241 ^ 222.124.22.26:51876 pub-authenticate.php fail missed 5 extra 5>>
+<<1261041263 ^ 222.124.22.26:58947 % 05051987 adminlogout.php lout>>
+<<1261041317 ^ 222.124.22.26:59477 authenticate.php disp 3>>
+<<1261041429 ^ 222.124.22.26:64770 authenticate.php disp 2>>
+<<1261041459 ^ 222.124.22.26:54473 authenticate.php disp 3>>
+<<1261041540 ^ 222.124.22.26:61498 authenticate.php disp 1>>
+<<1261041581 ^ 222.124.22.26:58374 authenticate.php disp 2>>
+<<1261041665 ^ 222.124.22.26:51301 authenticate.php fail missed 2 extra 0>>
+<<1261041677 ^ 222.124.22.26:62977 % 05051987 adminlogout.php lout>>
+<<1261041772 ^ 222.124.22.26:57613 authenticate.php disp 1>>
+<<1261041830 ^ 222.124.22.26:59983 authenticate.php disp 3>>
+<<1261041864 ^ 222.124.22.26:55422 authenticate.php disp 2>>
+<<1261041909 ^ 222.124.22.26:50424 authenticate.php fail missed 3 extra 0>>
+<<1261041926 ^ 222.124.22.26:61099 % 05051987 adminlogout.php lout>>
+<<1261042080 ^ 222.124.22.26:55104 pub-authenticate.php disp 1>>
+<<1261042143 ^ 222.124.22.26:57531 pub-authenticate.php disp 2>>
+<<1261042191 ^ 222.124.22.26:50928 pub-authenticate.php disp 3>>
+<<1261042245 ^ 222.124.22.26:61791 pub-authenticate.php fail missed 5 extra 13>>
+<<1261042257 ^ 222.124.22.26:60164 % 05051987 adminlogout.php lout>>

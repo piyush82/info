@@ -1,0 +1,292 @@
+<<1156817594 ^ 10.30.176.127:2273 register1.php succ>>
+<<1156817933 ^ 10.30.176.127:2590 % markenzie adminlogout.php lout>>
+<<1156818092 ^ 10.30.176.127:2638 selectpass.php succ count 5>>
+<<1156818154 ^ 10.30.176.127:2643 training.php disp 3>>
+<<1156818193 ^ 10.30.176.127:2697 training.php disp 2>>
+<<1156818216 ^ 10.30.176.127:2709 training.php disp 1>>
+<<1156818255 ^ 10.30.176.127:2726 training.php succ>>
+<<1156818293 ^ 10.30.176.127:2728 % markenzie adminlogout.php lout>>
+<<1156992960 ^ 10.30.180.151:1460 training.php disp 1>>
+<<1156993021 ^ 10.30.180.151:1623 training.php disp 3>>
+<<1156993047 ^ 10.30.180.151:1729 training.php disp 2>>
+<<1156993057 ^ 10.30.180.151:1811 training.php fail missed 1 extra 0>>
+<<1157041709 ^ 68.101.64.224:1934 training.php disp 2>>
+<<1157041738 ^ 68.101.64.224:2096 training.php disp 1>>
+<<1157041769 ^ 68.101.64.224:2185 training.php disp 3>>
+<<1157041774 ^ 68.101.64.224:2225 training.php fail missed 1 extra 1>>
+<<1157499160 ^ 10.30.176.127:2436 training.php disp 1>>
+<<1157499221 ^ 10.30.176.127:2510 training.php disp 2>>
+<<1157499234 ^ 10.30.176.127:2550 training.php disp 3>>
+<<1157499251 ^ 10.30.176.127:2588 training.php fail missed 2 extra 0>>
+<<1157499306 ^ 10.30.176.127:2590 training.php disp 1>>
+<<1157499353 ^ 10.30.176.127:2629 training.php disp 2>>
+<<1157499362 ^ 10.30.176.127:2647 training.php disp 3>>
+<<1157499380 ^ 10.30.176.127:2696 training.php fail missed 1 extra 0>>
+<<1157499398 ^ 10.30.176.127:2698 training.php disp 3>>
+<<1157499433 ^ 10.30.176.127:2769 training.php disp 2>>
+<<1157499458 ^ 10.30.176.127:2823 training.php disp 1>>
+<<1157499480 ^ 10.30.176.127:2854 training.php succ>>
+<<1157499516 ^ 10.30.176.127:2856 % markenzie adminlogout.php lout>>
+<<1157857035 ^ 68.101.64.224:4972 training.php disp 1>>
+<<1157857167 ^ 68.101.64.224:1224 training.php disp 2>>
+<<1157857205 ^ 68.101.64.224:1356 training.php disp 3>>
+<<1157857268 ^ 68.101.64.224:1525 training.php fail missed 1 extra 0>>
+<<1158180138 ^ 68.101.64.224:2544 training.php disp 1>>
+<<1158180271 ^ 68.101.64.224:2711 training.php disp 2>>
+<<1158180284 ^ 68.101.64.224:2764 training.php disp 3>>
+<<1158180324 ^ 68.101.64.224:2852 training.php fail missed 1 extra 0>>
+<<1158180353 ^ 68.101.64.224:2856 % markenzie adminlogout.php lout>>
+<<1158180403 ^ 68.101.64.224:2866 training.php disp 2>>
+<<1158180463 ^ 68.101.64.224:3049 training.php disp 1>>
+<<1158180523 ^ 68.101.64.224:3125 training.php disp 3>>
+<<1158180530 ^ 68.101.64.224:3127 training.php succ>>
+<<1158180551 ^ 68.101.64.224:3131 % markenzie adminlogout.php lout>>
+<<1158180566 ^ 68.101.64.224:3138 login.php atst status 2>>
+<<1158180566 ^ 68.101.64.224:3139 authenticate.php disp 2>>
+<<1158180594 ^ 68.101.64.224:3223 authenticate.php disp 1>>
+<<1158180614 ^ 68.101.64.224:3253 authenticate.php disp 3>>
+<<1158180617 ^ 68.101.64.224:3257 authenticate.php succ>>
+<<1158622961 ^ 10.30.180.151:2433 login.php atst status 2>>
+<<1158622961 ^ 10.30.180.151:2436 authenticate.php disp 3>>
+<<1158623028 ^ 10.30.180.151:2591 authenticate.php disp 1>>
+<<1158623062 ^ 10.30.180.151:2686 authenticate.php disp 2>>
+<<1158623064 ^ 10.30.180.151:2724 authenticate.php fail missed 1 extra 1>>
+<<1158623075 ^ 10.30.180.151:2726 % markenzie adminlogout.php lout>>
+<<1158623092 ^ 10.30.180.151:2736 login.php atst status 2>>
+<<1158623092 ^ 10.30.180.151:2737 authenticate.php disp 1>>
+<<1158623141 ^ 10.30.180.151:2792 authenticate.php disp 2>>
+<<1158623162 ^ 10.30.180.151:2869 authenticate.php disp 3>>
+<<1158623185 ^ 10.30.180.151:2876 authenticate.php fail missed 1 extra 1>>
+<<1158623195 ^ 10.30.180.151:2878 % markenzie adminlogout.php lout>>
+<<1158623440 ^ 10.30.180.151:2917 login.php atst status 2>>
+<<1158623441 ^ 10.30.180.151:2918 authenticate.php disp 1>>
+<<1158623484 ^ 10.30.180.151:2949 authenticate.php disp 3>>
+<<1158623523 ^ 10.30.180.151:2970 authenticate.php disp 2>>
+<<1158623531 ^ 10.30.180.151:2996 authenticate.php fail missed 1 extra 0>>
+<<1158623542 ^ 10.30.180.151:3001 % markenzie adminlogout.php lout>>
+<<1158623552 ^ 10.30.180.151:3008 login.php atst status 2>>
+<<1158623553 ^ 10.30.180.151:3009 authenticate.php disp 2>>
+<<1158623590 ^ 10.30.180.151:3040 authenticate.php disp 3>>
+<<1158623611 ^ 10.30.180.151:3059 authenticate.php disp 1>>
+<<1158623653 ^ 10.30.180.151:3072 authenticate.php fail missed 1 extra 1>>
+<<1158623664 ^ 10.30.180.151:3077 % markenzie adminlogout.php lout>>
+<<1158623671 ^ 10.30.180.151:3084 login.php atst status 2>>
+<<1158623672 ^ 10.30.180.151:3085 authenticate.php disp 3>>
+<<1158623695 ^ 10.30.180.151:3091 authenticate.php disp 2>>
+<<1158623713 ^ 10.30.180.151:3096 authenticate.php disp 1>>
+<<1158623736 ^ 10.30.180.151:3109 authenticate.php fail missed 2 extra 2>>
+<<1158623747 ^ 10.30.180.151:3111 % markenzie adminlogout.php lout>>
+<<1158741110 ^ 68.101.64.224:1422 login.php atst status 2>>
+<<1158741112 ^ 68.101.64.224:1425 authenticate.php disp 1>>
+<<1158741268 ^ 68.101.64.224:1591 authenticate.php disp 3>>
+<<1158741326 ^ 68.101.64.224:1715 authenticate.php disp 2>>
+<<1158741348 ^ 68.101.64.224:1854 authenticate.php fail missed 2 extra 1>>
+<<1158741358 ^ 68.101.64.224:1856 % markenzie adminlogout.php lout>>
+<<1159055739 ^ 68.101.64.224:1409 login.php atst status 2>>
+<<1159055740 ^ 68.101.64.224:1412 authenticate.php disp 2>>
+<<1159055806 ^ 68.101.64.224:1579 authenticate.php disp 3>>
+<<1159055851 ^ 68.101.64.224:1751 authenticate.php disp 1>>
+<<1159055916 ^ 68.101.64.224:1882 authenticate.php succ>>
+<<1159056331 ^ 68.101.64.224:1933 % markenzie adminlogout.php lout>>
+<<1159454690 ^ 68.101.64.224:2949 login.php atst status 2>>
+<<1159454691 ^ 68.101.64.224:2952 authenticate.php disp 2>>
+<<1159454751 ^ 68.101.64.224:3133 authenticate.php disp 1>>
+<<1159454791 ^ 68.101.64.224:3263 authenticate.php disp 3>>
+<<1159454853 ^ 68.101.64.224:3471 authenticate.php fail missed 3 extra 2>>
+<<1159454864 ^ 68.101.64.224:3473 % markenzie adminlogout.php lout>>
+<<1159666602 ^ 68.101.64.224:4873 login.php atst status 2>>
+<<1159666603 ^ 68.101.64.224:4876 authenticate.php disp 1>>
+<<1159666735 ^ 68.101.64.224:1081 authenticate.php disp 2>>
+<<1159666741 ^ 68.101.64.224:1121 authenticate.php disp 3>>
+<<1159666747 ^ 68.101.64.224:1160 authenticate.php succ>>
+<<1159672736 ^ 68.101.64.224:1568 % markenzie adminlogout.php lout>>
+<<1159839190 ^ 10.30.180.151:3218 login.php atst status 2>>
+<<1159839191 ^ 10.30.180.151:3221 authenticate.php disp 2>>
+<<1159839231 ^ 10.30.180.151:3378 authenticate.php disp 1>>
+<<1159839277 ^ 10.30.180.151:3531 authenticate.php disp 3>>
+<<1159839281 ^ 10.30.180.151:3569 authenticate.php succ>>
+<<1159839397 ^ 10.30.180.151:3585 % markenzie adminlogout.php lout>>
+<<1159994559 ^ 68.101.64.224:1303 login.php atst status 2>>
+<<1159994560 ^ 68.101.64.224:1306 authenticate.php disp 2>>
+<<1159994607 ^ 68.101.64.224:1490 authenticate.php disp 3>>
+<<1159994624 ^ 68.101.64.224:1601 authenticate.php disp 1>>
+<<1159994642 ^ 68.101.64.224:1677 authenticate.php succ>>
+<<1160094853 ^ 10.30.180.151:3639 login.php atst status 2>>
+<<1160094854 ^ 10.30.180.151:3642 authenticate.php disp 1>>
+<<1160094883 ^ 10.30.180.151:3771 authenticate.php disp 3>>
+<<1160094884 ^ 10.30.180.151:3793 authenticate.php disp 2>>
+<<1160094886 ^ 10.30.180.151:3802 authenticate.php succ>>
+<<1160095090 ^ 10.30.180.151:3865 % markenzie adminlogout.php lout>>
+<<1160190160 ^ 68.101.64.224:2245 login.php atst status 2>>
+<<1160190165 ^ 68.101.64.224:2252 authenticate.php disp 3>>
+<<1160190200 ^ 68.101.64.224:2357 authenticate.php disp 1>>
+<<1160190235 ^ 68.101.64.224:2494 authenticate.php disp 2>>
+<<1160190237 ^ 68.101.64.224:2532 authenticate.php succ>>
+<<1160190323 ^ 68.101.64.224:2551 % markenzie adminlogout.php lout>>
+<<1160440120 ^ 10.30.180.151:4404 login.php atst status 2>>
+<<1160440120 ^ 10.30.180.151:4407 authenticate.php disp 3>>
+<<1160440142 ^ 10.30.180.151:4543 authenticate.php disp 2>>
+<<1160440157 ^ 10.30.180.151:4656 authenticate.php disp 1>>
+<<1160440187 ^ 10.30.180.151:4754 authenticate.php succ>>
+<<1160440499 ^ 10.30.180.151:4817 % markenzie adminlogout.php lout>>
+<<1160523767 ^ 10.30.176.127:3991 login.php atst status 2>>
+<<1160523768 ^ 10.30.176.127:3994 authenticate.php disp 2>>
+<<1160523791 ^ 10.30.176.127:4130 authenticate.php disp 1>>
+<<1160523839 ^ 10.30.176.127:4225 authenticate.php disp 3>>
+<<1160523855 ^ 10.30.176.127:4268 authenticate.php succ>>
+<<1160524562 ^ 10.30.176.127:4280 % markenzie adminlogout.php lout>>
+<<1160703212 ^ 10.30.186.161:3378 login.php atst status 2>>
+<<1160703213 ^ 10.30.186.161:3381 authenticate.php disp 3>>
+<<1160703252 ^ 10.30.186.161:3514 authenticate.php disp 1>>
+<<1160703289 ^ 10.30.186.161:3626 authenticate.php disp 2>>
+<<1160703303 ^ 10.30.186.161:3681 authenticate.php fail missed 1 extra 1>>
+<<1160703314 ^ 10.30.186.161:3683 % markenzie adminlogout.php lout>>
+<<1160703327 ^ 10.30.186.161:3690 login.php atst status 2>>
+<<1160703328 ^ 10.30.186.161:3691 authenticate.php disp 2>>
+<<1160703354 ^ 10.30.186.161:3826 authenticate.php disp 1>>
+<<1160703404 ^ 10.30.186.161:3844 authenticate.php disp 3>>
+<<1160703417 ^ 10.30.186.161:3850 authenticate.php fail missed 1 extra 0>>
+<<1160703428 ^ 10.30.186.161:3852 % markenzie adminlogout.php lout>>
+<<1160703437 ^ 10.30.186.161:3859 login.php atst status 2>>
+<<1160703437 ^ 10.30.186.161:3860 authenticate.php disp 1>>
+<<1160703496 ^ 10.30.186.161:3869 authenticate.php disp 3>>
+<<1160703519 ^ 10.30.186.161:3877 authenticate.php disp 2>>
+<<1160703550 ^ 10.30.186.161:3896 authenticate.php disp 1>>
+<<1160703596 ^ 10.30.186.161:3898 authenticate.php disp 3>>
+<<1160703603 ^ 10.30.186.161:3900 authenticate.php disp 2>>
+<<1160703608 ^ 10.30.186.161:3902 authenticate.php succ>>
+<<1160703665 ^ 10.30.186.161:3906 % markenzie adminlogout.php lout>>
+<<1160910662 ^ 68.101.64.224:4812 login.php atst status 2>>
+<<1160910663 ^ 68.101.64.224:4816 authenticate.php disp 1>>
+<<1160910698 ^ 68.101.64.224:4944 authenticate.php disp 2>>
+<<1160910701 ^ 68.101.64.224:4982 authenticate.php disp 3>>
+<<1160910703 ^ 68.101.64.224:1048 authenticate.php succ>>
+<<1160910750 ^ 68.101.64.224:1060 % markenzie adminlogout.php lout>>
+<<1161050722 ^ 10.30.180.151:1988 login.php atst status 2>>
+<<1161050723 ^ 10.30.180.151:1991 authenticate.php disp 1>>
+<<1161050736 ^ 10.30.180.151:2081 authenticate.php disp 3>>
+<<1161050737 ^ 10.30.180.151:2118 authenticate.php disp 2>>
+<<1161050738 ^ 10.30.180.151:2148 authenticate.php succ>>
+<<1161050853 ^ 10.30.180.151:2165 authenticate.php disp 1>>
+<<1161270753 ^ 10.30.177.239:1107 login.php atst status 2>>
+<<1161270754 ^ 10.30.177.239:1110 authenticate.php disp 3>>
+<<1161270769 ^ 10.30.177.239:1216 authenticate.php disp 2>>
+<<1161270794 ^ 10.30.177.239:1326 authenticate.php disp 1>>
+<<1161270829 ^ 10.30.177.239:1452 authenticate.php fail missed 1 extra 0>>
+<<1161270834 ^ 10.30.177.239:1454 authenticate.php disp 3>>
+<<1161270838 ^ 10.30.177.239:1464 authenticate.php disp 3>>
+<<1161270839 ^ 10.30.177.239:1466 authenticate.php disp 3>>
+<<1161270846 ^ 10.30.177.239:1468 authenticate.php disp 3>>
+<<1161270857 ^ 10.30.177.239:1471 authenticate.php disp 2>>
+<<1161270865 ^ 10.30.177.239:1477 authenticate.php disp 1>>
+<<1161270896 ^ 10.30.177.239:1504 authenticate.php succ>>
+<<1161270916 ^ 10.30.177.239:1508 % markenzie adminlogout.php lout>>
+<<1161388309 ^ 10.30.186.98:1831 login.php atst status 2>>
+<<1161388309 ^ 10.30.186.98:1834 authenticate.php disp 2>>
+<<1161388327 ^ 10.30.186.98:1915 authenticate.php disp 1>>
+<<1161388363 ^ 10.30.186.98:1977 authenticate.php disp 3>>
+<<1161388369 ^ 10.30.186.98:2015 authenticate.php succ>>
+<<1161388383 ^ 10.30.186.98:2019 % markenzie adminlogout.php lout>>
+<<1161700461 ^ 10.2.62.63:4403 login.php atst status 2>>
+<<1161700461 ^ 10.2.62.63:4406 authenticate.php disp 2>>
+<<1161700483 ^ 10.2.62.63:4536 authenticate.php disp 1>>
+<<1161700549 ^ 10.2.62.63:4636 authenticate.php disp 3>>
+<<1161700551 ^ 10.2.62.63:4674 authenticate.php succ>>
+<<1161799554 ^ 68.222.216.79:54836 login.php atst status 2>>
+<<1161799555 ^ 68.222.216.79:54839 authenticate.php disp 2>>
+<<1161799569 ^ 68.222.216.79:54948 authenticate.php disp 3>>
+<<1161799587 ^ 68.222.216.79:55050 authenticate.php disp 1>>
+<<1161799616 ^ 68.222.216.79:55210 authenticate.php succ>>
+<<1161802759 ^ 68.222.216.79:58455 % markenzie adminlogout.php lout>>
+<<1162157249 ^ 10.30.176.127:1901 login.php atst status 2>>
+<<1162157250 ^ 10.30.176.127:1905 authenticate.php disp 1>>
+<<1162157307 ^ 10.30.176.127:1988 authenticate.php disp 3>>
+<<1162157313 ^ 10.30.176.127:2026 authenticate.php disp 2>>
+<<1162157317 ^ 10.30.176.127:2064 authenticate.php succ>>
+<<1162157375 ^ 10.30.176.127:2068 % markenzie adminlogout.php lout>>
+<<1162244637 ^ 68.222.216.79:55946 login.php atst status 2>>
+<<1162244638 ^ 68.222.216.79:55950 authenticate.php disp 2>>
+<<1162244669 ^ 68.222.216.79:56073 authenticate.php disp 1>>
+<<1162244742 ^ 68.222.216.79:56256 authenticate.php disp 3>>
+<<1162244751 ^ 68.222.216.79:56329 authenticate.php fail missed 3 extra 3>>
+<<1162244762 ^ 68.222.216.79:56352 % markenzie adminlogout.php lout>>
+<<1162256507 ^ 10.30.186.215:4843 login.php atst status 2>>
+<<1162256508 ^ 10.30.186.215:4847 authenticate.php disp 3>>
+<<1162256545 ^ 10.30.186.215:5000 authenticate.php disp 2>>
+<<1162256569 ^ 10.30.186.215:1161 authenticate.php disp 1>>
+<<1162256587 ^ 10.30.186.215:1259 authenticate.php succ>>
+<<1162256680 ^ 10.30.186.215:1274 % markenzie adminlogout.php lout>>
+<<1162346849 ^ 10.30.186.215:4140 login.php atst status 2>>
+<<1162346850 ^ 10.30.186.215:4142 authenticate.php disp 1>>
+<<1162346873 ^ 10.30.186.215:4269 authenticate.php disp 3>>
+<<1162346876 ^ 10.30.186.215:4298 authenticate.php disp 2>>
+<<1162346879 ^ 10.30.186.215:4325 authenticate.php succ>>
+<<1162346923 ^ 10.30.186.215:4347 % markenzie adminlogout.php lout>>
+<<1162603409 ^ 10.30.186.98:1268 login.php atst status 2>>
+<<1162603409 ^ 10.30.186.98:1272 authenticate.php disp 2>>
+<<1162603432 ^ 10.30.186.98:1353 authenticate.php disp 1>>
+<<1162603458 ^ 10.30.186.98:1427 authenticate.php disp 3>>
+<<1162603465 ^ 10.30.186.98:1465 authenticate.php succ>>
+<<1162603489 ^ 10.30.186.98:1469 % markenzie adminlogout.php lout>>
+<<1162832941 ^ 10.30.186.215:1285 login.php atst status 2>>
+<<1162832942 ^ 10.30.186.215:1288 authenticate.php disp 1>>
+<<1162832959 ^ 10.30.186.215:1371 authenticate.php disp 2>>
+<<1162832961 ^ 10.30.186.215:1409 authenticate.php disp 3>>
+<<1162832963 ^ 10.30.186.215:1449 authenticate.php succ>>
+<<1162832984 ^ 10.30.186.215:1455 % markenzie adminlogout.php lout>>
+<<1163031982 ^ 10.30.186.215:4958 login.php atst status 2>>
+<<1163031983 ^ 10.30.186.215:4961 authenticate.php disp 3>>
+<<1163032003 ^ 10.30.186.215:1111 authenticate.php disp 1>>
+<<1163032033 ^ 10.30.186.215:1169 authenticate.php disp 2>>
+<<1163032040 ^ 10.30.186.215:1191 authenticate.php succ>>
+<<1163693032 ^ 72.209.68.199:2498 login.php atst status 2>>
+<<1163693033 ^ 72.209.68.199:2501 authenticate.php disp 3>>
+<<1163693064 ^ 72.209.68.199:2631 authenticate.php disp 2>>
+<<1163693077 ^ 72.209.68.199:2747 authenticate.php disp 1>>
+<<1163693097 ^ 72.209.68.199:2875 authenticate.php succ>>
+<<1163927739 ^ 72.209.68.199:4980 login.php atst status 2>>
+<<1163927740 ^ 72.209.68.199:4984 authenticate.php disp 1>>
+<<1163927772 ^ 72.209.68.199:1112 authenticate.php disp 2>>
+<<1163927774 ^ 72.209.68.199:1132 authenticate.php disp 3>>
+<<1163927776 ^ 72.209.68.199:1148 authenticate.php succ>>
+<<1164156058 ^ 10.30.186.215:3547 login.php atst status 2>>
+<<1164156058 ^ 10.30.186.215:3549 authenticate.php disp 3>>
+<<1164156082 ^ 10.30.186.215:3639 authenticate.php disp 1>>
+<<1164156099 ^ 10.30.186.215:3694 authenticate.php disp 2>>
+<<1164156101 ^ 10.30.186.215:3696 authenticate.php succ>>
+<<1164775251 ^ 10.30.186.215:1806 login.php atst status 2>>
+<<1164775251 ^ 10.30.186.215:1809 authenticate.php disp 3>>
+<<1164775285 ^ 10.30.186.215:1913 authenticate.php disp 2>>
+<<1164775293 ^ 10.30.186.215:1959 authenticate.php disp 1>>
+<<1164775308 ^ 10.30.186.215:2042 authenticate.php succ>>
+<<1164775637 ^ 10.30.186.215:2064 % markenzie adminlogout.php lout>>
+<<1164775712 ^ 10.30.186.215:2084 login.php atst status 2>>
+<<1164775712 ^ 10.30.186.215:2085 authenticate.php disp 1>>
+<<1164775729 ^ 10.30.186.215:2101 authenticate.php disp 3>>
+<<1164775731 ^ 10.30.186.215:2104 authenticate.php disp 2>>
+<<1164775733 ^ 10.30.186.215:2104 authenticate.php succ>>
+<<1164847483 ^ 10.30.186.215:1631 login.php atst status 2>>
+<<1164847484 ^ 10.30.186.215:1633 authenticate.php disp 2>>
+<<1164847496 ^ 10.30.186.215:1692 authenticate.php disp 1>>
+<<1164847512 ^ 10.30.186.215:1775 authenticate.php disp 3>>
+<<1164847514 ^ 10.30.186.215:1777 authenticate.php succ>>
+<<1164847551 ^ 10.30.186.215:1789 % markenzie adminlogout.php lout>>
+<<1165279581 ^ 10.30.188.78:1172 login.php atst status 2>>
+<<1165279582 ^ 10.30.188.78:1175 authenticate.php disp 1>>
+<<1165279602 ^ 10.30.188.78:1271 authenticate.php disp 3>>
+<<1165279604 ^ 10.30.188.78:1309 authenticate.php disp 2>>
+<<1165279605 ^ 10.30.188.78:1344 authenticate.php succ>>
+<<1165279715 ^ 10.30.188.78:1353 % markenzie adminlogout.php lout>>
+<<1165511657 ^ 10.30.186.215:2593 login.php atst status 2>>
+<<1165511658 ^ 10.30.186.215:2596 authenticate.php disp 3>>
+<<1165511675 ^ 10.30.186.215:2698 authenticate.php disp 2>>
+<<1165511684 ^ 10.30.186.215:2760 authenticate.php disp 1>>
+<<1165511716 ^ 10.30.186.215:2802 authenticate.php disp 3>>
+<<1165511736 ^ 10.30.186.215:2832 authenticate.php disp 2>>
+<<1165511742 ^ 10.30.186.215:2834 authenticate.php disp 1>>
+<<1165511766 ^ 10.30.186.215:2888 authenticate.php succ>>
+<<1165584258 ^ 10.30.186.215:4249 login.php atst status 2>>
+<<1165584259 ^ 10.30.186.215:4253 authenticate.php disp 3>>
+<<1165584276 ^ 10.30.186.215:4282 authenticate.php disp 1>>
+<<1165584301 ^ 10.30.186.215:4385 authenticate.php disp 2>>
+<<1165584302 ^ 10.30.186.215:4387 authenticate.php succ>>

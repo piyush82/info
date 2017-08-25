@@ -1,0 +1,262 @@
+<<1158056634 ^ 210.212.45.144:42237 register1.php succ>>
+<<1158058687 ^ 210.212.45.144:38459 selectpass.php succ count 7>>
+<<1158120760 ^ 210.212.45.144:47421 training.php disp 2>>
+<<1158120895 ^ 210.212.45.144:49799 training.php disp 1>>
+<<1158120987 ^ 210.212.45.144:51404 training.php disp 3>>
+<<1158121079 ^ 210.212.45.144:53302 training.php fail missed 1 extra 1>>
+<<1158121126 ^ 210.212.45.144:54188 training.php disp 2>>
+<<1158121198 ^ 210.212.45.144:55729 training.php disp 1>>
+<<1158121290 ^ 210.212.45.144:57945 training.php disp 3>>
+<<1158121363 ^ 210.212.45.144:59642 training.php succ>>
+<<1158121408 ^ 210.212.45.144:60295 training.php disp 3>>
+<<1158121462 ^ 210.212.45.144:33135 training.php disp 2>>
+<<1158121522 ^ 210.212.45.144:34405 training.php disp 1>>
+<<1158121564 ^ 210.212.45.144:35280 training.php fail missed 0 extra 1>>
+<<1158121585 ^ 210.212.45.144:35577 training.php disp 3>>
+<<1158121631 ^ 210.212.45.144:36655 training.php disp 1>>
+<<1158121672 ^ 210.212.45.144:37517 training.php disp 2>>
+<<1158121712 ^ 210.212.45.144:38266 training.php succ>>
+<<1158122143 ^ 210.212.45.144:44904 training.php disp 3>>
+<<1158122227 ^ 210.212.45.144:46928 training.php disp 2>>
+<<1158122267 ^ 210.212.45.144:47926 training.php disp 1>>
+<<1158122331 ^ 210.212.45.144:49327 training.php succ>>
+<<1158122364 ^ 210.212.45.144:50044 % chandra7 adminlogout.php lout>>
+<<1158122413 ^ 210.212.45.144:51088 training.php disp 2>>
+<<1158122528 ^ 210.212.45.144:53659 training.php disp 3>>
+<<1158122585 ^ 210.212.45.144:55047 training.php disp 1>>
+<<1158122625 ^ 210.212.45.144:56144 training.php succ>>
+<<1158122641 ^ 210.212.45.144:56380 % chandra7 adminlogout.php lout>>
+<<1158122668 ^ 210.212.45.144:57008 login.php atst status 2>>
+<<1158122672 ^ 210.212.45.144:57031 authenticate.php disp 2>>
+<<1158122717 ^ 210.212.45.144:58157 authenticate.php disp 1>>
+<<1158122769 ^ 210.212.45.144:59412 authenticate.php disp 3>>
+<<1158122802 ^ 210.212.45.144:59952 authenticate.php succ>>
+<<1158122860 ^ 210.212.45.144:60682 % chandra7 adminlogout.php lout>>
+<<1159352406 ^ 24.136.32.195:1363 getuname1.php succ email chandra7@ufl.edu>>
+<<1159352410 ^ 24.136.32.195:1364 % chandra7 adminlogout.php lout>>
+<<1159448070 ^ 24.136.32.195:1579 login.php atst status 2>>
+<<1159448071 ^ 24.136.32.195:1581 authenticate.php disp 1>>
+<<1159875643 ^ 68.105.164.213:2858 login.php atst status 2>>
+<<1159875644 ^ 68.105.164.213:2859 authenticate.php disp 3>>
+<<1159935089 ^ 210.212.45.144:40365 login.php atst status 2>>
+<<1159935096 ^ 210.212.45.144:40480 authenticate.php disp 3>>
+<<1159935758 ^ 210.212.45.144:55643 login.php atst status 2>>
+<<1159935761 ^ 210.212.45.144:55674 authenticate.php disp 2>>
+<<1159935768 ^ 210.212.45.144:55823 authenticate.php disp 2>>
+<<1159935784 ^ 210.212.45.144:56069 authenticate.php disp 2>>
+<<1159936296 ^ 210.212.45.144:40948 login.php atst status 2>>
+<<1159936301 ^ 210.212.45.144:41035 authenticate.php disp 3>>
+<<1159936597 ^ 210.212.45.144:49139 authenticate.php disp 2>>
+<<1159937220 ^ 210.212.45.144:36458 login.php atst status 2>>
+<<1159937229 ^ 210.212.45.144:36607 authenticate.php disp 2>>
+<<1159937931 ^ 210.212.45.144:54348 authenticate.php disp 1>>
+<<1159938361 ^ 210.212.45.144:35689 authenticate.php disp 3>>
+<<1159939737 ^ 210.212.45.144:39266 authenticate.php fail missed 2 extra 0>>
+<<1159939760 ^ 210.212.45.144:39992 % chandra7 adminlogout.php lout>>
+<<1159940233 ^ 210.212.45.144:51307 login.php atst status 2>>
+<<1159940238 ^ 210.212.45.144:51632 authenticate.php disp 1>>
+<<1159941209 ^ 210.212.45.144:51654 authenticate.php disp 2>>
+<<1159941261 ^ 210.212.45.144:53284 authenticate.php disp 3>>
+<<1159941378 ^ 210.212.45.144:56091 authenticate.php succ>>
+<<1159941926 ^ 210.212.45.144:36802 % chandra7 adminlogout.php lout>>
+<<1160017369 ^ 210.212.45.144:45385 login.php atst status 2>>
+<<1160017371 ^ 210.212.45.144:45413 authenticate.php disp 1>>
+<<1160017433 ^ 210.212.45.144:46500 authenticate.php disp 2>>
+<<1160017474 ^ 210.212.45.144:47106 authenticate.php disp 3>>
+<<1160017528 ^ 210.212.45.144:47987 authenticate.php disp 1>>
+<<1160017625 ^ 210.212.45.144:50004 authenticate.php disp 2>>
+<<1160017677 ^ 210.212.45.144:50957 authenticate.php disp 3>>
+<<1160017726 ^ 210.212.45.144:51906 authenticate.php fail missed 1 extra 0>>
+<<1160017738 ^ 210.212.45.144:52142 % chandra7 adminlogout.php lout>>
+<<1160017754 ^ 210.212.45.144:52405 login.php atst status 2>>
+<<1160017757 ^ 210.212.45.144:52429 authenticate.php disp 1>>
+<<1160017798 ^ 210.212.45.144:53360 authenticate.php disp 2>>
+<<1160017834 ^ 210.212.45.144:54150 authenticate.php disp 3>>
+<<1160017866 ^ 210.212.45.144:54913 authenticate.php succ>>
+<<1160020118 ^ 210.212.45.144:33900 % chandra7 adminlogout.php lout>>
+<<1160792071 ^ 210.212.45.144:50299 login.php atst status 2>>
+<<1160792076 ^ 210.212.45.144:50501 authenticate.php disp 2>>
+<<1160792171 ^ 210.212.45.144:55664 authenticate.php disp 3>>
+<<1160792245 ^ 210.212.45.144:59548 authenticate.php disp 1>>
+<<1160792316 ^ 210.212.45.144:34007 authenticate.php succ>>
+<<1160792418 ^ 210.212.45.144:37255 % chandra7 adminlogout.php lout>>
+<<1161063892 ^ 210.212.45.144:49909 login.php atst status 2>>
+<<1161063895 ^ 210.212.45.144:49936 authenticate.php disp 3>>
+<<1161063954 ^ 210.212.45.144:50990 authenticate.php disp 1>>
+<<1161064005 ^ 210.212.45.144:51755 authenticate.php disp 2>>
+<<1161064089 ^ 210.212.45.144:52624 authenticate.php fail missed 1 extra 0>>
+<<1161064104 ^ 210.212.45.144:52754 % chandra7 adminlogout.php lout>>
+<<1161064123 ^ 210.212.45.144:52960 login.php atst status 2>>
+<<1161064126 ^ 210.212.45.144:52969 authenticate.php disp 3>>
+<<1161144856 ^ 210.212.45.144:36134 login.php atst status 2>>
+<<1161144858 ^ 210.212.45.144:36144 authenticate.php disp 3>>
+<<1161144914 ^ 210.212.45.144:36810 authenticate.php disp 1>>
+<<1161144960 ^ 210.212.45.144:37372 authenticate.php disp 2>>
+<<1161145013 ^ 210.212.45.144:37941 authenticate.php succ>>
+<<1161145347 ^ 210.212.45.144:39266 % chandra7 adminlogout.php lout>>
+<<1161264820 ^ 210.212.45.144:56117 login.php atst status 2>>
+<<1161264823 ^ 210.212.45.144:56119 authenticate.php disp 3>>
+<<1161265349 ^ 210.212.45.144:56870 authenticate.php disp 1>>
+<<1161265422 ^ 210.212.45.144:57228 authenticate.php disp 2>>
+<<1161265466 ^ 210.212.45.144:57588 authenticate.php succ>>
+<<1161265530 ^ 210.212.45.144:57685 % chandra7 adminlogout.php lout>>
+<<1161496628 ^ 210.212.45.144:54881 login.php atst status 2>>
+<<1161496630 ^ 210.212.45.144:54889 authenticate.php disp 2>>
+<<1161496678 ^ 210.212.45.144:55312 authenticate.php disp 3>>
+<<1161496728 ^ 210.212.45.144:55794 authenticate.php disp 1>>
+<<1161496773 ^ 210.212.45.144:56112 authenticate.php fail missed 0 extra 1>>
+<<1161496787 ^ 210.212.45.144:56136 % chandra7 adminlogout.php lout>>
+<<1161496800 ^ 210.212.45.144:56195 login.php atst status 2>>
+<<1161496803 ^ 210.212.45.144:56199 authenticate.php disp 1>>
+<<1161496851 ^ 210.212.45.144:56666 authenticate.php disp 2>>
+<<1161496881 ^ 210.212.45.144:56908 authenticate.php disp 3>>
+<<1161496920 ^ 210.212.45.144:57214 authenticate.php succ>>
+<<1161496968 ^ 210.212.45.144:57343 % chandra7 adminlogout.php lout>>
+<<1161752554 ^ 210.212.45.144:49589 login.php atst status 2>>
+<<1161752558 ^ 210.212.45.144:49657 authenticate.php disp 2>>
+<<1161752652 ^ 210.212.45.144:51618 authenticate.php disp 1>>
+<<1161752708 ^ 210.212.45.144:53031 authenticate.php disp 3>>
+<<1161752766 ^ 210.212.45.144:54558 authenticate.php succ>>
+<<1162289518 ^ 210.212.45.144:56998 login.php atst status 2>>
+<<1162289520 ^ 210.212.45.144:57066 authenticate.php disp 1>>
+<<1162289575 ^ 210.212.45.144:58914 authenticate.php disp 3>>
+<<1162289614 ^ 210.212.45.144:60428 authenticate.php disp 2>>
+<<1162289640 ^ 210.212.45.144:32955 authenticate.php succ>>
+<<1162442405 ^ 210.212.45.144:42662 login.php atst status 2>>
+<<1162442410 ^ 210.212.45.144:42956 authenticate.php disp 1>>
+<<1162442475 ^ 210.212.45.144:47677 authenticate.php disp 3>>
+<<1162442610 ^ 210.212.45.144:52965 authenticate.php disp 2>>
+<<1162442657 ^ 210.212.45.144:55294 authenticate.php fail missed 1 extra 0>>
+<<1162790141 ^ 210.212.45.144:53510 login.php atst status 2>>
+<<1162790145 ^ 210.212.45.144:53616 authenticate.php disp 1>>
+<<1162790187 ^ 210.212.45.144:54635 authenticate.php disp 3>>
+<<1162790210 ^ 210.212.45.144:55236 authenticate.php disp 2>>
+<<1162790266 ^ 210.212.45.144:56831 authenticate.php succ>>
+<<1162790365 ^ 210.212.45.144:58749 % chandra7 adminlogout.php lout>>
+<<1162793132 ^ 210.212.45.144:55983 login.php atst status 2>>
+<<1162793135 ^ 210.212.45.144:56049 authenticate.php disp 1>>
+<<1162793229 ^ 210.212.45.144:58081 authenticate.php disp 2>>
+<<1162793366 ^ 210.212.45.144:33444 authenticate.php disp 3>>
+<<1162793764 ^ 210.212.45.144:41222 authenticate.php fail missed 1 extra 0>>
+<<1162895491 ^ 203.129.208.203:33857 login.php atst status 2>>
+<<1162895497 ^ 203.129.208.203:34027 authenticate.php disp 2>>
+<<1162895924 ^ 203.129.208.203:44239 authenticate.php disp 3>>
+<<1162895977 ^ 203.129.208.203:45311 authenticate.php disp 1>>
+<<1162896129 ^ 203.129.208.203:50168 authenticate.php succ>>
+<<1162896484 ^ 203.129.208.203:35757 % chandra7 adminlogout.php lout>>
+<<1163564707 ^ 210.212.45.144:40905 login.php atst status 2>>
+<<1163564711 ^ 210.212.45.144:41019 authenticate.php disp 3>>
+<<1163565215 ^ 210.212.45.144:52843 login.php atst status 2>>
+<<1163565219 ^ 210.212.45.144:53072 authenticate.php disp 1>>
+<<1163565264 ^ 210.212.45.144:54606 authenticate.php disp 3>>
+<<1163565289 ^ 210.212.45.144:55348 authenticate.php disp 2>>
+<<1163565316 ^ 210.212.45.144:56473 authenticate.php succ>>
+<<1163565382 ^ 203.129.208.203:58481 % chandra7 adminlogout.php lout>>
+<<1163826669 ^ 210.212.45.144:45430 login.php atst status 2>>
+<<1163826672 ^ 210.212.45.144:45596 authenticate.php disp 2>>
+<<1163826711 ^ 210.212.45.144:46696 authenticate.php disp 1>>
+<<1163826744 ^ 210.212.45.144:47658 authenticate.php disp 3>>
+<<1163826760 ^ 210.212.45.144:48200 authenticate.php succ>>
+<<1163826819 ^ 210.212.45.144:50145 % chandra7 adminlogout.php lout>>
+<<1164093464 ^ 210.212.45.144:42663 login.php atst status 2>>
+<<1164093468 ^ 210.212.45.144:43106 authenticate.php disp 3>>
+<<1164093499 ^ 210.212.45.144:47178 authenticate.php disp 2>>
+<<1164093532 ^ 210.212.45.144:51533 authenticate.php disp 1>>
+<<1164093559 ^ 210.212.45.144:55243 authenticate.php succ>>
+<<1164093598 ^ 210.212.45.144:60378 % chandra7 adminlogout.php lout>>
+<<1164103964 ^ 203.129.208.203:52488 login.php atst status 2>>
+<<1164103968 ^ 203.129.208.203:52589 authenticate.php disp 2>>
+<<1164104139 ^ 210.212.45.144:57242 authenticate.php disp 3>>
+<<1164104177 ^ 210.212.45.144:58396 authenticate.php disp 1>>
+<<1164104241 ^ 210.212.45.144:36893 authenticate.php succ>>
+<<1164104276 ^ 210.212.45.144:40550 % chandra7 adminlogout.php lout>>
+<<1164168129 ^ 203.129.208.203:45643 login.php atst status 2>>
+<<1164168133 ^ 203.129.208.203:45689 authenticate.php disp 2>>
+<<1164178359 ^ 210.212.45.144:56197 login.php atst status 2>>
+<<1164178364 ^ 210.212.45.144:56294 authenticate.php disp 3>>
+<<1164178400 ^ 210.212.45.144:59743 authenticate.php disp 2>>
+<<1164178421 ^ 210.212.45.144:33467 authenticate.php disp 1>>
+<<1164178446 ^ 210.212.45.144:35899 authenticate.php succ>>
+<<1164178507 ^ 210.212.45.144:42678 % chandra7 adminlogout.php lout>>
+<<1164253661 ^ 210.212.45.144:47981 login.php atst status 2>>
+<<1164253666 ^ 210.212.45.144:48043 authenticate.php disp 3>>
+<<1164253687 ^ 210.212.45.144:48392 authenticate.php disp 2>>
+<<1164253705 ^ 210.212.45.144:48825 authenticate.php disp 1>>
+<<1164253734 ^ 210.212.45.144:49501 authenticate.php fail missed 1 extra 0>>
+<<1164253747 ^ 210.212.45.144:49817 % chandra7 adminlogout.php lout>>
+<<1164253795 ^ 210.212.45.144:50595 login.php atst status 2>>
+<<1164253798 ^ 210.212.45.144:50641 authenticate.php disp 3>>
+<<1164253826 ^ 210.212.45.144:51193 authenticate.php disp 1>>
+<<1164253858 ^ 210.212.45.144:51670 authenticate.php disp 2>>
+<<1164253872 ^ 210.212.45.144:52029 authenticate.php fail missed 1 extra 0>>
+<<1164253890 ^ 210.212.45.144:52350 login.php atst status 2>>
+<<1164253893 ^ 210.212.45.144:52398 authenticate.php disp 1>>
+<<1164253943 ^ 210.212.45.144:53761 authenticate.php disp 2>>
+<<1164253969 ^ 210.212.45.144:54560 authenticate.php disp 3>>
+<<1164253988 ^ 210.212.45.144:54976 authenticate.php succ>>
+<<1164254012 ^ 210.212.45.144:55452 % chandra7 adminlogout.php lout>>
+<<1164688810 ^ 203.129.208.203:39936 login.php atst status 2>>
+<<1164688813 ^ 203.129.208.203:40600 authenticate.php disp 2>>
+<<1164688854 ^ 203.129.208.203:47698 authenticate.php disp 1>>
+<<1164688895 ^ 203.129.208.203:55010 authenticate.php disp 3>>
+<<1164688905 ^ 203.129.208.203:56862 authenticate.php succ>>
+<<1164689271 ^ 210.212.45.144:36774 % chandra7 adminlogout.php lout>>
+<<1164774639 ^ 210.212.45.144:47613 login.php atst status 2>>
+<<1164774827 ^ 210.212.45.144:48505 authenticate.php disp 1>>
+<<1164775353 ^ 203.129.208.203:59491 authenticate.php disp 3>>
+<<1164775368 ^ 203.129.208.203:60020 authenticate.php disp 2>>
+<<1164775383 ^ 203.129.208.203:60417 authenticate.php succ>>
+<<1164775600 ^ 203.129.208.203:34970 % chandra7 adminlogout.php lout>>
+<<1164808950 ^ 210.212.45.144:37424 login.php atst status 2>>
+<<1164809004 ^ 210.212.45.144:37673 authenticate.php disp 1>>
+<<1164809239 ^ 210.212.45.144:41468 authenticate.php disp 2>>
+<<1164809415 ^ 210.212.45.144:45209 authenticate.php disp 3>>
+<<1164809687 ^ 210.212.45.144:49383 authenticate.php succ>>
+<<1164810053 ^ 210.212.45.144:57081 % chandra7 adminlogout.php lout>>
+<<1164971325 ^ 210.212.45.144:57697 login.php atst status 2>>
+<<1164971330 ^ 210.212.45.144:58491 authenticate.php disp 1>>
+<<1164971510 ^ 210.212.45.144:60984 authenticate.php disp 2>>
+<<1164971542 ^ 210.212.45.144:38575 authenticate.php disp 3>>
+<<1164971572 ^ 210.212.45.144:43587 authenticate.php succ>>
+<<1164971870 ^ 203.129.208.203:37728 % chandra7 adminlogout.php lout>>
+<<1165212263 ^ 210.212.45.144:39488 login.php atst status 2>>
+<<1165212266 ^ 210.212.45.144:39571 authenticate.php disp 2>>
+<<1165212302 ^ 210.212.45.144:40487 authenticate.php disp 1>>
+<<1165212338 ^ 210.212.45.144:41519 authenticate.php disp 3>>
+<<1165212356 ^ 210.212.45.144:42075 authenticate.php succ>>
+<<1165318299 ^ 210.212.45.144:52612 login.php atst status 2>>
+<<1165318303 ^ 210.212.45.144:52646 authenticate.php disp 1>>
+<<1165318341 ^ 210.212.45.144:53262 authenticate.php disp 3>>
+<<1165318365 ^ 210.212.45.144:53715 authenticate.php disp 2>>
+<<1165318384 ^ 210.212.45.144:54044 authenticate.php succ>>
+<<1165318435 ^ 210.212.45.144:54570 % chandra7 adminlogout.php lout>>
+<<1165569676 ^ 210.212.45.144:33985 login.php atst status 2>>
+<<1165569681 ^ 210.212.45.144:34034 authenticate.php disp 2>>
+<<1165569707 ^ 210.212.45.144:34429 authenticate.php disp 1>>
+<<1165569741 ^ 210.212.45.144:35010 authenticate.php disp 3>>
+<<1165569778 ^ 210.212.45.144:35611 authenticate.php succ>>
+<<1165569850 ^ 210.212.45.144:36426 % chandra7 adminlogout.php lout>>
+<<1165634907 ^ 210.212.45.144:51925 login.php atst status 2>>
+<<1165634910 ^ 210.212.45.144:51934 authenticate.php disp 1>>
+<<1165634942 ^ 203.129.208.203:52205 authenticate.php disp 2>>
+<<1165634997 ^ 203.129.208.203:52611 authenticate.php disp 3>>
+<<1165635027 ^ 203.129.208.203:52896 authenticate.php fail missed 1 extra 0>>
+<<1165635039 ^ 203.129.208.203:52924 % chandra7 adminlogout.php lout>>
+<<1165635058 ^ 203.129.208.203:52963 login.php atst status 2>>
+<<1165635060 ^ 203.129.208.203:52972 authenticate.php disp 1>>
+<<1165635087 ^ 203.129.208.203:53265 authenticate.php disp 2>>
+<<1165635104 ^ 203.129.208.203:53407 authenticate.php disp 3>>
+<<1165635119 ^ 203.129.208.203:53499 authenticate.php succ>>
+<<1165635145 ^ 203.129.208.203:53758 % chandra7 adminlogout.php lout>>
+<<1165650511 ^ 210.212.45.144:33789 login.php atst status 2>>
+<<1165650514 ^ 210.212.45.144:33846 authenticate.php disp 3>>
+<<1165650540 ^ 210.212.45.144:34211 authenticate.php disp 1>>
+<<1165650567 ^ 210.212.45.144:34603 authenticate.php disp 2>>
+<<1165650589 ^ 210.212.45.144:34801 authenticate.php fail missed 1 extra 0>>
+<<1165650601 ^ 210.212.45.144:34882 % chandra7 adminlogout.php lout>>
+<<1165650735 ^ 210.212.45.144:35515 login.php atst status 2>>
+<<1165650737 ^ 210.212.45.144:35525 authenticate.php disp 1>>
+<<1165650778 ^ 210.212.45.144:36128 authenticate.php disp 3>>
+<<1165650807 ^ 210.212.45.144:36467 authenticate.php disp 2>>
+<<1165650835 ^ 210.212.45.144:36684 authenticate.php succ>>
+<<1165650890 ^ 210.212.45.144:36958 % chandra7 adminlogout.php lout>>
