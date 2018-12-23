@@ -1,0 +1,8 @@
+version: '3'
+services:
+  website:
+    image: piyush82/piyush-harsh.info:latest
+    expose:
+      - 80
+    ports:
+      - 8080:80
