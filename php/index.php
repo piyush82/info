@@ -7,7 +7,7 @@
 	A:active {text-decoration: none}
 	A:hover {text-decoration: underline; color: #FFFFFF;}
 </style>
-<link rel="icon" type="image/png" href="http://www.cons.cise.ufl.edu/favicon.png">
+<link rel="icon" type="image/png" href="https://www.cons.cise.ufl.edu/favicon.png">
 <link rel="stylesheet" type="text/css" media="screen,print" href="style.css">
 <script type="text/javascript">
 <!--
